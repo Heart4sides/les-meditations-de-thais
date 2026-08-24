@@ -3,37 +3,16 @@
 ---
 
 
-| Seduction Style                                               | Love Language                                                                              |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Charismatic\|Charismatic]] | [[CARDS/Gift\|Gift]], [[CARDS/Depth Psychology Theory/Moral Support\|Moral Support]] |
-
-{ .block-language-dataview}
-| Temple                                  | Attitude                                          | Sense                             |
-| --------------------------------------- | ------------------------------------------------- | --------------------------------- |
-| [[CARDS/Octagram/Soul Temple\|Soul]] | [[CARDS/Depth Psychology Theory/Child\|Child]] | [[CARDS/Intuition\|Intuition]] |
-
-{ .block-language-dataview}
-
-| Suit                                              | Math Operation                        | Season                                              |
-| ------------------------------------------------- | ------------------------------------- | --------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Coins\|Coins]] | [[Multiplication\|Multiplication]] | [[CARDS/Depth Psychology Theory/Spring\|Spring]] |
-
-{ .block-language-dataview}
-
-|    | Category                                                                              |                                                                   |
-| -- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 🙏 | [[ATLAS/4 Sides/Temple\|Temple]]                                                   | [[CARDS/Octagram/Soul Temple\|Soul Temple]]                    |
-| 🎭 | [[ATLAS/Attitude\|Attitude]]                                                       | [[CARDS/Members/Inferior\|Inferior]]                           |
-| ❤️ | [[ATLAS/Love Language\|Love Language]]                                             | [[CARDS/Depth Psychology Theory/Moral Support\|Moral Support]] |
-| ❤️ | [[ATLAS/Love Language\|Love Language]]                                             | [[CARDS/Gift\|Gift]]                                           |
-| 📆 | [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | [[CARDS/Depth Psychology Theory/Spring\|Spring]]               |
-| 🃏 | [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | [[CARDS/Depth Psychology Theory/Coins\|Coins]]                 |
-| 🦚 | [[CARDS/Seduction Style\|Seduction Style]]                                         | [[CARDS/Depth Psychology Theory/Charismatic\|Charismatic]]     |
-| 🧠 | [[Cognitive Sense\|Cognitive Sense]]                                               | [[CARDS/Intuition\|Intuition]]                                 |
-| 🟰 | [[Mathematical Operation\|Mathematical Operation]]                                 | [[Multiplication\|Multiplication]]                             |
-| \- | [[SJ SP NP NJ\|SJ SP NP NJ]]                                                          | [[CARDS/Depth Psychology Theory/NJ\|NJ]]                       |
-| \- | [[Person\|Person]]                                                                 | [[1. Ames/Peter Pan\|Peter Pan]]                               |
-| \- | [[Person\|Person]]                                                                 | [[1. Ames/Leonidas\|Leonidas]]                                 |
+|    | Category                                                                              |        |                                                                                            |
+| -- | ------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
+| 🎭 | [[ATLAS/Attitude\|Attitude]]                                                       | 🧒     | [[CARDS/Depth Psychology Theory/Child\|Child]]                                          |
+| 🧠 | [[Cognitive Sense\|Cognitive Sense]]                                               | 🧲     | [[CARDS/Intuition\|Intuition]]                                                          |
+| ❤️ | [[ATLAS/Love Language\|Love Language]]                                             | 🫂, 🎁 | [[CARDS/Depth Psychology Theory/Moral Support\|Moral Support]], [[CARDS/Gift\|Gift]] |
+| 🟰 | [[Mathematical Operation\|Mathematical Operation]]                                 | ✖️     | [[Multiplication\|Multiplication]]                                                      |
+| 🃏 | [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 💰     | [[CARDS/Depth Psychology Theory/Coins\|Coins]]                                          |
+| 📆 | [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | 🌱     | [[CARDS/Depth Psychology Theory/Spring\|Spring]]                                        |
+| 🦚 | [[CARDS/Seduction Style\|Seduction Style]]                                         | 😎     | [[CARDS/Depth Psychology Theory/Charismatic\|Charismatic]]                              |
+| 🙏 | [[ATLAS/4 Sides/Temple\|Temple]]                                                   | ☀️     | [[CARDS/Octagram/Soul Temple\|Soul]]                                                    |
 
 { .block-language-dataview}
 
