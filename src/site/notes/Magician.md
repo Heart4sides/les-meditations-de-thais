@@ -1,5 +1,5 @@
 ---
-{"Category":["[[King, Warrior, Magician, Lover]]"],"Sense":"[[Thinking]]","Temple":"[[Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[Leader]]","language":"fr","dg-publish":true,"permalink":"/magician/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[King, Warrior, Magician, Lover]]"],"Sense":"[[CARDS/Thinking]]","Temple":"[[CARDS/Depth Psychology Theory/Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[CARDS/Leader]]","language":"fr"}}
+{"Category":["[[King, Warrior, Magician, Lover]]"],"Sense":"[[Thinking]]","Temple":"[[Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[Leader]]","language":"fr","dg-publish":true,"Emoji":"🧙","permalink":"/magician/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[King, Warrior, Magician, Lover]]"],"Sense":"[[CARDS/Thinking]]","Temple":"[[CARDS/Depth Psychology Theory/Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[CARDS/Leader]]","language":"fr","Emoji":"🧙"}}
 ---
 
 
@@ -35,5 +35,14 @@
 | [[Shiva\|Shiva]]                       | \-                                                                                          |
 | [[1. Ames/Stephen King\|Stephen King]] | With horror, initiates men to the idea that in some situations they have to save themselves |
 | [[Umberto Eco\|Umberto Eco]]           | \-                                                                                          |
+
+{ .block-language-dataview}
+
+| File                                                          |
+| ------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Cult Leader\|Cult Leader]] |
+| [[1. Ames/Psychologist\|Psychologist]]                     |
+| [[Salesman\|Salesman]]                                     |
+| [[Shaman\|Shaman]]                                         |
 
 { .block-language-dataview}
