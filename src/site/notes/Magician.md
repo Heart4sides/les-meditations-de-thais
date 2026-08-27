@@ -1,5 +1,5 @@
 ---
-{"Category":["[[King, Warrior, Magician, Lover]]"],"Sense":"[[Thinking]]","Temple":"[[Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[Leader]]","language":"fr","dg-publish":true,"Emoji":"🧙","permalink":"/magician/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[King, Warrior, Magician, Lover]]"],"Sense":"[[CARDS/Thinking]]","Temple":"[[CARDS/Depth Psychology Theory/Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[CARDS/Leader]]","language":"fr","Emoji":"🧙"}}
+{"Category":["[[Masculine Archetypes]]"],"Sense":"[[Thinking]]","Temple":"[[Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[Leader]]","language":"fr","dg-publish":true,"Emoji":"🧙","Attitude":["[[Parent]]"],"permalink":"/magician/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Masculine Archetypes]]"],"Sense":"[[CARDS/Thinking]]","Temple":"[[CARDS/Depth Psychology Theory/Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[CARDS/Leader]]","language":"fr","Emoji":"🧙","Attitude":["[[CARDS/Parent]]"]}}
 ---
 
 
