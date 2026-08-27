@@ -1,0 +1,18 @@
+---
+{"aliases":null,"Contenant":["Journal of Biological Chemistry"],"author":["[[Walter S. McClellan, Eugene F. Du Bois]]"],"type":["[[]]"],"pages":"651–668","cover_url":null,"status":"unread / reading / done","ref":"[CLINICAL CALORIMETRY: XLV. PROLONGED MEAT DIETS WITH A STUDY OF KIDNEY FUNCTION AND KETOSIS](https://www.sciencedirect.com/science/article/pii/S0021925818768427)","Shortref":null,"conflict_of_interest":null,"funding":null,"medium":"[[research article]]","method":null,"diet":"[[Carnivore Diet]]","Topic":["[[Ketosis]]","[[Food]]","[[Kidney]]"],"Summary":["Two men lived on an exclusive meat diet for 1 year ; no vitamin deficiency ; no kidney damage ; no other ill effects other than diarrhea when >40% protein"],"dg-publish":true,"permalink":"/sources/research-papers/study-of-prolonged-meat-diets/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"Contenant":["Journal of Biological Chemistry"],"author":["[[Walter S. McClellan, Eugene F. Du Bois]]"],"type":["[[]]"],"pages":"651–668","cover_url":null,"status":"unread / reading / done","ref":"[CLINICAL CALORIMETRY: XLV. PROLONGED MEAT DIETS WITH A STUDY OF KIDNEY FUNCTION AND KETOSIS](https://www.sciencedirect.com/science/article/pii/S0021925818768427)","Shortref":null,"conflict_of_interest":null,"funding":null,"medium":"[[CARDS/research article]]","method":null,"diet":"[[1. Ames/Carnivore Diet]]","Topic":["[[Ketosis]]","[[Food]]","[[CARDS/Kidney]]"],"Summary":["Two men lived on an exclusive meat diet for 1 year ; no vitamin deficiency ; no kidney damage ; no other ill effects other than diarrhea when >40% protein"]}}
+---
+
+🔗 [CLINICAL CALORIMETRY: XLV. PROLONGED MEAT DIETS WITH A STUDY OF KIDNEY FUNCTION AND KETOSIS](https://www.sciencedirect.com/science/article/pii/S0021925818768427)
+
+> Summary and Conclusions
+> 1. Two men lived on an exclusive meat diet for 1 year and a third man for 10 days. The relative amounts of lean and fat, meat ingested were left to the instinctive choice of the individuals. 
+> 2. The protein content varied from 100 to 140 gm., the fat from 200 to 300 gm., the carbohydrate, derived entirely from the meat, from 7 to 12 gm., and the fuel value from 2000 to 3100 calories. 
+> 3. At the end of the year, the subjects were mentally alert, physically active, and showed no specific physical changes in any system of the body.
+> 4. During the 1st week, all three men lost weight, due to a shift in the water content of the body while adjusting itself to the low carbohydrate diet. Thereafter, their weights remained practically constant. 
+> 5. In the prolonged test, the blood pressure of one man remained constant; the systolic pressure of the other decreased 20 mm. and the diastolic pressure remained uniform. 
+> 6. The control of the bowels was not disturbed while the subjects were on prescribed meat diet. In one instance, when the proportion of protein calories in the diet exceeded 40 per cent, a diarrhea developed. 
+> 7. Vitamin deficiencies did not appear. 
+> 8. The total acidity of the urine during the meat diet was increased to 2 or 3 times that of the acidity on mixed diets and acetonuria was present throughout the periods of exclusive meat. 
+> 9. Urine examinations, determinations of the nitrogenous constituents of the blood, and kidney function tests revealed no evidence of kidney damage. 
+> 10. While on the meat diet, the men metabolized foodstuffs with FA: G ratios between 1.9 and 3.0 and excreted from 0.4 to 7.2 gm. of acetone bodies per day. 
+> 11. In these trained subjects, the clinical observations and laboratory studies gave no evidence that any ill effects had occurred from the prolonged use of the exclusive meat diet.

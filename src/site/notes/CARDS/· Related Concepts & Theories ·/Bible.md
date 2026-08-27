@@ -1,5 +1,5 @@
 ---
-{"Category":["[[CARDS/Words & Expressions/Book|Book]]"],"language":"fr","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/bible/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[CARDS/Words & Expressions/Book|Book]]"],"language":"fr"}}
+{"Category":["[[Book|Books]]"],"language":"fr","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/bible/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[CARDS/Book|Books]]"],"language":"fr"}}
 ---
 
 

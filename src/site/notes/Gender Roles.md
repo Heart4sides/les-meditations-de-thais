@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gender-roles/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"Topic":["[[Gender]]"],"Category":["[[Analytical Psychology]]"],"permalink":"/gender-roles/","dgPassFrontmatter":true,"dg-note-properties":{"Topic":["[[CARDS/Depth Psychology Theory/Gender]]"],"Category":["[[CARDS/Depth Psychology Theory/Analytical Psychology]]"]}}
 ---
 
 - Women need security and safety from others more than men do, and men are able to protect more than women are 

@@ -1,5 +1,5 @@
 ---
-{"language":"fr","aliases":["Male Archetypes"],"dg-publish":true,"permalink":"/masculine-archetypes/","dgPassFrontmatter":true,"dg-note-properties":{"language":"fr","aliases":["Male Archetypes"]}}
+{"language":"fr","aliases":["Male Archetypes"],"dg-publish":true,"Category":["[[Gender Archetypes]]"],"permalink":"/masculine-archetypes/","dgPassFrontmatter":true,"dg-note-properties":{"language":"fr","aliases":["Male Archetypes"],"Category":["[[Gender Archetypes]]"]}}
 ---
 
 
