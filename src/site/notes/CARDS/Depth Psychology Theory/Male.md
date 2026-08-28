@@ -1,0 +1,70 @@
+---
+{"Focus":"[[SF]]","Alternative":"[[CARDS/Depth Psychology Theory/Female]]","language":"fr","dg-publish":true,"permalink":"/cards/depth-psychology-theory/male/","dgPassFrontmatter":true,"dg-note-properties":{"Focus":"[[CARDS/SF]]","Alternative":"[[CARDS/Depth Psychology Theory/Female]]","language":"fr"}}
+---
+
+
+- Al Pacino
+- Alex Hormozi
+- Andrew Tate
+- Andrey Korikov
+- Arnold Schwarzenegger
+- Bill Gates
+- Bruce Lee
+- Bryan Kohberger
+- Charlie Kirk
+- Christian Bale
+- Christopher Hitchens
+- Christopher Nolan
+- Chuck Palahniuk
+- Cillian Murphy
+- Conor McGregor
+- CS Joseph
+- Elon Musk
+- Eminem
+- Felix (Pewdiepie)
+- Gabe Newell
+- Gary Vaynerchuk
+- George Carlin
+- George RR Martin
+- Gordon Ramsay
+- Jack Black
+- Jeffrey Epstein
+- Jesus
+- Jim Carrey
+- Joe Rogan
+- Jordan Belfort
+- Jordan Peterson
+- Kanye West
+- Keanu Reeves
+- Kurt Cobain
+- Leonardo DiCaprio
+- Linus Torvalds
+- Luka Doncic
+- Magnus Carlsen
+- Mark Zuckerberg
+- Markiplier
+- Michael Jackson
+- Michael Jordan
+- Mike Tyson
+- Mr Beast
+- Myron Gaines
+- Nick Fuentes
+- Pedro Pascal
+- Peter Thiel
+- Pierce Brosnan
+- Post Malone
+- Professor Jiang Xueqin
+- Quentin Tarantino
+- Richard Stallman
+- Stephen King
+- Steve Jobs
+- Tiger Woods
+- Timothy Chalamet
+- Tom Cruise
+- Tom Hardy
+- Tristan Tate
+- Tucker Carlson
+- Tupac Shakur
+- Tyler Joseph
+
+{ .block-language-dataview}
