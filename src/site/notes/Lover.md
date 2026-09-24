@@ -3,7 +3,6 @@
 ---
 
 
-# Moore
 | File                | Active Shadow                 | Passive Shadow                    |
 | ------------------- | ----------------------------- | --------------------------------- |
 | [[Lover\|Lover]] | [[The Addict\|The Addict]] | [[The Impotent\|The Impotent]] |
@@ -21,9 +20,7 @@
 
 { .block-language-dataview}
 
-# Typed
-## Real Examples
-| Name                                                | Activity                                                                                                                                              |
+| Real                                                | Activity                                                                                                                                              |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[1. Ames/Anthony Bourdain\|Anthony Bourdain]]   | [[CARDS/Depth Psychology Theory/Cook\|Cook]], [[CARDS/Writer\|Writer]], [[Documentarian\|Documentarian]], [[1. Ames/Politician\|Politician]] |
 | [[1. Ames/Jeffrey Epstein\|Jeffrey Epstein]]     | [[CARDS/Depth Psychology Theory/Businessman\|Businessman]]                                                                                         |
@@ -33,8 +30,8 @@
 | [[Robert Frost\|Robert Frost]]                   | [[Poet\|Poet]]                                                                                                                                     |
 
 { .block-language-dataview}
-## Fictional Examples
-| Name                                              | Production                                                                    | Activity                                       | Why |
+
+| Fictional                                         | Production                                                                    | Activity                                       | Why |
 | ------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------- | --- |
 | [[Aladdin\|Aladdin]]                           | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | [[Robber\|Robber]]                             | \-  |
 | [[Bear (Obsession)\|Bear (Obsession)]]         | [[Obsession (movie)\|Obsession (movie)]]                                   | \-                                             | \-  |
@@ -51,8 +48,8 @@
 | [[V (V for Vendetta)\|V (V for Vendetta)]]     | [[V for Vendetta\|V for Vendetta]]                                         | [[0. Change Properties/Activist\|Activist]] | \-  |
 
 { .block-language-dataview}
-## Deities
-| Name                    | Mythology                     | Why |
+
+| Deities                 | Mythology                     | Why |
 | ----------------------- | ----------------------------- | --- |
 | [[Krishna\|Krishna]] | [[Hindu Mythology\|Hindu]] | \-  |
 | [[Shiva\|Shiva]]     | [[Hindu Mythology\|Hindu]] | \-  |
