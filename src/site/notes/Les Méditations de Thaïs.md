@@ -3,23 +3,17 @@
 ---
 
 
-| Psychology                                                        |
-| ----------------------------------------------------------------- |
-| [[SOURCES/Conference_Masculinity\|Conference_Masculinity]]     |
-| [[Famous People typed by Thaïs\|Famous People typed by Thaïs]] |
-| [[Gender Archetypes\|Gender Archetypes]]                       |
-| [[Gender Roles\|Gender Roles]]                                 |
-| [[SOURCES/Video/On Pessimism\|On Pessimism]]                   |
+| Psychology                                                    |
+| ------------------------------------------------------------- |
+| [[SOURCES/Conference_Masculinity\|Conference_Masculinity]] |
+| [[Gender Archetypes\|Gender Archetypes]]                   |
+| [[Gender Roles\|Gender Roles]]                             |
+| [[SOURCES/Video/On Pessimism\|On Pessimism]]               |
 
 { .block-language-dataview}
 
-| [[1. Ames/Carnivore Diet\|Diet]]                                                                                                                                                            | Author                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [[SOURCES/Video/Are Vegetable Oils the primary driver of Obesity, Diabetes and Chronic Disease\|Are Vegetable Oils the primary driver of Obesity, Diabetes and Chronic Disease]] | [[Dr. Chris Knobbe\|Dr. Chris Knobbe]]                                             |
-| [[SOURCES/Video/Global Anti-Meat Conspiracy\|Global Anti-Meat Conspiracy]]                                                                                                       | [[Dr. Jay Wortman\|Dr. Jay Wortman]]                                               |
-| [[SOURCES/Video/Logical Fallacies of a Vegan Diet\|Logical Fallacies of a Vegan Diet]]                                                                                           | [[1. Ames/Dr. Paul Mason\|Dr. Paul Mason]]                                      |
-| [[SOURCES/Research Papers/Study of Prolonged meat diets\|Study of Prolonged meat diets]]                                                                                         | [[Walter S. McClellan, Eugene F. Du Bois\|Walter S. McClellan, Eugene F. Du Bois]] |
-| [[SOURCES/Video/Why We Are Carnivores\|Why We Are Carnivores]]                                                                                                                   | [[1. Ames/Anthony Chaffee MD\|Anthony Chaffee MD]]                              |
+| [[1. Ames/Carnivore Diet\|Diet]] | Author |
+| ------------------------ | ------ |
 
 { .block-language-dataview}
 

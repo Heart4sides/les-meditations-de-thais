@@ -34,6 +34,7 @@
 - Joe Rogan
 - Jordan Belfort
 - Jordan Peterson
+- Julian Assange
 - Kanye West
 - Keanu Reeves
 - Kurt Cobain
