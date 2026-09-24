@@ -6,12 +6,13 @@ The Tyrant is the [[Active Shadows of Male Archetypes\|Active Shadow]] of the [[
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 
-| Real | Activity | Why |
-| ---- | -------- | --- |
-
+> [!example]- Famous People
+>  | Real | Activity | Why |
+> | ---- | -------- | --- |
+> 
 { .block-language-dataview}
 
-> [!tip]+
+> [!example]- Fictional Characters
 >  | Fictional                                           | Production                                                  | Activity                  | Why |
 > | --------------------------------------------------- | ----------------------------------------------------------- | ------------------------- | --- |
 > | [[Adam Sutler\|Adam Sutler]]                     | [[V for Vendetta\|V for Vendetta]]                       | \-                        | \-  |
@@ -24,8 +25,9 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-| Deities                 | Mythology                     | Why |
-| ----------------------- | ----------------------------- | --- |
-| [[Chronos\|Chronos]] | [[Greek Mythology\|Greek]] | \-  |
-
+> [!example]- Deities
+>  | Deities                 | Mythology                     | Why |
+> | ----------------------- | ----------------------------- | --- |
+> | [[Chronos\|Chronos]] | [[Greek Mythology\|Greek]] | \-  |
+> 
 { .block-language-dataview}
