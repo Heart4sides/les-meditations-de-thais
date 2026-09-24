@@ -3,42 +3,16 @@
 ---
 
 
-| Psychology                                                    |
-| ------------------------------------------------------------- |
-| [[SOURCES/Conference_Masculinity\|Conference_Masculinity]] |
-| [[Gender Archetypes\|Gender Archetypes]]                   |
-| [[Gender Roles\|Gender Roles]]                             |
-| [[SOURCES/Video/On Pessimism\|On Pessimism]]               |
+| Psychology                                  |
+| ------------------------------------------- |
+| [[Gender Archetypes\|Gender Archetypes]] |
 
 { .block-language-dataview}
 
-| [[1. Ames/Carnivore Diet\|Diet]] | Author |
-| ------------------------ | ------ |
-
-{ .block-language-dataview}
-
-| Media                                                     | Author                                                  |
-| --------------------------------------------------------- | ------------------------------------------------------- |
-| [[CARDS/· Related Concepts & Theories ·/Bible\|Bible]] | \-                                                      |
-| [[4. Corps/Civil Disobedience\|Civil Disobedience]]    | [[1. Ames/Henry David Thoreau\|Henry David Thoreau]] |
-
-{ .block-language-dataview}
-
-| Politics                                                                                                                                  | Author                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [[CARDS/Words & Expressions/Il faut mettre les médias hors de portée des riches\|Il faut mettre les médias hors de portée des riches]] | [[1. Ames/Etienne Chouard\|Etienne Chouard]]                   |
-| [[CARDS/LiteratureNotes/Les Cons ça ose Tout\|Les Cons ça ose Tout]]                                                                   | [[CARDS/Words & Expressions/Philippe Pascot\|Philippe Pascot]] |
-
-{ .block-language-dataview}
-
-| Fiction                 |
-| ----------------------- |
-| [[Watched\|Watched]] |
-
-{ .block-language-dataview}
-
-| Playlists                                                                             | Topic                                                            |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [Emergence Pop](https://youtube.com/playlist?list=PL9-35LpNPnHO8h74qmUP6wjnH5Xr-c68C) | [[CARDS/Society\|Society]], [[CARDS/Education\|Education]] |
+| Lists                                          |
+| ---------------------------------------------- |
+| 📚 [[Reading List\|Reading List]]           |
+| 🎬 [[Watch List\|Watch List]]               |
+| ▶️ [[Youtube Playlists\|Youtube Playlists]] |
 
 { .block-language-dataview}

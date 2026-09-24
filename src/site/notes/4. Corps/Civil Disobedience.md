@@ -1,5 +1,5 @@
 ---
-{"Author":"[[Henry David Thoreau]]","pages":47,"tags":["book","to/recommend"],"Fr":"La Désobéissance Civile","aliases":["La Désobéissance Civile"],"Temple":"[[Soul Temple|Soul]]","iTemple":"[[Soul Temple|Soul]]","Category":["[[Book|Books]]"],"language":"fr","dg-publish":true,"permalink":"/4-corps/civil-disobedience/","dgPassFrontmatter":true,"dg-note-properties":{"Author":"[[1. Ames/Henry David Thoreau]]","pages":47,"tags":["book","to/recommend"],"Fr":"La Désobéissance Civile","aliases":["La Désobéissance Civile"],"Temple":"[[CARDS/Octagram/Soul Temple|Soul]]","iTemple":"[[CARDS/Octagram/Soul Temple|Soul]]","Category":["[[CARDS/Book|Books]]"],"language":"fr"}}
+{"Author":"[[Henry David Thoreau]]","pages":47,"tags":["book","to/recommend","hasread"],"Fr":"La Désobéissance Civile","aliases":["La Désobéissance Civile"],"Temple":"[[Soul Temple|Soul]]","iTemple":"[[Soul Temple|Soul]]","Category":["[[Book|Books]]"],"language":"fr","dg-publish":true,"permalink":"/4-corps/civil-disobedience/","dgPassFrontmatter":true,"dg-note-properties":{"Author":"[[1. Ames/Henry David Thoreau]]","pages":47,"tags":["book","to/recommend","hasread"],"Fr":"La Désobéissance Civile","aliases":["La Désobéissance Civile"],"Temple":"[[CARDS/Octagram/Soul Temple|Soul]]","iTemple":"[[CARDS/Octagram/Soul Temple|Soul]]","Category":["[[CARDS/Book|Books]]"],"language":"fr"}}
 ---
 
 
