@@ -3,9 +3,9 @@
 ---
 
 
-| File                | Active Shadow                 | Passive Shadow                    |
-| ------------------- | ----------------------------- | --------------------------------- |
-| [[Lover\|Lover]] | [[The Addict\|The Addict]] | [[The Impotent\|The Impotent]] |
+| Category                                          | Active Shadow                 | Passive Shadow                    |
+| ------------------------------------------------- | ----------------------------- | --------------------------------- |
+| [[Masculine Archetypes\|Masculine Archetypes]] | [[The Addict\|The Addict]] | [[The Impotent\|The Impotent]] |
 
 { .block-language-dataview}
 | Category                                                                                 |                                                                                                           |
@@ -20,32 +20,32 @@
 
 { .block-language-dataview}
 
-| Real                                                | Activity                                                                                                                                              |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[1. Ames/Anthony Bourdain\|Anthony Bourdain]]   | [[CARDS/Depth Psychology Theory/Cook\|Cook]], [[CARDS/Writer\|Writer]], [[Documentarian\|Documentarian]], [[1. Ames/Politician\|Politician]] |
-| [[1. Ames/Jeffrey Epstein\|Jeffrey Epstein]]     | [[CARDS/Depth Psychology Theory/Businessman\|Businessman]]                                                                                         |
-| [[1. Ames/John Lennon\|John Lennon]]             | [[1. Ames/Singer\|Singer]], [[CARDS/Songwriter\|Songwriter]], [[1. Ames/Musician\|Musician]], [[CARDS/Writer\|Writer]]                    |
-| [[King David\|King David]]                       | [[4. Corps/Ruler\|Ruler]]                                                                                                                          |
-| [[1. Ames/Quentin Tarantino\|Quentin Tarantino]] | [[1. Ames/Moviemaker\|Moviemaker]], [[0. Change Properties/Actor\|Actor]], [[CARDS/Writer\|Writer]]                                          |
-| [[Robert Frost\|Robert Frost]]                   | [[Poet\|Poet]]                                                                                                                                     |
+| Real                                                | Activity                                                                                                                                              | Why                                           |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [[1. Ames/Anthony Bourdain\|Anthony Bourdain]]   | [[CARDS/Depth Psychology Theory/Cook\|Cook]], [[CARDS/Writer\|Writer]], [[Documentarian\|Documentarian]], [[1. Ames/Politician\|Politician]] | \-                                            |
+| [[1. Ames/Jeffrey Epstein\|Jeffrey Epstein]]     | [[CARDS/Depth Psychology Theory/Businessman\|Businessman]]                                                                                         | \-                                            |
+| [[1. Ames/John Lennon\|John Lennon]]             | [[1. Ames/Singer\|Singer]], [[CARDS/Songwriter\|Songwriter]], [[1. Ames/Musician\|Musician]], [[CARDS/Writer\|Writer]]                    | \-                                            |
+| [[King David\|King David]]                       | [[4. Corps/Ruler\|Ruler]]                                                                                                                          | \-                                            |
+| [[1. Ames/Quentin Tarantino\|Quentin Tarantino]] | [[1. Ames/Moviemaker\|Moviemaker]], [[0. Change Properties/Actor\|Actor]], [[CARDS/Writer\|Writer]]                                          | His films express his appreciation for cinema |
+| [[Robert Frost\|Robert Frost]]                   | [[Poet\|Poet]]                                                                                                                                     | \-                                            |
 
 { .block-language-dataview}
 
-| Fictional                                         | Production                                                                    | Activity                                       | Why |
-| ------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------- | --- |
-| [[Aladdin\|Aladdin]]                           | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | [[Robber\|Robber]]                             | \-  |
-| [[Bear (Obsession)\|Bear (Obsession)]]         | [[Obsession (movie)\|Obsession (movie)]]                                   | \-                                             | \-  |
-| [[4. Corps/Elves\|Elves]]                      | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]] | \-                                             | \-  |
-| [[Frank Wheeler\|Frank Wheeler]]               | [[Revolutionary Road\|Revolutionary Road]]                                 | [[Salesman\|Salesman]]                      | \-  |
-| [[Gabriel Sarda\|Gabriel Sarda]]               | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                                             | \-  |
-| [[Genie\|Genie]]                               | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                                             | \-  |
-| [[1. Ames/Jaime Lannister\|Jaime Lannister]]   | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                                             | \-  |
-| [[Joe Gideon\|Joe Gideon]]                     | [[All That Jazz\|All That Jazz]]                                           | \-                                             | \-  |
-| [[Lumiere\|Lumiere]]                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                   | \-                                             | \-  |
-| [[1. Ames/Peter Pan\|Peter Pan]]               | [[Peter Pan (1953)\|Peter Pan (1953)]]                                     | \-                                             | \-  |
-| [[The Mask (Character)\|The Mask (Character)]] | [[The Mask\|The Mask]]                                                     | \-                                             | \-  |
-| [[The Sultan\|The Sultan]]                     | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                                             | \-  |
-| [[V (V for Vendetta)\|V (V for Vendetta)]]     | [[V for Vendetta\|V for Vendetta]]                                         | [[0. Change Properties/Activist\|Activist]] | \-  |
+| Fictional                                         | Production                                                                    | Activity                                       | Why                   |
+| ------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------- | --------------------- |
+| [[Aladdin\|Aladdin]]                           | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | [[Robber\|Robber]]                             | \-                    |
+| [[Bear (Obsession)\|Bear (Obsession)]]         | [[Obsession (movie)\|Obsession (movie)]]                                   | \-                                             | \-                    |
+| [[4. Corps/Elves\|Elves]]                      | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]] | \-                                             | \-                    |
+| [[Frank Wheeler\|Frank Wheeler]]               | [[Revolutionary Road\|Revolutionary Road]]                                 | [[Salesman\|Salesman]]                      | "I wanna feel things" |
+| [[Gabriel Sarda\|Gabriel Sarda]]               | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                                             | \-                    |
+| [[Genie\|Genie]]                               | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                                             | \-                    |
+| [[1. Ames/Jaime Lannister\|Jaime Lannister]]   | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                                             | \-                    |
+| [[Joe Gideon\|Joe Gideon]]                     | [[All That Jazz\|All That Jazz]]                                           | \-                                             | \-                    |
+| [[Lumiere\|Lumiere]]                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                   | \-                                             | \-                    |
+| [[1. Ames/Peter Pan\|Peter Pan]]               | [[Peter Pan (1953)\|Peter Pan (1953)]]                                     | \-                                             | \-                    |
+| [[The Mask (Character)\|The Mask (Character)]] | [[The Mask\|The Mask]]                                                     | \-                                             | \-                    |
+| [[The Sultan\|The Sultan]]                     | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                                             | \-                    |
+| [[V (V for Vendetta)\|V (V for Vendetta)]]     | [[V for Vendetta\|V for Vendetta]]                                         | [[0. Change Properties/Activist\|Activist]] | \-                    |
 
 { .block-language-dataview}
 

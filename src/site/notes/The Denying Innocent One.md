@@ -7,14 +7,14 @@ It's the archetype that claims ignorance to avoid responsibility.
 These people commonly act as \-... 
 
 
-## Real Examples
-| Name                                | Activity                    |
-| ----------------------------------- | --------------------------- |
-| [[1. Ames/Lovecraft\|Lovecraft]] | [[CARDS/Writer\|Writer]] |
+
+| Real                                | Activity                    | Why                                                                                                                                                                                        |
+| ----------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[1. Ames/Lovecraft\|Lovecraft]] | [[CARDS/Writer\|Writer]] | Lovecraft’s tales constantly warn that human sanity cannot handle cosmic truths, making survival dependent on remaining ignorant of the eldritch horrors lurking just beneath our reality. |
 
 { .block-language-dataview}
-## Fictional Examples
-| Name                                              | Production                                                  | Activity                                                      | Why                                                                                                                                                                                                                                                                                                     |
+
+| Fictional                                         | Production                                                  | Activity                                                      | Why                                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[1. Ames/Albus Dumbledore\|Albus Dumbledore]] | [[2. Coeurs/Harry Potter\|Harry Potter]]                 | [[4. Corps/Ruler\|Ruler]], [[1. Ames/Teacher\|Teacher]] | frequently uses feigned ignorance or senility when dealing with the Ministry of Magic or suspicious characters.                                                                                                                                                                                         |
 | [[Captain Jack Sparrow\|Captain Jack Sparrow]] | [[Pirates of the Caribbean\|Pirates of the Caribbean]]   | [[3. Esprit/Grille des Types/Pirate\|Pirate]]              | consistently plays the part of a bumbling, drunken fool who has no idea what he is doing.                                                                                                                                                                                                               |
@@ -26,12 +26,11 @@ These people commonly act as \-...
 | [[1. Ames/Peter Griffin\|Peter Griffin]]       | [[CARDS/Depth Psychology Theory/Family Guy\|Family Guy]] | \-                                                            | consistently and aggressively fights to stay ignorant. Whenever faced with complex emotional realities, financial ruin, or the consequences of his actions, he actively chooses to retreat into a childlike state of denial, firmly believing that thinking too hard or knowing too much ruins his fun. |
 
 { .block-language-dataview}
-## Deities
-| Name                        | Mythology                     | Why                                                                                                                                                                                                                                                                                                                                                                      |
+
+| Deities                     | Mythology                     | Why                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Hermes\|Hermes]]       | [[Greek Mythology\|Greek]] | On the very first day of his life, Hermes stole Apollo’s sacred cattle. To pull it off, he forced the cattle to walk backward to ruin the tracks, creating forensic confusion. When confronted by a furious Apollo, the infant Hermes crawled back into his swaddling clothes and played the role of a helpless, clueless newborn who didn’t even know what a "cow" was. |
 | [[3. Esprit/Loki\|Loki]] | [[Odinic\|Odinic]]            | the master of orchestrating tragedies and using plausible deniability to escape blame.                                                                                                                                                                                                                                                                                   |
 | [[Zeus\|Zeus]]           | [[Greek Mythology\|Greek]] | he frequently uses willful blindness to shirk his moral responsibilities. Whenever his mortal paramours or children are hunted and tortured by his jealous wife, Hera, Zeus routinely removes himself from the situation or pretends not to notice.                                                                                                                      |
 
 { .block-language-dataview}
-
