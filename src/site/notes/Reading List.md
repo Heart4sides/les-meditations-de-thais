@@ -6,7 +6,7 @@
 
 | Have Read                                                     | Author                                                  |
 | ------------------------------------------------------------- | ------------------------------------------------------- |
-| [[4. Corps/Civil Disobedience\|Civil Disobedience]]        | [[1. Ames/Henry David Thoreau\|Henry David Thoreau]] |
+| [[Civil Disobedience\|Civil Disobedience]]                 | [[1. Ames/Henry David Thoreau\|Henry David Thoreau]] |
 | [[1. Ames/Psychologie des Foules\|Psychologie des Foules]] | [[Gustave Le Bon\|Gustave Le Bon]]                      |
 
 { .block-language-dataview}
