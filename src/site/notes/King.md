@@ -17,6 +17,7 @@
 | 🃏 [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 💰 [[CARDS/Depth Psychology Theory/Coins\|Coins]]                                              |
 | 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | 🌱 [[CARDS/Depth Psychology Theory/Spring\|Spring]]                                            |
 | 🦚 [[CARDS/Seduction Style\|Seduction Style]]                                         | 😎 [[CARDS/Depth Psychology Theory/Charismatic\|Charismatic]]                                  |
+| \- [[Templars\|Templars]]                                                             |  Extremely wealthy                                                                                |
 | 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | ☀️ [[CARDS/Octagram/Soul Temple\|Soul]]                                                        |
 
 { .block-language-dataview}
@@ -34,20 +35,33 @@
 
 { .block-language-dataview}
 
-| Fictional                               | Production                                                    | Activity                     | Why |
-| --------------------------------------- | ------------------------------------------------------------- | ---------------------------- | --- |
-| [[Hicham Janowski\|Hicham Janowski]] | [[Dix Pour Cent\|Dix Pour Cent]]                           | \-                           | \-  |
-| [[1. Ames/Leonidas\|Leonidas]]       | [[CARDS/Depth Psychology Theory/300\|300]]                 | [[4. Corps/Ruler\|Ruler]] | \-  |
-| [[Mr Wilford\|Mr Wilford]]           | [[4. Corps/Snowpiercer\|Snowpiercer]]                      | \-                           | \-  |
-| [[1. Ames/Peter Pan\|Peter Pan]]     | [[Peter Pan (1953)\|Peter Pan (1953)]]                     | \-                           | \-  |
-| [[1. Ames/Ray Kroc\|Ray Kroc]]       | [[CARDS/Depth Psychology Theory/The Founder\|The Founder]] | \-                           | \-  |
-| [[Silvermane\|Silvermane]]           | [[Spider Noir\|Spider Noir]]                               | \-                           | \-  |
-| [[Tom Scavo\|Tom Scavo]]             | [[Desperate Housewives\|Desperate Housewives]]             | \-                           | \-  |
-| [[1. Ames/Varys\|Varys]]             | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]   | \-                           | \-  |
+| Fictional                                           | Production                                                                    | Activity                     | Why                                                                 |
+| --------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------- |
+| [[Adam Sutler\|Adam Sutler]]                     | [[V for Vendetta\|V for Vendetta]]                                         | \-                           | Kills his people physically and spiritually, opposite of generative |
+| [[1. Ames/Benjamin Horne\|Benjamin Horne]]       | [[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]                             | \-                           | \-                                                                  |
+| [[1. Ames/Boromir\|Boromir]]                     | [[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]             | \-                           | \-                                                                  |
+| [[Darkness (Legend)\|Darkness (Legend)]]         | [[Legend (1985)\|Legend (1985)]]                                           | \-                           | \-                                                                  |
+| [[3. Esprit/Dwarves (LOTR)\|Dwarves (LOTR)]]     | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]] | \-                           | \-                                                                  |
+| [[Frank Wheeler\|Frank Wheeler]]                 | [[Revolutionary Road\|Revolutionary Road]]                                 | [[Salesman\|Salesman]]    | \-                                                                  |
+| [[1. Ames/Gaston\|Gaston]]                       | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                   | \-                           | \-                                                                  |
+| [[Hicham Janowski\|Hicham Janowski]]             | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                           | \-                                                                  |
+| [[1. Ames/Joffrey Baratheon\|Joffrey Baratheon]] | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
+| [[1. Ames/Leonidas\|Leonidas]]                   | [[CARDS/Depth Psychology Theory/300\|300]]                                 | [[4. Corps/Ruler\|Ruler]] | \-                                                                  |
+| [[Mr Wilford\|Mr Wilford]]                       | [[4. Corps/Snowpiercer\|Snowpiercer]]                                      | \-                           | \-                                                                  |
+| [[1. Ames/Peter Pan\|Peter Pan]]                 | [[Peter Pan (1953)\|Peter Pan (1953)]]                                     | \-                           | \-                                                                  |
+| [[1. Ames/Ray Kroc\|Ray Kroc]]                   | [[CARDS/Depth Psychology Theory/The Founder\|The Founder]]                 | \-                           | \-                                                                  |
+| [[Silvermane\|Silvermane]]                       | [[Spider Noir\|Spider Noir]]                                               | \-                           | \-                                                                  |
+| [[The Mad King\|The Mad King]]                   | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
+| [[The Sultan\|The Sultan]]                       | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                           | \-                                                                  |
+| [[1. Ames/Theoden\|Theoden]]                     | [[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]             | \-                           | \-                                                                  |
+| [[Tom Scavo\|Tom Scavo]]                         | [[Desperate Housewives\|Desperate Housewives]]                             | \-                           | \-                                                                  |
+| [[1. Ames/Tommen Baratheon\|Tommen Baratheon]]   | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
+| [[1. Ames/Varys\|Varys]]                         | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
 
 { .block-language-dataview}
 
-| Deities | Mythology | Why |
-| ------- | --------- | --- |
+| Deities                 | Mythology                     | Why |
+| ----------------------- | ----------------------------- | --- |
+| [[Chronos\|Chronos]] | [[Greek Mythology\|Greek]] | \-  |
 
 { .block-language-dataview}

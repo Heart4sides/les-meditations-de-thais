@@ -3,10 +3,10 @@
 ---
 
 
-| File                                              | Archetypes                                                                                   |
-| ------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| [[Feminine Archetypes\|Feminine Archetypes]]   | [[Maiden\|Maiden]], [[Consort\|Consort]], [[Mother\|Mother]], [[Matron\|Matron]] |
-| [[Masculine Archetypes\|Masculine Archetypes]] | [[King\|King]], [[Warrior\|Warrior]], [[Magician\|Magician]], [[Lover\|Lover]]   |
+| File                                              | Archetypes                                                                                         |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [[Feminine Archetypes\|Feminine Archetypes]]   | [[Maiden\|Maiden]], [[Consort\|Consort]], [[Mother\|Mother]], [[Matron\|Matron]]       |
+| [[Masculine Archetypes\|Masculine Archetypes]] | [[King\|King]], [[Warrior\|Warrior]], [[Magician\|Magician]], [[The Lover\|The Lover]] |
 
 { .block-language-dataview}
 

@@ -3,11 +3,11 @@
 ---
 
 
-| File                                                      | Definition                 | Archetype                 |
-| --------------------------------------------------------- | -------------------------- | ------------------------- |
-| [[The Addict\|The Addict]]                             | \-                         | [[Lover\|Lover]]       |
-| [[The Detached Manipulator\|The Detached Manipulator]] | uses knowledge as a weapon | [[Magician\|Magician]] |
-| [[The Sadist\|The Sadist]]                             | \-                         | [[Warrior\|Warrior]]   |
-| [[The Tyrant\|The Tyrant]]                             | \-                         | [[King\|King]]         |
+| File                                                      | Definition                 | Archetype                   |
+| --------------------------------------------------------- | -------------------------- | --------------------------- |
+| [[The Addict\|The Addict]]                             | \-                         | [[The Lover\|The Lover]] |
+| [[The Detached Manipulator\|The Detached Manipulator]] | uses knowledge as a weapon | [[Magician\|Magician]]   |
+| [[The Sadist\|The Sadist]]                             | \-                         | [[Warrior\|Warrior]]     |
+| [[The Tyrant\|The Tyrant]]                             | \-                         | \-                          |
 
 { .block-language-dataview}
