@@ -11,3 +11,13 @@
 | [[The Weakling\|The Weakling]]                         | \-                                                                                  | [[The King\|King]]         |
 
 { .block-language-dataview}
+
+
+| File                                                      | Definition                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Denying Innocent One\|The Denying Innocent One]] | [[Naive\|Naive]], [[Denying\|Denying]], [[Incompetent\|Incompetent]], [[Unaccountable\|Unaccountable]], [[Withholding\|Withholding]], [[Obscurantist\|Obscurantist]], [[Evasive\|Evasive]], [[Slippery\|Slippery]], [[Complacent\|Complacent]], [[Indifferent\|Indifferent]], [[Asocial\|Asocial]] |
+| [[The Impotent\|The Impotent]]                         | [[Listless\|Listless]], [[Flat\|Flat]], [[Sterile\|Sterile]], [[Desensitized\|Desensitized]], [[Apathetic\|Apathetic]], [[Joyless\|Joyless]], [[Distrusting\|Distrusting]]                                                                                                                         |
+| [[The Masochist\|The Masochist]]                       | [[Powerless\|Powerless]], [[Defenseless\|Defenseless]], [[Martyred\|Martyred]], [[Subservient\|Subservient]], [[Resigned\|Resigned]], [[Grovelling\|Grovelling]]                                                                                                                                   |
+| [[The Weakling\|The Weakling]]                         | [[Abdicated\|Abdicated]], [[Avoidant Attachment\|Avoidant]], [[passive\|passive]], [[Hoarding\|Hoarding]], [[Co-dependant\|Co-dependant]]                                                                                                                                                          |
+
+{ .block-language-dataview}

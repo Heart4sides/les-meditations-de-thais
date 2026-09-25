@@ -35,7 +35,7 @@
 > | [[1. Ames/Fabienne\|Fabienne]]             | [[1. Ames/Pulp Fiction\|Pulp Fiction]]                                     | \-                            | \-  |
 > | [[Galadriel\|Galadriel]]                   | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]] | \-                            | \-  |
 > | [[Karen Wheeler\|Karen Wheeler]]           | [[CARDS/Depth Psychology Theory/Stranger Things\|Stranger Things]]         | [[Housewife\|Housewife]]      | \-  |
-> | [[1. Ames/Margery Tyrell\|Margery Tyrell]] | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | [[Queen\|Queen]]           | \-  |
+> | [[1. Ames/Margery Tyrell\|Margery Tyrell]] | [[Game of Thrones\|Game of Thrones]]                                       | [[Queen\|Queen]]           | \-  |
 > | [[1. Ames/Miss Audrey\|Miss Audrey]]       | [[4. Corps/Snowpiercer\|Snowpiercer]]                                      | [[1. Ames/Singer\|Singer]] | \-  |
 > | [[Susan Mayer\|Susan Mayer]]               | [[Desperate Housewives\|Desperate Housewives]]                             | [[Illustrator\|Illustrator]]  | \-  |
 > 

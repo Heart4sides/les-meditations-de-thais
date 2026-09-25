@@ -1,8 +1,9 @@
 ---
-{"aliases":["Female Archetypes","F Types"],"Alternative":"[[Male Archetypes]]","Category":["[[Gender Archetypes]]"],"language":"fr","GArchetype":["[[The Consort|Consort]]","[[The Maiden|Maiden]]","[[The Mother|Mother]]","[[The Matron|Matron]]"],"dg-publish":true,"permalink":"/feminine-archetypes/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Female Archetypes","F Types"],"Alternative":"[[Male Archetypes]]","Category":["[[Gender Archetypes]]"],"language":"fr","GArchetype":["[[The Consort|Consort]]","[[The Maiden|Maiden]]","[[The Mother|Mother]]","[[The Matron|Matron]]"]}}
+{"aliases":["Female Archetypes","F Types"],"Alternative":"[[Masculine Archetypes]]","Category":["[[Gender Archetypes]]"],"language":"fr","GArchetype":["[[The Consort|Consort]]","[[The Maiden|Maiden]]","[[The Mother|Mother]]","[[The Matron|Matron]]"],"dg-publish":true,"Source":["[[CS Joseph]]"],"permalink":"/feminine-archetypes/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["Female Archetypes","F Types"],"Alternative":"[[Masculine Archetypes]]","Category":["[[Gender Archetypes]]"],"language":"fr","GArchetype":["[[The Consort|Consort]]","[[The Maiden|Maiden]]","[[The Mother|Mother]]","[[The Matron|Matron]]"],"Source":["[[1. Ames/CS Joseph]]"]}}
 ---
 
-
+⬆️[[Gender Archetypes\|Gender Archetypes]] 
+Sources : [[1. Ames/CS Joseph\|CS Joseph]] 
 | Archetype                       | Active Shadow                       | Passive Shadow              |
 | ------------------------------- | ----------------------------------- | --------------------------- |
 | [[The Consort\|The Consort]] | [[The Nymph\|Nymph]]             | [[The Cynic\|Cynic]]     |

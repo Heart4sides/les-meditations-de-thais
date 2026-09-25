@@ -46,18 +46,18 @@
 | [[Frank Wheeler\|Frank Wheeler]]                 | [[Revolutionary Road\|Revolutionary Road]]                                 | [[Salesman\|Salesman]]    | \-                                                                  |
 | [[1. Ames/Gaston\|Gaston]]                       | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                   | \-                           | \-                                                                  |
 | [[Hicham Janowski\|Hicham Janowski]]             | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                           | \-                                                                  |
-| [[1. Ames/Joffrey Baratheon\|Joffrey Baratheon]] | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
+| [[1. Ames/Joffrey Baratheon\|Joffrey Baratheon]] | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
 | [[1. Ames/Leonidas\|Leonidas]]                   | [[CARDS/Depth Psychology Theory/300\|300]]                                 | [[4. Corps/Ruler\|Ruler]] | \-                                                                  |
 | [[Mr Wilford\|Mr Wilford]]                       | [[4. Corps/Snowpiercer\|Snowpiercer]]                                      | \-                           | \-                                                                  |
 | [[1. Ames/Peter Pan\|Peter Pan]]                 | [[Peter Pan (1953)\|Peter Pan (1953)]]                                     | \-                           | \-                                                                  |
 | [[1. Ames/Ray Kroc\|Ray Kroc]]                   | [[CARDS/Depth Psychology Theory/The Founder\|The Founder]]                 | \-                           | \-                                                                  |
 | [[Silvermane\|Silvermane]]                       | [[Spider Noir\|Spider Noir]]                                               | \-                           | \-                                                                  |
-| [[The Mad King\|The Mad King]]                   | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
+| [[The Mad King\|The Mad King]]                   | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
 | [[The Sultan\|The Sultan]]                       | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                           | \-                                                                  |
 | [[1. Ames/Theoden\|Theoden]]                     | [[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]             | \-                           | \-                                                                  |
 | [[Tom Scavo\|Tom Scavo]]                         | [[Desperate Housewives\|Desperate Housewives]]                             | \-                           | \-                                                                  |
-| [[1. Ames/Tommen Baratheon\|Tommen Baratheon]]   | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
-| [[1. Ames/Varys\|Varys]]                         | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                           | \-                                                                  |
+| [[1. Ames/Tommen Baratheon\|Tommen Baratheon]]   | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
+| [[1. Ames/Varys\|Varys]]                         | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
 
 { .block-language-dataview}
 

@@ -9,10 +9,12 @@
 
 { .block-language-dataview}
 
-| Lists                                          |
-| ---------------------------------------------- |
-| 📚 [[Reading List\|Reading List]]           |
-| 🎬 [[Watch List\|Watch List]]               |
-| ▶️ [[Youtube Playlists\|Youtube Playlists]] |
+| Lists                                                |
+| ---------------------------------------------------- |
+| \- [[Fictional Characters\|Fictional Characters]] |
+| \- [[God\|God]]                                   |
+| 📚 [[Reading List\|Reading List]]                 |
+| 🎬 [[Watch List\|Watch List]]                     |
+| ▶️ [[Youtube Playlists\|Youtube Playlists]]       |
 
 { .block-language-dataview}

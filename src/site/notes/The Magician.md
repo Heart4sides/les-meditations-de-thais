@@ -48,7 +48,7 @@
 > | [[Alfred Borden\|Alfred Borden]]                                       | [[The Prestige\|The Prestige]]                                             | \-                                                                                     | \-  |
 > | [[1. Ames/Anakin Skywalker\|Anakin Skywalker]]                         | [[2. Coeurs/Star Wars\|Star Wars]]                                         | [[Policier\|Policier]]                                                                 | \-  |
 > | [[1. Ames/Bill\|Bill]]                                                 | [[1. Ames/Kill Bill\|Kill Bill]]                                           | \-                                                                                     | \-  |
-> | [[1. Ames/Bran Stark\|Bran Stark]]                                     | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                                                                                     | \-  |
+> | [[1. Ames/Bran Stark\|Bran Stark]]                                     | [[Game of Thrones\|Game of Thrones]]                                       | \-                                                                                     | \-  |
 > | [[Captain Hook\|Captain Hook]]                                         | [[Peter Pan (1953)\|Peter Pan (1953)]]                                     | [[3. Esprit/Grille des Types/Pirate\|Pirate]]                                       | \-  |
 > | [[Captain Jack Sparrow\|Captain Jack Sparrow]]                         | [[Pirates of the Caribbean\|Pirates of the Caribbean]]                     | [[3. Esprit/Grille des Types/Pirate\|Pirate]]                                       | \-  |
 > | [[1. Ames/Dale Cooper\|Dale Cooper]]                                   | [[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]                             | \-                                                                                     | \-  |
@@ -64,43 +64,44 @@
 > | [[1. Ames/Maurice\|Maurice]]                                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                   | \-                                                                                     | \-  |
 > | [[1. Ames/Merlin\|Merlin]]                                             | [[CARDS/Merlin - The sword in the Stone\|Merlin - The sword in the Stone]] | \-                                                                                     | \-  |
 > | [[1. Ames/Morpheus\|Morpheus]]                                         | [[SOURCES/The Matrix\|The Matrix]]                                         | \-                                                                                     | \-  |
-> | [[1. Ames/Ned Stark\|Ned Stark]]                                       | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                                                                                     | \-  |
-> | [[1. Ames/Neville Longbottom\|Neville Longbottom]]                     | [[2. Coeurs/Harry Potter\|Harry Potter]]                                   | \-                                                                                     | \-  |
+> | [[1. Ames/Ned Stark\|Ned Stark]]                                       | [[Game of Thrones\|Game of Thrones]]                                       | \-                                                                                     | \-  |
+> | [[1. Ames/Neville Longbottom\|Neville Longbottom]]                     | [[Harry Potter\|Harry Potter]]                                             | \-                                                                                     | \-  |
 > | [[Octave Parango\|Octave Parango]]                                     | [[99 Francs\|99 Francs]]                                                   | [[Adman\|Adman]]                                                                    | \-  |
 > | [[1. Ames/Palpatine\|Palpatine]]                                       | [[2. Coeurs/Star Wars\|Star Wars]]                                         | [[4. Corps/Ruler\|Ruler]]                                                           | \-  |
 > | [[1. Ames/Paul Atreides\|Paul Atreides]]                               | [[4. Corps/Dune\|Dune]]                                                    | \-                                                                                     | \-  |
 > | [[Pennywise\|Pennywise]]                                               | [[It (1986)\|It (1986)]]                                                   | \-                                                                                     | \-  |
-> | [[1. Ames/Petyr Baelish (Littlefinger)\|Petyr Baelish (Littlefinger)]] | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | [[Counselor\|Counselor]]                                                               | \-  |
-> | [[1. Ames/Ramsay Bolton\|Ramsay Bolton]]                               | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                                                                                     | \-  |
+> | [[1. Ames/Petyr Baelish (Littlefinger)\|Petyr Baelish (Littlefinger)]] | [[Game of Thrones\|Game of Thrones]]                                       | [[Counselor\|Counselor]]                                                               | \-  |
+> | [[1. Ames/Ramsay Bolton\|Ramsay Bolton]]                               | [[Game of Thrones\|Game of Thrones]]                                       | \-                                                                                     | \-  |
 > | [[Rorschach\|Rorschach]]                                               | [[Watchmen\|Watchmen]]                                                     | [[Detective\|Detective]]                                                            | \-  |
 > | [[Sam (under the silver lake)\|Sam (under the silver lake)]]           | [[Under the Silver Lake\|Under the Silver Lake]]                           | \-                                                                                     | \-  |
-> | [[1. Ames/Samuel Tarly\|Samuel Tarly]]                                 | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | \-                                                                                     | \-  |
+> | [[1. Ames/Samuel Tarly\|Samuel Tarly]]                                 | [[Game of Thrones\|Game of Thrones]]                                       | \-                                                                                     | \-  |
 > | [[1. Ames/Saruman\|Saruman]]                                           | [[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]             | [[The Magician\|The Magician]]                                                      | \-  |
 > | [[Satoru Gojo\|Satoru Gojo]]                                           | [[4. Corps/Naruto (Anime)\|Naruto (Anime)]]                                | \-                                                                                     | \-  |
 > | [[Sauron\|Sauron]]                                                     | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]] | [[4. Corps/Ruler\|Ruler]]                                                           | \-  |
 > | [[1. Ames/Scar\|Scar]]                                                 | [[2. Coeurs/Lion King\|Lion King]]                                         | [[4. Corps/Ruler\|Ruler]]                                                           | \-  |
-> | [[1. Ames/Severus Rogue\|Severus Rogue]]                               | [[2. Coeurs/Harry Potter\|Harry Potter]]                                   | \-                                                                                     | \-  |
+> | [[1. Ames/Severus Snape\|Severus Snape]]                               | [[Harry Potter\|Harry Potter]]                                             | \-                                                                                     | \-  |
 > | [[Sherlock Holmes (Cumberbatch)\|Sherlock Holmes (Cumberbatch)]]       | [[CARDS/Depth Psychology Theory/Sherlock\|Sherlock]]                       | \-                                                                                     | \-  |
 > | [[CARDS/Members/Smaug\|Smaug]]                                         | [[SOURCES/Collectives/The Hobbit\|The Hobbit]]                             | [[Robber\|Robber]]                                                                     | \-  |
 > | [[1. Ames/The Joker\|The Joker]]                                       | [[1. Ames/The Dark Knight\|The Dark Knight]]                               | \-                                                                                     | \-  |
 > | [[1. Ames/Tyler Durden\|Tyler Durden]]                                 | [[Fight Club\|Fight Club]]                                                 | \-                                                                                     | \-  |
-> | [[1. Ames/Tyrion Lannister\|Tyrion Lannister]]                         | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]]                   | [[Counselor\|Counselor]]                                                               | \-  |
+> | [[1. Ames/Tyrion Lannister\|Tyrion Lannister]]                         | [[Game of Thrones\|Game of Thrones]]                                       | [[Counselor\|Counselor]]                                                               | \-  |
 > | [[1. Ames/V.M. Varga\|V.M. Varga]]                                     | [[2. Coeurs/Fargo\|Fargo]]                                                 | [[Con Artist\|Con Artist]]                                                             | \-  |
 > | [[CARDS/Depth Psychology Theory/Valmont\|Valmont]]                     | [[Dangerous Liaisons\|Dangerous Liaisons]]                                 | \-                                                                                     | \-  |
+> | [[1. Ames/Varys\|Varys]]                                               | [[Game of Thrones\|Game of Thrones]]                                       | \-                                                                                     | \-  |
 > | [[William of Baskerville\|William of Baskerville]]                     | [[The Name of the Rose\|The Name of the Rose]]                             | \-                                                                                     | \-  |
 > | [[Wizard (Oz)\|Wizard (Oz)]]                                           | [[3. Esprit/The Wizard of Oz\|The Wizard of Oz]]                           | [[4. Corps/Ruler\|Ruler]]                                                           | \-  |
 > 
 { .block-language-dataview}
 
 > [!example]- [[Deities\|Deities]]
->  | Deities                           | Mythology                      | Why |
-> | --------------------------------- | ------------------------------ | --- |
-> | [[Hephaïstos\|Hephaïstos]]     | [[Greek Mythology\|Greek]]  | \-  |
-> | [[Hermes\|Hermes]]             | [[Greek Mythology\|Greek]]  | \-  |
-> | [[3. Esprit/Loki\|Loki]]       | [[Odinic\|Odinic]]             | \-  |
-> | [[3. Esprit/Odin\|Odin]]       | [[Odinic\|Odinic]]             | \-  |
-> | [[Satan\|Satan]]               | [[Christianity\|Christianity]] | \-  |
-> | [[Shiva\|Shiva]]               | [[Hindu Mythology\|Hindu]]  | \-  |
-> | [[The Demiurge\|The Demiurge]] | [[Gnosticism\|Gnosticism]]     | \-  |
+>  | Deities                           | Mythology                             | Why |
+> | --------------------------------- | ------------------------------------- | --- |
+> | [[Hephaïstos\|Hephaïstos]]     | [[Greek Mythology\|Greek]]         | \-  |
+> | [[Hermes\|Hermes]]             | [[Greek Mythology\|Greek]]         | \-  |
+> | [[3. Esprit/Loki\|Loki]]       | [[Odinic\|Odinic]]                    | \-  |
+> | [[3. Esprit/Odin\|Odin]]       | [[Odinic\|Odinic]]                    | \-  |
+> | [[Satan\|Satan]]               | [[Christian Mythology\|Christian]] | \-  |
+> | [[Shiva\|Shiva]]               | [[Hindu Mythology\|Hindu]]         | \-  |
+> | [[The Demiurge\|The Demiurge]] | [[Gnosticism\|Gnosticism]]            | \-  |
 > 
 { .block-language-dataview}

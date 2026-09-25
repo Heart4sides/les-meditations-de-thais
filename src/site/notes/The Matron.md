@@ -29,13 +29,12 @@
 { .block-language-dataview}
 
 > [!example]- [[Fictional Characters\|Fictional Characters]]
->  | Fictional                                 | Production                                                                                  | Activity | Why                |
-> | ----------------------------------------- | ------------------------------------------------------------------------------------------- | -------- | ------------------ |
-> | [[Bree Van de Camp\|Bree Van de Camp]] | [[Desperate Housewives\|Desperate Housewives]]                                           | \-       | \-                 |
-> | [[1. Ames/Eowin\|Eowin]]               | [[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]                           | \-       | Longs to be useful |
-> | [[Galadriel\|Galadriel]]               | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]               | \-       | \-                 |
-> | [[Lynette Scavo\|Lynette Scavo]]       | [[Desperate Housewives\|Desperate Housewives]]                                           | \-       | \-                 |
-> | [[The Evil Queen\|The Evil Queen]]     | [[SOURCES/Collectives/Snow White and the Seven Dwarfs\|Snow White and the Seven Dwarfs]] | \-       | \-                 |
+>  | Fictional                             | Production                                                                                  | Activity | Why                |
+> | ------------------------------------- | ------------------------------------------------------------------------------------------- | -------- | ------------------ |
+> | [[1. Ames/Eowin\|Eowin]]           | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]               | \-       | Longs to be useful |
+> | [[Galadriel\|Galadriel]]           | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]               | \-       | \-                 |
+> | [[Lynette Scavo\|Lynette Scavo]]   | [[Desperate Housewives\|Desperate Housewives]]                                           | \-       | \-                 |
+> | [[The Evil Queen\|The Evil Queen]] | [[SOURCES/Collectives/Snow White and the Seven Dwarfs\|Snow White and the Seven Dwarfs]] | \-       | \-                 |
 > 
 { .block-language-dataview}
 
