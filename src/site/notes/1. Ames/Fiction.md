@@ -1,0 +1,107 @@
+---
+{"Category":"[[Person]]","language":"fr","dg-publish":true,"permalink":"/1-ames/fiction/","dgPassFrontmatter":true,"dg-note-properties":{"Category":"[[Person]]","language":"fr"}}
+---
+
+
+- 300
+- 35h c'est déjà trop
+- 8mile
+- 9 perfect strangers
+- 99 Francs
+- A Beautiful Mind
+- A Star is born
+- A Walk to Remember
+- Adventure Time
+- Aladdin (1991)
+- Alien
+- All my Friends hate me
+- All That Jazz
+- Altered Carbon
+- Amélie Poulain (Film)
+- American Dad!
+- American Nightmare
+- American Psycho
+- Andor
+- Anger Management
+- Anon (Movie)
+- Antitrust
+- Apocalypse Now
+- Arcane
+- Arrival
+- Atlantis
+- Atlas Shrugged
+- Au bonheur des hommes
+- Back to the Future
+- Batman Begins
+- Beauty and the Beast
+- Berserk
+- Big Bang Theory
+- Big Fat Greek Wedding
+- Big Little Lies
+- Black Swan
+- Blood Diamond
+- Bo is Afraid
+- Breakfast Club
+- Breaking Bad
+- Brokeback Mountain
+- Brothers
+- Burn after reading
+- Call me by your name
+- Catch Me If You Can
+- Charlie and the Chocolate Factory
+- Christmas Vacation
+- Clueless
+- Coboy Bebop
+- Cobra Kaï
+- Columbo (Show)
+- Culte
+- Dangerous Liaisons
+- Death Note
+- Desperate Housewives
+- Deux Moi
+- Dix Pour Cent
+- Django Unchained
+- Dolores Claiborne (movie)
+- Dr Frankenstein
+- Dracula (1992)
+- Dragon Ball Z
+- Dune
+- Edge of Tomorrow
+- Elric
+- Ender's Game
+- Enemy of the State
+- Enora
+- Eternal Sunshine of the Spotless Mind
+- Evangelion
+- Eyes Wide Shut
+- Falcon and Winter Soldier
+- Falling Down
+- Family Guy
+- Fargo
+- Fast and Furious
+- Fifty Shades of Grey
+- Fight Club
+- Friends
+- Frieren (Anime)
+- Full Metal Alchemist
+- Furiosa, a Mad Max Saga
+- Futurama
+- Game of Thrones
+- Gandahar
+- Gangs of New York
+- Gaslight
+- Get Out
+- Gone Girl
+- Good Will Hunting
+- Gossip Girl
+- Gran Torino
+- Great Teacher Onizuka
+- Gundam
+- Happy Gilmore (Movie)
+- Harry Potter
+- Heart of darkness
+- Heat
+- Heathers
+- Heavenly Creatures (1994)
+
+{ .block-language-dataview}
