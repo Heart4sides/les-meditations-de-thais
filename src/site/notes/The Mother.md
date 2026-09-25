@@ -32,20 +32,24 @@
 >  | Fictional                                             | Production                                                  | Activity | Why |
 > | ----------------------------------------------------- | ----------------------------------------------------------- | -------- | --- |
 > | [[Audrey Fleurot\|Audrey Fleurot]]                 | [[Dix Pour Cent\|Dix Pour Cent]]                         | \-       | \-  |
-> | [[1. Ames/Daenerys Targaryen\|Daenerys Targaryen]] | [[SOURCES/Collectives/Game of Thrones\|Game of Thrones]] | \-       | \-  |
+> | [[Bree Van de Camp\|Bree Van de Camp]]             | [[Desperate Housewives\|Desperate Housewives]]           | \-       | \-  |
+> | [[1. Ames/Daenerys Targaryen\|Daenerys Targaryen]] | [[Game of Thrones\|Game of Thrones]]                     | \-       | \-  |
 > | [[Dr. Alethea Faber\|Dr. Alethea Faber]]           | [[Spider Noir\|Spider Noir]]                             | \-       | \-  |
 > | [[1. Ames/Edie Britt\|Edie Britt]]                 | [[Desperate Housewives\|Desperate Housewives]]           | \-       | \-  |
 > | [[Frieren\|Frieren]]                               | [[Frieren (Anime)\|Frieren (Anime)]]                     | \-       | \-  |
 > | [[Lynette Scavo\|Lynette Scavo]]                   | [[Desperate Housewives\|Desperate Housewives]]           | \-       | \-  |
 > | [[Madelyn Stillwell\|Madelyn Stillwell]]           | [[CARDS/Depth Psychology Theory/The Boys\|The Boys]]     | \-       | \-  |
-> | [[1. Ames/Molly Weasley\|Molly Weasley]]           | [[2. Coeurs/Harry Potter\|Harry Potter]]                 | \-       | \-  |
+> | [[1. Ames/Molly Weasley\|Molly Weasley]]           | [[Harry Potter\|Harry Potter]]                           | \-       | \-  |
+> | [[Mrs Potts\|Mrs Potts]]                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]] | \-       | \-  |
 > | [[Wendy Darling\|Wendy Darling]]                   | [[Peter Pan (1953)\|Peter Pan (1953)]]                   | \-       | \-  |
 > 
 { .block-language-dataview}
 
 > [!example]- [[Deities\|Deities]]
->  | Deities                 | Mythology | Why |
-> | ----------------------- | --------- | --- |
-> | [[Demeter\|Demeter]] | \-        | \-  |
+>  | Deities                 | Mythology                        | Why |
+> | ----------------------- | -------------------------------- | --- |
+> | [[Demeter\|Demeter]] | [[Greek Mythology\|Greek]]    | \-  |
+> | [[Frigg\|Frigg]]     | [[Odinic\|Odinic]]               | \-  |
+> | [[Isis\|Isis]]       | [[Egyptian Mythology\|Egyptian]] | \-  |
 > 
 { .block-language-dataview}
