@@ -4,9 +4,48 @@
 
 
 
-| Category                                      | Active Shadow                                | Passive Shadow              |
-| --------------------------------------------- | -------------------------------------------- | --------------------------- |
-| [[Feminine Archetypes\|Female Archetypes]] | <ul><li>[[The Amazon.md\\|Amazon]]</li></ul> | [[The Phantom\|Phantom]] |
+# 
+| [[The Mother\|The Mother]] |
+| ----------------- |
+| \-                |
+
+{ .block-language-dataview}
+| NTP | NFP |
+| --- | --- |
+| \-  | \-  |
+
+{ .block-language-dataview}
+| Vector                            | Definition                                                                                                                                                |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Ascetic\|Ascetic]]           | Happy with little, Possessions are burdens, Society is a burden                                                                                           |
+| [[Macro\|Macro]]               | How I/We impact others                                                                                                                                    |
+| [[Performative\|Performative]] | Display of skills, [[Copy\|Copy]], Embody the outcome                                                                                                     |
+| [[Reliable\|Reliable]]         | [[Responsible\|Responsible]], [[Career Focused\|Career Focused]], [[Diligent\|Diligent]], [[CSJ Theory Linked & Explained/CARDS/effective\|effective]] |
+
+{ .block-language-dataview}
+
+## CS Joseph
+| Name                                                      |
+| --------------------------------------------------------- |
+| [[Anya Taylor-Joy\|Anya Taylor-Joy]]                   |
+| [[1. Ames/Kim Kardashian\|Kim Kardashian]]             |
+| [[1. Ames/Lady Gaga\|Lady Gaga]]                       |
+| [[1. Ames/Mariah Carey\|Mariah Carey]]                 |
+| [[1. Ames/Mikhaila Peterson\|Mikhaila Peterson]]       |
+| [[1. Ames/Phoebe Waller-Bridge\|Phoebe Waller-Bridge]] |
+| [[1. Ames/Rihanna\|Rihanna]]                           |
+| [[1. Ames/Rosé\|Rosé]]                                 |
+| [[1. Ames/Sydney Sweeney\|Sydney Sweeney]]             |
+| [[Tammy Peterson\|Tammy Peterson]]                     |
+| [[1. Ames/Taylor Swift\|Taylor Swift]]                 |
+
+{ .block-language-dataview}
+
+# Moore 
+
+| Category                                      | Active Shadow             | Passive Shadow              |
+| --------------------------------------------- | ------------------------- | --------------------------- |
+| [[Feminine Archetypes\|Female Archetypes]] | [[The Amazon\|Amazon]] | [[The Phantom\|Phantom]] |
 
 { .block-language-dataview}
 > [!example]- [[Connections\|Connections]]
