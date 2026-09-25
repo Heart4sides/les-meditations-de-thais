@@ -15,6 +15,7 @@
 | ❤️ [[ATLAS/Love Language\|Love Language]]                                             | 🫂, 👩‍❤️‍👨 [[CARDS/Depth Psychology Theory/Touch\|Touch]], [[1. Ames/Quality Time\|Quality Time]] |
 | 🟰 [[Mathematical Operation\|Mathematical Operation]]                                 | ➕ [[Addition\|Addition]]                                                                               |
 | 🃏 [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 🏆 [[CARDS/Depth Psychology Theory/Cup\|Cup]]                                                          |
+| 🛐 [[Religious Order\|Religious Order]]                                               | \- [[Franciscan\|Franciscan]]                                                                          |
 | 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | 🍒 [[Summer\|Summer]]                                                                                  |
 | 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | ❤️ [[CARDS/Depth Psychology Theory/Heart Temple\|Heart]]                                               |
 
@@ -56,7 +57,7 @@
 | [[1. Ames/Peter Pan\|Peter Pan]]                         | [[Peter Pan (1953)\|Peter Pan (1953)]]                                     | \-                                                                 | \-                             |
 | [[CARDS/Depth Psychology Theory/Rust Cohle\|Rust Cohle]] | [[4. Corps/True Detective\|True Detective]]                                | \-                                                                 | \-                             |
 | [[The Mask (Character)\|The Mask (Character)]]           | [[The Mask\|The Mask]]                                                     | \-                                                                 | \-                             |
-| [[The Narrator\|The Narrator]]                           | [[2. Coeurs/Fight Club\|Fight Club]]                                       | \-                                                                 | \-                             |
+| [[The Narrator\|The Narrator]]                           | [[Fight Club\|Fight Club]]                                                 | \-                                                                 | \-                             |
 | [[The Sultan\|The Sultan]]                               | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                                                                 | \-                             |
 | [[V (V for Vendetta)\|V (V for Vendetta)]]               | [[V for Vendetta\|V for Vendetta]]                                         | [[0. Change Properties/Activist\|Activist]]                     | \-                             |
 

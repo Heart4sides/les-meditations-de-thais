@@ -1,5 +1,5 @@
 ---
-{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[SD]]"],"GArchetype":["[[Warrior]]"],"Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\"","dg-publish":true,"permalink":"/the-masochist/","dgPassFrontmatter":true,"dg-note-properties":{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[CARDS/Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[CARDS/SD]]"],"GArchetype":["[[Warrior]]"],"Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\""}}
+{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[SD]]"],"GArchetype":"[[The Warrior|Warrior]]","Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\"","dg-publish":true,"permalink":"/the-masochist/","dgPassFrontmatter":true,"dg-note-properties":{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[CARDS/Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[CARDS/SD]]"],"GArchetype":"[[The Warrior|Warrior]]","Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\""}}
 ---
 
 The Masochist is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the `=this.Sharchetype`. 
@@ -18,8 +18,8 @@ These people commonly act as \-...
 > | ----------------------------------------- | --------------------------------------------- | ------------------------- | --- |
 > | [[Frank Wheeler\|Frank Wheeler]]       | [[Revolutionary Road\|Revolutionary Road]] | [[Salesman\|Salesman]] | \-  |
 > | [[1. Ames/Nina Sayers\|Nina Sayers]]   | [[1. Ames/Black Swan\|Black Swan]]         | \-                        | \-  |
-> | [[The Narrator\|The Narrator]]         | [[2. Coeurs/Fight Club\|Fight Club]]       | \-                        | \-  |
-> | [[1. Ames/Tyler Durden\|Tyler Durden]] | [[2. Coeurs/Fight Club\|Fight Club]]       | \-                        | \-  |
+> | [[The Narrator\|The Narrator]]         | [[Fight Club\|Fight Club]]                 | \-                        | \-  |
+> | [[1. Ames/Tyler Durden\|Tyler Durden]] | [[Fight Club\|Fight Club]]                 | \-                        | \-  |
 > 
 { .block-language-dataview}
 

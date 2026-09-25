@@ -1,8 +1,8 @@
 ---
-{"Category":["[[Shadow Female Archetype]]"],"Sharchetype":["[[Maiden]]"],"Development":["[[SD]]"],"Focus":["[[Vanity]]"],"language":"fr","Traits":["[[CARDS/Entitlement|Entitled]]","[[Bratty]]","[[Prideful]]","[[Attention seeking]]","[[Grooming]]","[[Ungrateful]]","[[Demanding Function|Demanding]]"],"aliases":["Prima Donna"],"dg-publish":true,"permalink":"/the-prima-donna/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Shadow Female Archetype]]"],"Sharchetype":["[[Maiden]]"],"Development":["[[CARDS/SD]]"],"Focus":["[[Vanity]]"],"language":"fr","Traits":["[[CARDS/Entitlement|Entitled]]","[[Bratty]]","[[Prideful]]","[[Attention seeking]]","[[Grooming]]","[[Ungrateful]]","[[Demanding Function|Demanding]]"],"aliases":["Prima Donna"]}}
+{"Category":["[[Shadow Female Archetype]]"],"Sharchetype":["[[The Maiden]]"],"Development":["[[SD]]"],"Focus":["[[Vanity]]"],"language":"fr","Traits":["[[CARDS/Entitlement|Entitled]]","[[Bratty]]","[[Prideful]]","[[Attention seeking]]","[[Grooming]]","[[Ungrateful]]","[[Demanding Function|Demanding]]"],"aliases":["Prima Donna"],"dg-publish":true,"permalink":"/the-prima-donna/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Shadow Female Archetype]]"],"Sharchetype":["[[The Maiden]]"],"Development":["[[CARDS/SD]]"],"Focus":["[[Vanity]]"],"language":"fr","Traits":["[[CARDS/Entitlement|Entitled]]","[[Bratty]]","[[Prideful]]","[[Attention seeking]]","[[Grooming]]","[[Ungrateful]]","[[Demanding Function|Demanding]]"],"aliases":["Prima Donna"]}}
 ---
 
-The Prima Donna is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[Maiden\|Maiden]]. 
+The Prima Donna is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[The Maiden\|The Maiden]]. 
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 

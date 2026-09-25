@@ -9,11 +9,11 @@
 >
 > Spider-Noir was released in its entirety on May 25, 2026, on MGM+ in the United States, in color, and consists of eight episodes. The series was later released globally on Prime Video on May 27, in both black-and-white and color versions. It received positive reviews from critics, with Cage's performance receiving particular praise. The series received 11 Primetime Emmy Award nominations, winning five. In September 2026, the series was canceled after one season.
 
-| File                                        | Gender Archetype        | Shadow Archetype          |
-| ------------------------------------------- | ----------------------- | ------------------------- |
-| [[Ben Reilly\|Ben Reilly]]               | [[Warrior\|Warrior]] | \-                        |
-| [[Cat Hardy\|Cat Hardy]]                 | [[Consort\|Consort]] | \-                        |
-| [[Dr. Alethea Faber\|Dr. Alethea Faber]] | [[Mother\|Mother]]   | [[The Amazon\|Amazon]] |
-| [[Silvermane\|Silvermane]]               | [[King\|King]]       | [[The Tyrant\|Tyrant]] |
+| File                                        | Gender Archetype            | Shadow Archetype          |
+| ------------------------------------------- | --------------------------- | ------------------------- |
+| [[Ben Reilly\|Ben Reilly]]               | [[The Warrior\|Warrior]] | \-                        |
+| [[Cat Hardy\|Cat Hardy]]                 | [[The Consort\|Consort]] | \-                        |
+| [[Dr. Alethea Faber\|Dr. Alethea Faber]] | [[The Mother\|Mother]]   | [[The Amazon\|Amazon]] |
+| [[Silvermane\|Silvermane]]               | [[The King\|King]]       | [[The Tyrant\|Tyrant]] |
 
 { .block-language-dataview}
