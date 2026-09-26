@@ -1,17 +1,20 @@
-/* Supprime les puces (bullet points) des listes Dataview dans les callouts */
-.callout-content ul.dataview.list-view-ul li::marker {
-    content: "" !important;
-}
-
-/* Aligne proprement le texte à gauche et supprime le gros décalage */
+/* Ciblage ultra-précis pour les listes Dataview imbriquées dans les callouts */
 .callout-content ul.dataview.list-view-ul {
-    padding-left: 0px !important;
+    padding-left: 1.25em !important;
     margin-left: 0px !important;
-    list-style-type: none !important;
+    margin-inline-start: 0px !important;
+    list-style-position: inside !important;
+    width: 100% !important;
 }
 
-/* Optionnel : Ajoute un léger espace sous chaque élément pour l'aération */
+/* Assure que la puce et son texte s'alignent proprement sans déborder à droite */
 .callout-content ul.dataview.list-view-ul li {
+    display: list-item !important;
     padding-left: 0px !important;
-    margin-bottom: 4px;
+    margin-right: 0px !important;
+}
+
+/* Force la couleur et l'affichage des marqueurs/puces dans Anatomy Nocturn */
+.callout-content ul.dataview.list-view-ul li::marker {
+    color: var(--text-accent, #4d93ff) !important; /* Utilise la couleur d'accentuation du thème */
 }
