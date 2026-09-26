@@ -1,0 +1,6 @@
+/* TEST SNIPPET: If this turns your main headings red or outlines them, CSS is working! */
+h1, h2, h3, .markdown-preview-view h1, .note-title {
+    color: #ff0055 !important;
+    text-shadow: 0 0 10px rgba(255, 0, 85, 0.5) !important;
+    border: 2px dashed #ff0055 !important;
+}
