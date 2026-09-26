@@ -13,7 +13,7 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  - [[Effie Stonem\|Effie Stonem]] (\-) - her life is entirely dictated by profound apathy, self-destruction, and hopelessness. She lives in a state of chaotic detachment, letting her room become a mess, slipping into deep depression, and using drugs to numb her low self-esteem. She is intensely lonely but pushes everyone away
 > - [[Eleanor Shellstrop\|Eleanor Shellstrop]] (\-) - utterly dominated by apathy and low self-esteem. She chose to be a lazy, dishonest, trashy slob who ate shrimp out of her bra, hoarded cheap items, and deliberately pushed people away to remain lonely because she felt completely hopeless.
 > - [[1. Ames/Lisbeth Salander\|Lisbeth Salander]] (\-) - Her apartment is a barren, messy space where she hoards junk food, smokes constantly, ignores personal grooming, and displays intense apathy toward societal norms. Her low self-esteem manifests as fierce isolation and a total hopelessness regarding human connection.
