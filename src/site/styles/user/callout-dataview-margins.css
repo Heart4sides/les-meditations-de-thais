@@ -1,12 +1,17 @@
-/* Reset excessive left-padding for Dataview lists inside callouts */
-.callout-content ul.dataview.list-view-ul {
-    padding-left: 1.5em; /* Adjusts the left margin indentation */
-    margin-inline-start: 0px; 
-    width: 100%;
+/* Supprime les puces (bullet points) des listes Dataview dans les callouts */
+.callout-content ul.dataview.list-view-ul li::marker {
+    content: "" !important;
 }
 
-/* Ensure the individual Dataview items fill the container evenly */
+/* Aligne proprement le texte à gauche et supprime le gros décalage */
+.callout-content ul.dataview.list-view-ul {
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+    list-style-type: none !important;
+}
+
+/* Optionnel : Ajoute un léger espace sous chaque élément pour l'aération */
 .callout-content ul.dataview.list-view-ul li {
-    margin-right: 0px;
-    padding-right: 0px;
+    padding-left: 0px !important;
+    margin-bottom: 4px;
 }
