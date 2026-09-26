@@ -1,0 +1,12 @@
+/* Reset excessive left-padding for Dataview lists inside callouts */
+.callout-content ul.dataview.list-view-ul {
+    padding-left: 1.5em; /* Adjusts the left margin indentation */
+    margin-inline-start: 0px; 
+    width: 100%;
+}
+
+/* Ensure the individual Dataview items fill the container evenly */
+.callout-content ul.dataview.list-view-ul li {
+    margin-right: 0px;
+    padding-right: 0px;
+}
