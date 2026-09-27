@@ -59,5 +59,8 @@
 
 > [!example]- [[God\|Deities]]
 >  - [[Chronos\|Chronos]] ([[Greek Mythology\|Greek]]) - \-
+> - [[Emperor Jade\|Emperor Jade]] ([[Taoist Mythology\|Taoist]]) - He resides in the **Miraculous Jasper Palace**, a place of unimaginable golden and jade opulence. He oversees the cosmic bureaucracy that manufactures and regulates the entire material universe, generating cosmic order and earthly wealth.
+> - [[2. Coeurs/Frey\|Frey]] ([[Odinic\|Odinic]]) - god of fertility, peace, and **staggering material abundance**. He rules over the rain, the sunshine, and the bountiful fruits of the earth. He is associated with immense wealth and physical prosperity, far removed from any spiritual asceticism.
+> - [[Hades\|Hades]] ([[Greek Mythology\|Greek]]) - He is the absolute master of the subterranean world, meaning he owns all the world's mineral wealth, precious metals, gold, gems, and the fertile seeds buried in the earth. He is a god of raw, tangible, physical capital.
 > 
 { .block-language-dataview}
