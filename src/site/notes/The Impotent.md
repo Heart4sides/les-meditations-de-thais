@@ -3,9 +3,8 @@
 ---
 
 
-The Impotent is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the `=this.Garchetype`. 
-It's the archetype that Numbs himself to life and excitement, perhaps to protect himself from its intensity. 
-These people commonly act as \-... 
+The Impotent is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the [[The Lover\|Lover]]. 
+It's the archetype that Numbs himself to life and excitement, perhaps to protect himself from its intensity.  
 
 > [!example]- [[Famous People\|Famous People]]
 >  - [[Hephaïstos\|Hephaïstos]] (\-) - \-

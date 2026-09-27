@@ -3,9 +3,8 @@
 ---
 
 
-The Weakling is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the `=this.Sharchetype`. 
-It's the archetype that tries to reap all the benefits while having none of the responsibilities. 
-These people commonly act as \-... 
+The Weakling is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the [[The King\|King]]. 
+It's the archetype that tries to reap all the benefits while having none of the responsibilities.  
 
 > [!example]- [[Famous People\|Famous People]]
 >  

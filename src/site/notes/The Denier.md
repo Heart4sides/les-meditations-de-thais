@@ -3,9 +3,8 @@
 ---
 
 
-The Denier is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the `=this.Sharchetype`. 
+The Denier is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the [[The Magician\|Magician]]. 
 It's the archetype that claims ignorance to avoid responsibility. 
-These people commonly act as \-... 
 :::hidden
 # 
 | [[The Denier\|The Denier]]                           | Focus                                                     | Traits                                                                         |

@@ -3,9 +3,8 @@
 ---
 
 
-The Masochist is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the `=this.Sharchetype`. 
-It's the archetype that tries to be seen as a victim in order to receive special treatment. 
-These people commonly act as \-... 
+The Masochist is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the [[The Warrior\|Warrior]]. 
+It's the archetype that tries to be seen as a victim in order to receive special treatment.  
 
 | Coping Strat                        | Self Image                                    | Attitudes                                                                       | Behaviour                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ----------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
