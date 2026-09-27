@@ -5,3 +5,9 @@
     box-shadow: none !important;
     padding-left: 0px !important;
 }
+
+/* 3. Masque complètement l'icône du callout [!example] */
+.callout[data-callout="example"] .callout-icon {
+    display: none !important;
+}
+
