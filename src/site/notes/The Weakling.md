@@ -13,7 +13,7 @@ The Weakling is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] o
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  | Real | Activity | Why |
 > | ---- | -------- | --- |
 > 

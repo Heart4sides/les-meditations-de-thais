@@ -6,7 +6,7 @@ The Crone is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the `=t
 It's the archetype that Judges silently to avoid accountability. 
 These people commonly act as \-... 
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  
 { .block-language-dataview}
 

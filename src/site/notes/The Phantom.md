@@ -6,7 +6,7 @@ The Phantom is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the `
 It's the archetype that Feels unworthy and therefore rejects responsibilities and falls into a detached melancholy. 
 These people commonly act as \-... 
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  - [[Queen Victoria\|Queen Victoria]] ([[4. Corps/Ruler\|Ruler]]) - Following the death of her husband, Prince Albert, Victoria slipped into a monumental, 40-year Phantom state. She retreated into permanent black mourning clothes, becoming completely silent, melancholic, and emotionally detached from the daily lives of her children. While she maintained a massive, rigid imperial fake support structure, her children frequently noted that she was completely cold and unavailable to them emotionally, viewing them with distant judgment rather than maternal warmth.
 > - [[Sylvia Plath\|Sylvia Plath]] ([[Poet\|Poet]]) - Plath suffered from severe, clinical melancholia and depression. When her marriage collapsed and winter set in, she slipped into the absolute nadir of the Phantom state. She became consumed by an paralyzing sense of literary and personal imposter syndrome. While she meticulously maintained the functional duties of care—even preparing bread and milk for her children on the final morning of her life—she had completely detached emotionally from the living world, retreating into a silent, frozen psychological landscape before her suicide.
 > 

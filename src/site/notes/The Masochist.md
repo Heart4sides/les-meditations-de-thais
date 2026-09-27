@@ -14,7 +14,7 @@ These people commonly act as \-...
 
 { .block-language-dataview}
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  | Real              | Activity | Why |
 > | ----------------- | -------- | --- |
 > | [[Ares\|Ares]] | \-       | \-  |

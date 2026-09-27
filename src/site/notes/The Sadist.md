@@ -6,7 +6,7 @@ The Sadist is the [[Active Shadows of Male Archetypes\|Active Shadow]] of the `=
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  | Real                                                      | Activity                     | Why |
 > | --------------------------------------------------------- | ---------------------------- | --- |
 > | [[Ares\|Ares]]                                         | \-                           | \-  |

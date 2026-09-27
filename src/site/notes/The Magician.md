@@ -1,12 +1,12 @@
 ---
-{"Category":["[[Masculine Archetypes]]"],"Sense":"[[Thinking]]","Temple":"[[Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[Leader]]","language":"fr","dg-publish":true,"Emoji":"🧙","Attitude":["[[Parent]]"],"SpiritualVsMaterial":"[[Spiritual]]","LuxuryVsAscetic":"[[Ascetic]]","SkinnyVsChubby":"[[Chubby]]","Focus":["[[Knowledge]]"],"Archétype":"[[NP]]","UD":"[[The Detached Manipulator]]","Definition":["[[Knowledge Maxxing]]","[[Experimentation]]","[[Reading]]","[[Cast visions]]","[[Critical Thinking]]","[[Long term]]","[[Give a future]]","[[Maximum effort]]","[[Aim high]]"],"NTP":"[[Solve problems]]","NFP":"Curate and organise knowledge","Active":"[[The Detached Manipulator]]","Passive":"[[The Denying Innocent One]]","Disorder":["[[Voyeurism]]"],"aliases":["Magician"],"permalink":"/the-magician/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Masculine Archetypes]]"],"Sense":"[[CARDS/Thinking]]","Temple":"[[CARDS/Depth Psychology Theory/Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[CARDS/Leader]]","language":"fr","Emoji":"🧙","Attitude":["[[CARDS/Parent]]"],"SpiritualVsMaterial":"[[Spiritual]]","LuxuryVsAscetic":"[[Ascetic]]","SkinnyVsChubby":"[[Chubby]]","Focus":["[[CARDS/Knowledge]]"],"Archétype":"[[CARDS/Depth Psychology Theory/NP]]","UD":"[[The Detached Manipulator]]","Definition":["[[Knowledge Maxxing]]","[[Experimentation]]","[[Reading]]","[[Cast visions]]","[[Critical Thinking]]","[[Long term]]","[[Give a future]]","[[Maximum effort]]","[[Aim high]]"],"NTP":"[[Solve problems]]","NFP":"Curate and organise knowledge","Active":"[[The Detached Manipulator]]","Passive":"[[The Denying Innocent One]]","Disorder":["[[Voyeurism]]"],"aliases":["Magician"]}}
+{"Category":["[[Masculine Archetypes]]"],"Sense":"[[Thinking]]","Temple":"[[Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[Leader]]","language":"fr","dg-publish":true,"Emoji":"🧙","Attitude":["[[Parent]]"],"SpiritualVsMaterial":"[[Spiritual]]","LuxuryVsAscetic":"[[Ascetic]]","SkinnyVsChubby":"[[Chubby]]","Focus":["[[Knowledge]]"],"Archétype":"[[NP]]","UD":"[[The Manipulator]]","Definition":["[[Knowledge Maxxing]]","[[Experimentation]]","[[Reading]]","[[Cast visions]]","[[Critical Thinking]]","[[Long term]]","[[Give a future]]","[[Maximum effort]]","[[Aim high]]"],"NTP":"[[Solve problems]]","NFP":"Curate and organise knowledge","Active":"[[The Manipulator]]","Passive":"[[The Denyer]]","Disorder":["[[Voyeurism]]"],"aliases":["Magician"],"permalink":"/the-magician/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Masculine Archetypes]]"],"Sense":"[[CARDS/Thinking]]","Temple":"[[CARDS/Depth Psychology Theory/Mind Temple|Mind]]","MacroVsMicro":"[[Micro]]","LeaderVsFollower":"[[CARDS/Leader]]","language":"fr","Emoji":"🧙","Attitude":["[[CARDS/Parent]]"],"SpiritualVsMaterial":"[[Spiritual]]","LuxuryVsAscetic":"[[Ascetic]]","SkinnyVsChubby":"[[Chubby]]","Focus":["[[CARDS/Knowledge]]"],"Archétype":"[[CARDS/Depth Psychology Theory/NP]]","UD":"[[The Manipulator]]","Definition":["[[Knowledge Maxxing]]","[[Experimentation]]","[[Reading]]","[[Cast visions]]","[[Critical Thinking]]","[[Long term]]","[[Give a future]]","[[Maximum effort]]","[[Aim high]]"],"NTP":"[[Solve problems]]","NFP":"Curate and organise knowledge","Active":"[[The Manipulator]]","Passive":"[[The Denyer]]","Disorder":["[[Voyeurism]]"],"aliases":["Magician"]}}
 ---
 
 
 
-| Category                                          | Active Shadow                                             | Passive Shadow                                            |
-| ------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
-| [[Masculine Archetypes\|Masculine Archetypes]] | [[The Detached Manipulator\|The Detached Manipulator]] | [[The Denying Innocent One\|The Denying Innocent One]] |
+| Category                                          | Active Shadow                           | Passive Shadow                |
+| ------------------------------------------------- | --------------------------------------- | ----------------------------- |
+| [[Masculine Archetypes\|Masculine Archetypes]] | [[The Manipulator\|The Manipulator]] | [[The Denyer\|The Denyer]] |
 
 { .block-language-dataview}
 > [!example]- [[Connections\|Connections]]
@@ -22,22 +22,22 @@
 > 
 { .block-language-dataview}
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
->  | Real                                                      | Activity                                                                                                                                  | Why |
-> | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --- |
-> | [[1. Ames/Andrew Tate\|Andrew Tate]]                   | [[1. Ames/Fighter\|Fighter]], [[1. Ames/Coach\|Coach]]                                                                              | \-  |
-> | [[Edward Bernays\|Edward Bernays]]                     | [[PR Executive\|PR Executive]]                                                                                                            | \-  |
-> | [[1. Ames/George RR Martin\|George RR Martin]]         | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
-> | [[Joseph Fouché\|Joseph Fouché]]                       | [[1. Ames/Politician\|Politician]]                                                                                                     | \-  |
-> | [[MrBallen\|MrBallen]]                                 | [[1. Ames/Youtuber\|Youtuber]]                                                                                                         | \-  |
-> | [[Niccolò Machiavelli\|Niccolò Machiavelli]]           | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
-> | [[1. Ames/Philipp K. Dick\|Philipp K. Dick]]           | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
-> | [[Professor Jiang Xueqin\|Professor Jiang Xueqin]]     | [[1. Ames/Teacher\|Teacher]], [[1. Ames/Youtuber\|Youtuber]]                                                                        | \-  |
-> | [[Rasputin\|Rasputin]]                                 | [[Counselor\|Counselor]]                                                                                                                  | \-  |
-> | [[Robert Moore\|Robert Moore]]                         | [[CARDS/Writer\|Writer]], [[Psychanalyste\|Psychanalyste]]                                                                             | \-  |
-> | [[1. Ames/Stephen King\|Stephen King]]                 | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
-> | [[The Detached Manipulator\|The Detached Manipulator]] | [[Salesman\|Salesman]], [[Adman\|Adman]], [[CARDS/Depth Psychology Theory/Cult Leader\|Cult Leader]], [[Con Artist\|Con Artist]] | \-  |
-> | [[Umberto Eco\|Umberto Eco]]                           | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
+> [!example]- [[Famous People\|Famous People]]
+>  | Real                                                  | Activity                                                                                                                                  | Why |
+> | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --- |
+> | [[1. Ames/Andrew Tate\|Andrew Tate]]               | [[1. Ames/Fighter\|Fighter]], [[1. Ames/Coach\|Coach]]                                                                              | \-  |
+> | [[Edward Bernays\|Edward Bernays]]                 | [[PR Executive\|PR Executive]]                                                                                                            | \-  |
+> | [[1. Ames/George RR Martin\|George RR Martin]]     | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
+> | [[Joseph Fouché\|Joseph Fouché]]                   | [[1. Ames/Politician\|Politician]]                                                                                                     | \-  |
+> | [[MrBallen\|MrBallen]]                             | [[1. Ames/Youtuber\|Youtuber]]                                                                                                         | \-  |
+> | [[Niccolò Machiavelli\|Niccolò Machiavelli]]       | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
+> | [[1. Ames/Philipp K. Dick\|Philipp K. Dick]]       | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
+> | [[Professor Jiang Xueqin\|Professor Jiang Xueqin]] | [[1. Ames/Teacher\|Teacher]], [[1. Ames/Youtuber\|Youtuber]]                                                                        | \-  |
+> | [[Rasputin\|Rasputin]]                             | [[Counselor\|Counselor]]                                                                                                                  | \-  |
+> | [[Robert Moore\|Robert Moore]]                     | [[CARDS/Writer\|Writer]], [[Psychanalyste\|Psychanalyste]]                                                                             | \-  |
+> | [[1. Ames/Stephen King\|Stephen King]]             | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
+> | [[The Manipulator\|The Manipulator]]               | [[Salesman\|Salesman]], [[Adman\|Adman]], [[CARDS/Depth Psychology Theory/Cult Leader\|Cult Leader]], [[Con Artist\|Con Artist]] | \-  |
+> | [[Umberto Eco\|Umberto Eco]]                       | [[CARDS/Writer\|Writer]]                                                                                                               | \-  |
 > 
 { .block-language-dataview}
 

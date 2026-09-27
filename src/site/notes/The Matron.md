@@ -22,7 +22,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  | Real                                | Activity                 | Why                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 > | ----------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[Abigail Adams\|Abigail Adams]] | [[Counselor\|Counselor]] | Her relationship with John Adams is the gold-standard real-world example. While John was the public-facing politician, Abigail was at home utility-maxxing—managing a farm entirely by herself during wartime, making clothing, and surviving on sheer productivity. She absorbed political, economic, and social wisdom, conferring it to John via their famous letters. She was his absolute best adviser, directly molding his social strategy and political decisions |

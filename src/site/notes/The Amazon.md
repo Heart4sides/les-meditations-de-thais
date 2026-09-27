@@ -6,7 +6,7 @@ The Amazon is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the `=
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  - [[Agrippina the Younger\|Agrippina the Younger]] ([[4. Corps/Ruler\|Ruler]]) - Once Nero became Emperor, Agrippina expected absolute submission. She ruled right alongside him, demanding to sign state documents and pushing her unilateral authority over the senate. When Nero began trying to establish his own autonomy, she became hyper-critical, nagging, and threatening, even trying to push an alternative heir to undermine him. Her smothering, unyielding shadow control was so extreme that Nero ultimately concluded the only way to escape his mother's devouring grip was to have her assassinated.
 > - [[Dee Dee Blanchard\|Dee Dee Blanchard]] ([[Caregiver\|Caregiver]]) - completely monopolizes the narrative of being a selfless, sacrificing saint of a mother who has abandoned everything to care for her chronically ill daughter, Gypsy. She enforces absolute authority over Gypsy's body and mind through a lifetime of systemic lies, medical fabrication, and militant isolation. In her mind, she is protecting her child from a dangerous world, but her twisted expression of nurture and care requires stripping away Gypsy's teeth, hair, and legs to ensure she never grows up and leaves the safety of her mother's suffocating grip.
 > 

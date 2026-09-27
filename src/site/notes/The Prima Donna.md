@@ -6,7 +6,7 @@ The Prima Donna is the [[Shadow Female Archetype\|Shadow Female Archetype]] of t
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 
-> [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
+> [!example]- [[Famous People\|Famous People]]
 >  - [[Queen Elizabeth I\|Queen Elizabeth I]] ([[4. Corps/Ruler\|Ruler]]) - After surviving smallpox, which left her skin deeply scarred, she became obsessed with a flawless white complexion. She used venetian ceruse (a toxic makeup made of white lead and vinegar) to coat her skin. As she aged, she demanded that all mirrors be removed from her palaces so she wouldn't have to look at her wrinkles, while forcing her court to constantly praise her "ageless" beauty.
 > - [[Sisi\|Sisi]] ([[4. Corps/Ruler\|Ruler]]) - obsessed with maintaining her 19-inch waist and legendary ankle-length hair. Her daily grooming routine took up to three hours. She weighed herself multiple times a day, survived on crash diets of raw egg whites and beef broth, and famously refused to have her portrait painted or photographed after the age of 30 so the world would never see her look old.
 > 
