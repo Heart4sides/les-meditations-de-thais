@@ -1,0 +1,22 @@
+/* 1. Rend le conteneur du callout [!example] entièrement transparent */
+.callout[data-callout="example"] {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding-left: 0px !important;
+}
+
+/* 2. Ajuste l'alignement des listes (Dataview ou normales) à l'intérieur */
+.callout[data-callout="example"] .callout-content ul {
+    padding-left: 1.5em !important;
+    margin-left: 0px !important;
+    list-style-position: inside !important;
+}
+
+/* 3. Optionnel : Donne une couleur discrète au titre du callout pour qu'il se démarque sans boîte */
+.callout[data-callout="example"] .callout-title {
+    background-color: transparent !important;
+    padding-left: 0px !important;
+    margin-bottom: 8px !important;
+    border-bottom: 1px dashed var(--text-muted, #666); /* Petite ligne sous le titre */
+}
