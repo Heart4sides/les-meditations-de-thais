@@ -28,7 +28,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                     | Production                                                                    | Activity                      | Why |
 > | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------- | --- |
 > | [[Cat Hardy\|Cat Hardy]]                   | [[Spider Noir\|Spider Noir]]                                               | [[1. Ames/Singer\|Singer]] | \-  |
@@ -37,6 +37,8 @@
 > | [[Karen Wheeler\|Karen Wheeler]]           | [[CARDS/Depth Psychology Theory/Stranger Things\|Stranger Things]]         | [[Housewife\|Housewife]]      | \-  |
 > | [[1. Ames/Margery Tyrell\|Margery Tyrell]] | [[Game of Thrones\|Game of Thrones]]                                       | [[Queen\|Queen]]           | \-  |
 > | [[1. Ames/Miss Audrey\|Miss Audrey]]       | [[4. Corps/Snowpiercer\|Snowpiercer]]                                      | [[1. Ames/Singer\|Singer]] | \-  |
+> | [[Noemie Leclerc\|Noemie Leclerc]]         | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                            | \-  |
+> | [[Sofia Leprince\|Sofia Leprince]]         | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                            | \-  |
 > | [[Susan Mayer\|Susan Mayer]]               | [[Desperate Housewives\|Desperate Housewives]]                             | [[Illustrator\|Illustrator]]  | \-  |
 > 
 { .block-language-dataview}

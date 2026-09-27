@@ -12,7 +12,7 @@ These people commonly act as [[Salesman\|Salesman]], [[Adman\|Adman]], [[CARDS/D
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                                                 | Production                                                                    | Activity                                                                               | Why |
 > | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --- |
 > | [[Aladdin\|Aladdin]]                                                   | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | [[Robber\|Robber]]                                                                     | \-  |
@@ -24,6 +24,7 @@ These people commonly act as [[Salesman\|Salesman]], [[Adman\|Adman]], [[CARDS/D
 > | [[1. Ames/Frank Abagnale\|Frank Abagnale]]                             | [[CARDS/Collectives/Catch Me If You Can\|Catch Me If You Can]]             | [[Con Artist\|Con Artist]]                                                             | \-  |
 > | [[1. Ames/Frank Underwood\|Frank Underwood]]                           | [[1. Ames/House of Cards\|House of Cards]]                                 | [[1. Ames/Politician\|Politician]]                                                  | \-  |
 > | [[Frank Wheeler\|Frank Wheeler]]                                       | [[Revolutionary Road\|Revolutionary Road]]                                 | [[Salesman\|Salesman]]                                                              | \-  |
+> | [[Gilderoy Lockhart\|Gilderoy Lockhart]]                               | [[Harry Potter\|Harry Potter]]                                             | \-                                                                                     | \-  |
 > | [[Hannibal Lecter\|Hannibal Lecter]]                                   | [[Silence of the Lamb\|Silence of the Lamb]]                               | \-                                                                                     | \-  |
 > | [[Jordan Belfort (DiCaprio)\|Jordan Belfort (DiCaprio)]]               | [[The Wolf of Wall Street\|The Wolf of Wall Street]]                       | [[stockbroker\|stockbroker]], [[CARDS/Writer\|Writer]], [[1. Ames/Coach\|Coach]] | \-  |
 > | [[Kaa\|Kaa]]                                                           | [[Jungle Book\|Jungle Book]]                                               | \-                                                                                     | \-  |

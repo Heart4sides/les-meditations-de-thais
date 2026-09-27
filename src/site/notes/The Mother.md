@@ -28,7 +28,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                             | Production                                                  | Activity | Why |
 > | ----------------------------------------------------- | ----------------------------------------------------------- | -------- | --- |
 > | [[Audrey Fleurot\|Audrey Fleurot]]                 | [[Dix Pour Cent\|Dix Pour Cent]]                         | \-       | \-  |

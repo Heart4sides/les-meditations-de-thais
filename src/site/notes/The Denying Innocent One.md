@@ -13,7 +13,7 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                         | Production                                                  | Activity                                                      | Why                                                                                                                                                                                                                                                                                                     |
 > | ------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[1. Ames/Albus Dumbledore\|Albus Dumbledore]] | [[Harry Potter\|Harry Potter]]                           | [[4. Corps/Ruler\|Ruler]], [[1. Ames/Teacher\|Teacher]] | frequently uses feigned ignorance or senility when dealing with the Ministry of Magic or suspicious characters.                                                                                                                                                                                         |

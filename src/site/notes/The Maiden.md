@@ -28,7 +28,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                             | Production                                                                                  | Activity | Why |
 > | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------- | --- |
 > | [[1. Ames/Belle\|Belle]]                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                                 | \-       | \-  |

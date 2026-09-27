@@ -1,9 +1,9 @@
 ---
-{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[SD]]"],"GArchetype":"[[The Warrior|Warrior]]","Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\"","dg-publish":true,"Moore":["[[Powerless]]","[[Defenseless]]","[[Martyred]]","[[Subservient]]","[[Resigned]]","[[Grovelling]]"],"CopingStrat":["[[Ambivalent]]"],"SelfImage":"[[Conscientious]]","Attitude":["[[Respectful]]"],"Behaviour":["[[Conforming]]"],"language":"fr","permalink":"/the-masochist/","dgPassFrontmatter":true,"dg-note-properties":{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[CARDS/Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[CARDS/SD]]"],"GArchetype":"[[The Warrior|Warrior]]","Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\"","Moore":["[[Powerless]]","[[Defenseless]]","[[Martyred]]","[[Subservient]]","[[Resigned]]","[[Grovelling]]"],"CopingStrat":["[[CARDS/Ambivalent]]"],"SelfImage":"[[3. Esprit/Conscientious]]","Attitude":["[[Respectful]]"],"Behaviour":["[[Conforming]]"],"language":"fr"}}
+{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[SD]]"],"GArchetype":"[[The Warrior|Warrior]]","Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]","[[Passive Shadows of the Male Archetypes]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\"","dg-publish":true,"Moore":["[[Powerless]]","[[Defenseless]]","[[Martyred]]","[[Subservient]]","[[Resigned]]","[[Grovelling]]"],"CopingStrat":["[[Ambivalent]]"],"SelfImage":"[[Conscientious]]","Attitude":["[[Respectful]]"],"Behaviour":["[[Conforming]]"],"language":"fr","permalink":"/the-masochist/","dgPassFrontmatter":true,"dg-note-properties":{"Socialization":"[[Harmonious]]","Focus":["[[Pity]]"],"Traits":["[[CARDS/Self-deprecation]]","[[Self sabotaging]]","[[Self-destructive]]","[[Defenseless Function|Defenseless]]"],"Development":["[[CARDS/SD]]"],"GArchetype":"[[The Warrior|Warrior]]","Category":["[[Passive Shadows of the Male Archetypes|Passive Shadow]]","[[Passive Shadows of the Male Archetypes]]"],"i-Monologue":"\"If I am the victim I will receive special treatment\"","Moore":["[[Powerless]]","[[Defenseless]]","[[Martyred]]","[[Subservient]]","[[Resigned]]","[[Grovelling]]"],"CopingStrat":["[[CARDS/Ambivalent]]"],"SelfImage":"[[3. Esprit/Conscientious]]","Attitude":["[[Respectful]]"],"Behaviour":["[[Conforming]]"],"language":"fr"}}
 ---
 
 
-The Masochist is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]] of the `=this.Sharchetype`. 
+The Masochist is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]],[[Passive Shadows of the Male Archetypes\|Passive Shadows of the Male Archetypes]] of the `=this.Sharchetype`. 
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 
@@ -21,13 +21,14 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
->  | Fictional                                 | Production                                    | Activity                  | Why |
-> | ----------------------------------------- | --------------------------------------------- | ------------------------- | --- |
-> | [[Frank Wheeler\|Frank Wheeler]]       | [[Revolutionary Road\|Revolutionary Road]] | [[Salesman\|Salesman]] | \-  |
-> | [[1. Ames/Nina Sayers\|Nina Sayers]]   | [[1. Ames/Black Swan\|Black Swan]]         | \-                        | \-  |
-> | [[The Narrator\|The Narrator]]         | [[Fight Club\|Fight Club]]                 | \-                        | \-  |
-> | [[1. Ames/Tyler Durden\|Tyler Durden]] | [[Fight Club\|Fight Club]]                 | \-                        | \-  |
+> [!example]- [[Fictional Character\|Fictional Character]]
+>  | Fictional                                 | Production                                    | Activity                  | Why                                           |
+> | ----------------------------------------- | --------------------------------------------- | ------------------------- | --------------------------------------------- |
+> | [[Frank Wheeler\|Frank Wheeler]]       | [[Revolutionary Road\|Revolutionary Road]] | [[Salesman\|Salesman]] | \-                                            |
+> | [[Gabriel Sarda\|Gabriel Sarda]]       | [[Dix Pour Cent\|Dix Pour Cent]]           | \-                        | "Je suis une sous merde", Tête de chien battu |
+> | [[1. Ames/Nina Sayers\|Nina Sayers]]   | [[1. Ames/Black Swan\|Black Swan]]         | \-                        | \-                                            |
+> | [[The Narrator\|The Narrator]]         | [[Fight Club\|Fight Club]]                 | \-                        | \-                                            |
+> | [[1. Ames/Tyler Durden\|Tyler Durden]] | [[Fight Club\|Fight Club]]                 | \-                        | \-                                            |
 > 
 { .block-language-dataview}
 

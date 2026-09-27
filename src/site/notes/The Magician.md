@@ -41,7 +41,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                                                 | Production                                                                    | Activity                                                                               | Why |
 > | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --- |
 > | [[Aladdin\|Aladdin]]                                                   | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | [[Robber\|Robber]]                                                                     | \-  |

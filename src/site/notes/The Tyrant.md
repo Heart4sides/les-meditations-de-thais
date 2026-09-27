@@ -12,7 +12,7 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                           | Production                                                        | Activity                  | Why                                                                                      |
 > | --------------------------------------------------- | ----------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------- |
 > | [[Adam Sutler\|Adam Sutler]]                     | [[V for Vendetta\|V for Vendetta]]                             | \-                        | \-                                                                                       |
@@ -20,6 +20,7 @@ These people commonly act as \-...
 > | [[Darkness (Legend)\|Darkness (Legend)]]         | [[Legend (1985)\|Legend (1985)]]                               | \-                        | \-                                                                                       |
 > | [[Frank Wheeler\|Frank Wheeler]]                 | [[Revolutionary Road\|Revolutionary Road]]                     | [[Salesman\|Salesman]] | \-                                                                                       |
 > | [[1. Ames/Gaston\|Gaston]]                       | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]       | \-                        | \-                                                                                       |
+> | [[Hicham Janowski\|Hicham Janowski]]             | [[Dix Pour Cent\|Dix Pour Cent]]                               | \-                        | \-                                                                                       |
 > | [[1. Ames/Joffrey Baratheon\|Joffrey Baratheon]] | [[Game of Thrones\|Game of Thrones]]                           | \-                        | \-                                                                                       |
 > | [[1. Ames/Peter Pan\|Peter Pan]]                 | [[Peter Pan (1953)\|Peter Pan (1953)]]                         | \-                        | \-                                                                                       |
 > | [[Silvermane\|Silvermane]]                       | [[Spider Noir\|Spider Noir]]                                   | \-                        | \-                                                                                       |

@@ -1,5 +1,5 @@
 ---
-{"language":"fr","Category":["[[List]]"],"dg-publish":true,"permalink":"/god/","dgPassFrontmatter":true,"dg-note-properties":{"language":"fr","Category":["[[List]]"]}}
+{"language":"fr","Category":["[[List]]"],"dg-publish":true,"Emoji":"⚡","permalink":"/god/","dgPassFrontmatter":true,"dg-note-properties":{"language":"fr","Category":["[[List]]"],"Emoji":"⚡"}}
 ---
 
 
@@ -17,10 +17,12 @@
 > | [[Frigg\|Frigg]]                         | [[Odinic\|Odinic]]                    | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]                                  |
 > | [[Hephaïstos\|Hephaïstos]]               | [[Greek Mythology\|Greek]]         | [[The Lover\|Lover]], [[The Magician\|Magician]] | [[The Impotent\|Impotent]]                                                           |
 > | [[Hermes\|Hermes]]                       | [[Greek Mythology\|Greek]]         | [[The Magician\|Magician]]                          | [[The Denying Innocent One\|Innocent]], [[The Detached Manipulator\|Manipulator]] |
+> | [[Ishtar\|Ishtar]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Cynic\|Cynic]]                                                                 |
 > | [[Isis\|Isis]]                           | [[Egyptian Mythology\|Egyptian]]      | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]]                                                               |
 > | [[Izanami-no-Mikoto\|Izanami-no-Mikoto]] | [[Japanese Mythology\|Japanese]]      | \-                                                     | [[The Phantom\|Phantom]]                                                             |
 > | [[Kali\|Kali]]                           | [[Hindu Mythology\|Hindu]]         | \-                                                     | [[The Amazon\|Amazon]]                                                               |
 > | [[Krishna\|Krishna]]                     | [[Hindu Mythology\|Hindu]]         | [[The Lover\|Lover]]                                | \-                                                                                      |
+> | [[Lilith\|Lilith]]                       | [[Christian Mythology\|Christian]] | \-                                                     | [[The Cynic\|Cynic]]                                                                 |
 > | [[3. Esprit/Loki\|Loki]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | [[The Denying Innocent One\|Innocent]], [[The Detached Manipulator\|Manipulator]] |
 > | [[Nut\|Nut]]                             | [[Egyptian Mythology\|Egyptian]]      | \-                                                     | [[The Phantom\|Phantom]]                                                             |
 > | [[3. Esprit/Odin\|Odin]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | \-                                                                                      |
@@ -37,7 +39,9 @@
  >  | File                                        | Mythology                             | Gender Archetype                                       | Shadow Archetype                                                                        |
 > | ------------------------------------------- | ------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 > | [[Tiamat\|Tiamat]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Amazon\|Amazon]]                                                               |
+> | [[Ishtar\|Ishtar]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Cynic\|Cynic]]                                                                 |
 > | [[Satan\|Satan]]                         | [[Christian Mythology\|Christian]] | [[The Magician\|Magician]]                          | [[The Detached Manipulator\|Manipulator]]                                            |
+> | [[Lilith\|Lilith]]                       | [[Christian Mythology\|Christian]] | \-                                                     | [[The Cynic\|Cynic]]                                                                 |
 > | [[Isis\|Isis]]                           | [[Egyptian Mythology\|Egyptian]]      | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]]                                                               |
 > | [[Nut\|Nut]]                             | [[Egyptian Mythology\|Egyptian]]      | \-                                                     | [[The Phantom\|Phantom]]                                                             |
 > | [[The Demiurge\|The Demiurge]]           | [[Gnosticism\|Gnosticism]]            | [[The Magician\|Magician]]                          | [[The Detached Manipulator\|Manipulator]]                                            |

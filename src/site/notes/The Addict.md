@@ -13,7 +13,7 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                             | Production                                          | Activity                                   | Why |
 > | ------------------------------------- | --------------------------------------------------- | ------------------------------------------ | --- |
 > | [[Barney Stinson\|Barney Stinson]] | [[How I met your Mother\|How I met your Mother]] | [[Scapegoat\|Scapegoat]], [[Agent\|Agent]] | \-  |

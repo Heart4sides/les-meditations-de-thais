@@ -15,7 +15,7 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-> [!example]- [[Fictional Characters\|Fictional Characters]]
+> [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                                  | Production                                                                    | Activity                     | Why                                                                         |
 > | ---------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------------------------------- |
 > | [[1. Ames/Trône de Fer/Alliser Thorne\|Alliser Thorne]] | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                          |
