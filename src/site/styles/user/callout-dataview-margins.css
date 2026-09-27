@@ -1,20 +1,21 @@
-/* Ciblage ultra-précis pour les listes Dataview imbriquées dans les callouts */
+/* Réaligne les listes Dataview dans les callouts pour le thème par défaut */
 .callout-content ul.dataview.list-view-ul {
-    padding-left: 1.25em !important;
+    padding-left: 1.5em !important;
     margin-left: 0px !important;
     margin-inline-start: 0px !important;
     list-style-position: inside !important;
     width: 100% !important;
 }
 
-/* Assure que la puce et son texte s'alignent proprement sans déborder à droite */
+/* Force l'alignement propre de chaque puce et de son texte */
 .callout-content ul.dataview.list-view-ul li {
     display: list-item !important;
     padding-left: 0px !important;
     margin-right: 0px !important;
+    text-indent: 0px !important;
 }
 
-/* Force la couleur et l'affichage des marqueurs/puces dans Anatomy Nocturn */
+/* Optionnel : Assure que la puce récupère la couleur du texte principal du callout */
 .callout-content ul.dataview.list-view-ul li::marker {
-    color: var(--text-accent, #4d93ff) !important; /* Utilise la couleur d'accentuation du thème */
+    color: var(--text-normal) !important;
 }
