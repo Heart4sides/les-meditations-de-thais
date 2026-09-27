@@ -29,10 +29,22 @@ It's the archetype that Falls into apathy out of feeling like a hopeless case.
 > - [[Yuki-Onna\|Yuki-Onna]] (\-) - In many tales, this snow spirit possesses breathtaking, ethereal genetic beauty. However, when she tries to integrate into human society to experience warmth, health, and love, her efforts fail to yield fast results—her cold nature inevitably slips out, ruining her human disguise. Out of deep frustration and hopelessness, she spirals into severe apathy. She retreats to a desolate, messy mountain shack, letting her appearance become ragged and wild, hiding in the snow because she believes she will never truly look or feel "naturally beautiful or alive."
 > 
 { .block-language-dataview}
+
 <style>
-/* Corrige de force l'alignement des listes de callouts générées par Digital Garden */
+/* Supprime toutes les bordures et lignes des tableaux Dataview */
+.dataview.table-view-table, 
+.dataview.table-view-table th, 
+.dataview.table-view-table td,
+table, th, td {
+    border: none !important;
+    border-bottom: none !important;
+    border-top: none !important;
+    box-shadow: none !important;
+}
+
+/* En bonus : Aligne enfin vos puces de listes dans les callouts */
 .callout-content ul {
-    padding-left: 20px !important;
-    margin-left: 10px !important;
+    padding-left: 1.5em !important;
+    margin-left: 0px !important;
 }
 </style>
