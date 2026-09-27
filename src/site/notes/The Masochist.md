@@ -7,7 +7,6 @@ The Masochist is the [[Passive Shadows of the Male Archetypes\|Passive Shadow]],
 It's the archetype that `=this.Definition`. 
 These people commonly act as \-... 
 
-
 | Coping Strat                        | Self Image                                    | Attitudes                  | Behaviour                  |
 | ----------------------------------- | --------------------------------------------- | -------------------------- | -------------------------- |
 | [[CARDS/Ambivalent\|Ambivalent]] | [[3. Esprit/Conscientious\|Conscientious]] | [[Respectful\|Respectful]] | [[Conforming\|Conforming]] |
@@ -15,26 +14,20 @@ These people commonly act as \-...
 { .block-language-dataview}
 
 > [!example]- [[Famous People\|Famous People]]
->  | Real              | Activity | Why |
-> | ----------------- | -------- | --- |
-> | [[Ares\|Ares]] | \-       | \-  |
+>  - [[Ares\|Ares]] (\-) - \-
 > 
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  | Fictional                                 | Production                                    | Activity                  | Why                                           |
-> | ----------------------------------------- | --------------------------------------------- | ------------------------- | --------------------------------------------- |
-> | [[Frank Wheeler\|Frank Wheeler]]       | [[Revolutionary Road\|Revolutionary Road]] | [[Salesman\|Salesman]] | \-                                            |
-> | [[Gabriel Sarda\|Gabriel Sarda]]       | [[Dix Pour Cent\|Dix Pour Cent]]           | \-                        | "Je suis une sous merde", Tête de chien battu |
-> | [[1. Ames/Nina Sayers\|Nina Sayers]]   | [[1. Ames/Black Swan\|Black Swan]]         | \-                        | \-                                            |
-> | [[The Narrator\|The Narrator]]         | [[Fight Club\|Fight Club]]                 | \-                        | \-                                            |
-> | [[1. Ames/Tyler Durden\|Tyler Durden]] | [[Fight Club\|Fight Club]]                 | \-                        | \-                                            |
+>  - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - \-
+> - [[Gabriel Sarda\|Gabriel Sarda]] ([[Dix Pour Cent\|Dix Pour Cent]]) - "Je suis une sous merde", Tête de chien battu
+> - [[1. Ames/Nina Sayers\|Nina Sayers]] ([[1. Ames/Black Swan\|Black Swan]]) - \-
+> - [[The Narrator\|The Narrator]] ([[Fight Club\|Fight Club]]) - \-
+> - [[1. Ames/Tyler Durden\|Tyler Durden]] ([[Fight Club\|Fight Club]]) - \-
 > 
 { .block-language-dataview}
 
-> [!example]- [[Deities\|Deities]]
->  | Deities           | Mythology                     | Why |
-> | ----------------- | ----------------------------- | --- |
-> | [[Ares\|Ares]] | [[Greek Mythology\|Greek]] | \-  |
+> [!example]- [[God\|Deities]]
+>  - [[Ares\|Ares]] ([[Greek Mythology\|Greek]]) - \-
 > 
 { .block-language-dataview}

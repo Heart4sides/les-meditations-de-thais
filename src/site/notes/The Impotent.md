@@ -8,31 +8,25 @@ It's the archetype that Numbs himself to life and excitement, perhaps to protect
 These people commonly act as \-... 
 
 > [!example]- [[Famous People\|Famous People]]
->  | Real                          | Activity | Why |
-> | ----------------------------- | -------- | --- |
-> | [[Hephaïstos\|Hephaïstos]] | \-       | \-  |
+>  - [[Hephaïstos\|Hephaïstos]] (\-) - \-
 > 
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  | Fictional                                                   | Production                                            | Activity                                                           | Why                                                                                                                                                                                                                                                        |
-> | ----------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[1. Ames/Brienne de Torth\|Brienne de Torth]]           | [[Game of Thrones\|Game of Thrones]]               | \-                                                                 | \-                                                                                                                                                                                                                                                         |
-> | [[1. Ames/Camille Preaker\|Camille Preaker]]             | [[Sharp Objects\|Sharp Objects]]                   | [[Detective\|Detective]], [[1. Ames/Journalist\|Journalist]] | \-                                                                                                                                                                                                                                                         |
-> | [[Dr Manhattan\|Dr Manhattan]]                           | [[Watchmen\|Watchmen]]                             | \-                                                                 | \-                                                                                                                                                                                                                                                         |
-> | [[Elliot Alderson\|Elliot Alderson]]                     | [[Mr Robot\|Mr Robot]]                             | \-                                                                 | He suffers from social anxiety disorder and clinical depression, using morphine to cope with his internal emptiness.Mistrust: His entire worldview is built on paranoia and a total lack of trust in society, corporations, and the people closest to him. |
-> | [[Hervé André-Jezak\|Hervé André-Jezak]]                 | [[Dix Pour Cent\|Dix Pour Cent]]                   | \-                                                                 | \-                                                                                                                                                                                                                                                         |
-> | [[Holden Caulfield\|Holden Caulfield]]                   | [[The Catcher in the Rye\|The Catcher in the Rye]] | \-                                                                 | experiences profound alienation, exhaustion, and a chronic lack of enthusiasm for the future.Mistrust: He famously labels almost everyone around him as a "phony," using cynicism to shield himself from the pain of human rejection and grief.            |
-> | [[Meursault\|Meursault]]                                 | [[The Stranger\|The Stranger]]                     | \-                                                                 | He exhibits complete emotional detachment and absolute psychological numbness. He completely lacks trust in societal constructs, emotional bonds, and the expectations of relationships.                                                                   |
-> | [[CARDS/Depth Psychology Theory/Rust Cohle\|Rust Cohle]] | [[4. Corps/True Detective\|True Detective]]        | \-                                                                 | \-                                                                                                                                                                                                                                                         |
-> | [[The Narrator\|The Narrator]]                           | [[Fight Club\|Fight Club]]                         | \-                                                                 | \-                                                                                                                                                                                                                                                         |
+>  - [[1. Ames/Brienne de Torth\|Brienne de Torth]] ([[Game of Thrones\|Game of Thrones]]) - \-
+> - [[1. Ames/Camille Preaker\|Camille Preaker]] ([[Sharp Objects\|Sharp Objects]]) - \-
+> - [[Dr Manhattan\|Dr Manhattan]] ([[Watchmen\|Watchmen]]) - \-
+> - [[Elliot Alderson\|Elliot Alderson]] ([[Mr Robot\|Mr Robot]]) - He suffers from social anxiety disorder and clinical depression, using morphine to cope with his internal emptiness.Mistrust: His entire worldview is built on paranoia and a total lack of trust in society, corporations, and the people closest to him.
+> - [[Hervé André-Jezak\|Hervé André-Jezak]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
+> - [[Holden Caulfield\|Holden Caulfield]] ([[The Catcher in the Rye\|The Catcher in the Rye]]) - experiences profound alienation, exhaustion, and a chronic lack of enthusiasm for the future.Mistrust: He famously labels almost everyone around him as a "phony," using cynicism to shield himself from the pain of human rejection and grief.
+> - [[Meursault\|Meursault]] ([[The Stranger\|The Stranger]]) - He exhibits complete emotional detachment and absolute psychological numbness. He completely lacks trust in societal constructs, emotional bonds, and the expectations of relationships.
+> - [[CARDS/Depth Psychology Theory/Rust Cohle\|Rust Cohle]] ([[4. Corps/True Detective\|True Detective]]) - \-
+> - [[The Narrator\|The Narrator]] ([[Fight Club\|Fight Club]]) - \-
 > 
 { .block-language-dataview}
 
-> [!example]- [[Deities\|Deities]]
->  | Deities                       | Mythology                     | Why                                                                                                                                                                                                                                                                                                       |
-> | ----------------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Chronos\|Chronos]]       | [[Greek Mythology\|Greek]] | represents the ultimate form of paranoid divine depression. Prophesied to be overthrown by his children, his absolute lack of trust led him to a horrific coping mechanism: consuming his own newborn children to maintain control. It is an archetype defined entirely by isolation, fear, and zero joy. |
-> | [[Hephaïstos\|Hephaïstos]] | [[Greek Mythology\|Greek]] | \-                                                                                                                                                                                                                                                                                                        |
+> [!example]- [[God\|Deities]]
+>  - [[Chronos\|Chronos]] ([[Greek Mythology\|Greek]]) - represents the ultimate form of paranoid divine depression. Prophesied to be overthrown by his children, his absolute lack of trust led him to a horrific coping mechanism: consuming his own newborn children to maintain control. It is an archetype defined entirely by isolation, fear, and zero joy.
+> - [[Hephaïstos\|Hephaïstos]] ([[Greek Mythology\|Greek]]) - \-
 > 
 { .block-language-dataview}

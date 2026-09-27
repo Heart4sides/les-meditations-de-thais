@@ -7,7 +7,7 @@
 | File                                                                                  | Gender Archetype              | Shadow Archetype                    |
 | ------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------- |
 | [[1. Ames/Alastor Moody\|Alastor Moody]]                                           | \-                            | \-                                  |
-| [[1. Ames/Albus Dumbledore\|Albus Dumbledore]]                                     | [[The Denyer\|The Denyer]] | [[The Denyer\|Innocent]]         |
+| [[1. Ames/Albus Dumbledore\|Albus Dumbledore]]                                     | [[The Denier\|The Denier]] | [[The Denier\|Innocent]]         |
 | [[Argus Filch\|Argus Filch]]                                                       | \-                            | [[The Sadist\|Sadist]]           |
 | [[1. Ames/Arthur Weasley\|Arthur Weasley]]                                         | \-                            | \-                                  |
 | [[1. Ames/Aunt Marge\|Aunt Marge]]                                                 | \-                            | \-                                  |

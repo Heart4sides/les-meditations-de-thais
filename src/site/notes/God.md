@@ -18,14 +18,14 @@
 > | [[Freya\|Freya]]                         | [[Odinic\|Odinic]]                    | \-                                                     | [[The Prima Donna\|Prima Donna]]                              |
 > | [[Frigg\|Frigg]]                         | [[Odinic\|Odinic]]                    | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]           |
 > | [[Hephaïstos\|Hephaïstos]]               | [[Greek Mythology\|Greek]]         | [[The Lover\|Lover]], [[The Magician\|Magician]] | [[The Impotent\|Impotent]]                                    |
-> | [[Hermes\|Hermes]]                       | [[Greek Mythology\|Greek]]         | [[The Magician\|Magician]]                          | [[The Denyer\|Innocent]], [[The Manipulator\|Manipulator]] |
+> | [[Hermes\|Hermes]]                       | [[Greek Mythology\|Greek]]         | [[The Magician\|Magician]]                          | [[The Denier\|Innocent]], [[The Manipulator\|Manipulator]] |
 > | [[Ishtar\|Ishtar]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Cynic\|Cynic]]                                          |
 > | [[Isis\|Isis]]                           | [[Egyptian Mythology\|Egyptian]]      | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]]                                        |
 > | [[Izanami-no-Mikoto\|Izanami-no-Mikoto]] | [[Japanese Mythology\|Japanese]]      | \-                                                     | [[The Phantom\|Phantom]]                                      |
 > | [[Kali\|Kali]]                           | [[Hindu Mythology\|Hindu]]         | \-                                                     | [[The Amazon\|Amazon]]                                        |
 > | [[Krishna\|Krishna]]                     | [[Hindu Mythology\|Hindu]]         | [[The Lover\|Lover]]                                | \-                                                               |
 > | [[Lilith\|Lilith]]                       | [[Christian Mythology\|Christian]] | \-                                                     | [[The Cynic\|Cynic]]                                          |
-> | [[3. Esprit/Loki\|Loki]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | [[The Denyer\|Innocent]], [[The Manipulator\|Manipulator]] |
+> | [[3. Esprit/Loki\|Loki]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | [[The Denier\|Innocent]], [[The Manipulator\|Manipulator]] |
 > | [[Nut\|Nut]]                             | [[Egyptian Mythology\|Egyptian]]      | \-                                                     | [[The Phantom\|Phantom]]                                      |
 > | [[3. Esprit/Odin\|Odin]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | \-                                                               |
 > | [[Satan\|Satan]]                         | [[Christian Mythology\|Christian]] | [[The Magician\|Magician]]                          | [[The Manipulator\|Manipulator]]                              |
@@ -33,7 +33,7 @@
 > | [[The Demiurge\|The Demiurge]]           | [[Gnosticism\|Gnosticism]]            | [[The Magician\|Magician]]                          | [[The Manipulator\|Manipulator]]                              |
 > | [[Tiamat\|Tiamat]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Amazon\|Amazon]]                                        |
 > | [[Yuki-Onna\|Yuki-Onna]]                 | [[Japanese Mythology\|Japanese]]      | \-                                                     | [[The Peasant\|Peasant]]                                      |
-> | [[Zeus\|Zeus]]                           | [[Greek Mythology\|Greek]]         | \-                                                     | [[The Denyer\|Innocent]]                                      |
+> | [[Zeus\|Zeus]]                           | [[Greek Mythology\|Greek]]         | \-                                                     | [[The Denier\|Innocent]]                                      |
 > 
 { .block-language-dataview}
 
@@ -50,8 +50,8 @@
 > | [[Nut\|Nut]]                             | [[Egyptian Mythology\|Egyptian]]      | \-                                                     | [[The Phantom\|Phantom]]                                      |
 > | [[The Demiurge\|The Demiurge]]           | [[Gnosticism\|Gnosticism]]            | [[The Magician\|Magician]]                          | [[The Manipulator\|Manipulator]]                              |
 > | [[Demeter\|Demeter]]                     | [[Greek Mythology\|Greek]]         | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]           |
-> | [[Zeus\|Zeus]]                           | [[Greek Mythology\|Greek]]         | \-                                                     | [[The Denyer\|Innocent]]                                      |
-> | [[Hermes\|Hermes]]                       | [[Greek Mythology\|Greek]]         | [[The Magician\|Magician]]                          | [[The Denyer\|Innocent]], [[The Manipulator\|Manipulator]] |
+> | [[Zeus\|Zeus]]                           | [[Greek Mythology\|Greek]]         | \-                                                     | [[The Denier\|Innocent]]                                      |
+> | [[Hermes\|Hermes]]                       | [[Greek Mythology\|Greek]]         | [[The Magician\|Magician]]                          | [[The Denier\|Innocent]], [[The Manipulator\|Manipulator]] |
 > | [[Aergia\|Aergia]]                       | [[Greek Mythology\|Greek]]         | \-                                                     | [[The Peasant\|Peasant]]                                      |
 > | [[Aphrodites\|Aphrodites]]               | [[Greek Mythology\|Greek]]         | [[The Maiden\|Maiden]]                              | [[The Prima Donna\|Prima Donna]]                              |
 > | [[Athena\|Athena]]                       | [[Greek Mythology\|Greek]]         | [[The Warrior\|Warrior]]                            | \-                                                               |
@@ -63,7 +63,7 @@
 > | [[Kali\|Kali]]                           | [[Hindu Mythology\|Hindu]]         | \-                                                     | [[The Amazon\|Amazon]]                                        |
 > | [[Izanami-no-Mikoto\|Izanami-no-Mikoto]] | [[Japanese Mythology\|Japanese]]      | \-                                                     | [[The Phantom\|Phantom]]                                      |
 > | [[Yuki-Onna\|Yuki-Onna]]                 | [[Japanese Mythology\|Japanese]]      | \-                                                     | [[The Peasant\|Peasant]]                                      |
-> | [[3. Esprit/Loki\|Loki]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | [[The Denyer\|Innocent]], [[The Manipulator\|Manipulator]] |
+> | [[3. Esprit/Loki\|Loki]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | [[The Denier\|Innocent]], [[The Manipulator\|Manipulator]] |
 > | [[3. Esprit/Odin\|Odin]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | \-                                                               |
 > | [[Frigg\|Frigg]]                         | [[Odinic\|Odinic]]                    | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]           |
 > | [[Angrboða\|Angrboða]]                   | [[Odinic\|Odinic]]                    | \-                                                     | [[The Amazon\|Amazon]]                                        |

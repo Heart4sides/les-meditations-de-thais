@@ -9,13 +9,13 @@
 
 { .block-language-dataview}
 
-| Lists                                                                |
-| -------------------------------------------------------------------- |
-| 😎 [[CARDS/Depth Psychology Theory/Famous People\|Famous People]] |
-| 🎭 [[Fictional Character\|Fictional Character]]                   |
-| ⚡ [[God\|God]]                                                    |
-| 📚 [[Reading List\|Reading List]]                                 |
-| 🎬 [[Watch List\|Watch List]]                                     |
-| ▶️ [[Youtube Playlists\|Youtube Playlists]]                       |
+| Lists                                              |
+| -------------------------------------------------- |
+| 😎 [[Famous People\|Famous People]]             |
+| 🎭 [[Fictional Character\|Fictional Character]] |
+| ⚡ [[God\|God]]                                  |
+| 📚 [[Reading List\|Reading List]]               |
+| 🎬 [[Watch List\|Watch List]]                   |
+| ▶️ [[Youtube Playlists\|Youtube Playlists]]     |
 
 { .block-language-dataview}

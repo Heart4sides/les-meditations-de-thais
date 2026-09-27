@@ -7,23 +7,17 @@ It's the archetype that `=this.Definition`.
 These people commonly act as \-... 
 
 > [!example]- [[Famous People\|Famous People]]
->  | Real                        | Activity                              | Why |
-> | --------------------------- | ------------------------------------- | --- |
-> | [[Bob Fosse\|Bob Fosse]] | [[1. Ames/Moviemaker\|Moviemaker]] | \-  |
+>  - [[Bob Fosse\|Bob Fosse]] ([[1. Ames/Moviemaker\|Moviemaker]]) - \-
 > 
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  | Fictional                             | Production                                          | Activity                                   | Why |
-> | ------------------------------------- | --------------------------------------------------- | ------------------------------------------ | --- |
-> | [[Barney Stinson\|Barney Stinson]] | [[How I met your Mother\|How I met your Mother]] | [[Scapegoat\|Scapegoat]], [[Agent\|Agent]] | \-  |
-> | [[Beth Hammond\|Beth Hammond]]     | [[the queen's Gambit\|the queen's Gambit]]       | \-                                         | \-  |
-> | [[Joe Gideon\|Joe Gideon]]         | [[All That Jazz\|All That Jazz]]                 | \-                                         | \-  |
+>  - [[Barney Stinson\|Barney Stinson]] ([[How I met your Mother\|How I met your Mother]]) - \-
+> - [[Beth Hammond\|Beth Hammond]] ([[the queen's Gambit\|the queen's Gambit]]) - \-
+> - [[Joe Gideon\|Joe Gideon]] ([[All That Jazz\|All That Jazz]]) - \-
 > 
 { .block-language-dataview}
 
-> [!example]- [[Deities\|Deities]]
->  | Deities | Mythology | Why |
-> | ------- | --------- | --- |
-> 
+> [!example]- [[God\|Deities]]
+>  
 { .block-language-dataview}
