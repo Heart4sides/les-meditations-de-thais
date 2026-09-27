@@ -11,7 +11,7 @@ It's the archetype that hoards power through leverage, blackmail or covert contr
 
 > [!example]- [[Fictional Character\|Fictional Character]]
 >  - [[Adam Sutler\|Adam Sutler]] ([[V for Vendetta\|V for Vendetta]]) - \-
-> - [[1. Ames/Boromir\|Boromir]] ([[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]) - Thinks he is owed the ring because of the sacrifices Gondor made to protect Middle Earth
+> - [[1. Ames/Boromir\|Boromir]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - Thinks he is owed the ring because of the sacrifices Gondor made to protect Middle Earth
 > - [[Darkness (Legend)\|Darkness (Legend)]] ([[Legend (1985)\|Legend (1985)]]) - \-
 > - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - \-
 > - [[1. Ames/Gaston\|Gaston]] ([[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]) - \-

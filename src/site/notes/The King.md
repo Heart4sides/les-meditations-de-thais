@@ -9,22 +9,22 @@
 | [[Masculine Archetypes\|Masculine Archetypes]] | [[The King\|The King]] | [[The Weakling\|The Weakling]] |
 
 { .block-language-dataview}
-| Category                                                                                 |                                                                                                   |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 🎭 [[ATLAS/Attitude\|Attitude]]                                                       | 🧒 [[CARDS/Depth Psychology Theory/Child\|Child]]                                              |
-| 🧠 [[Cognitive Sense\|Cognitive Sense]]                                               | 🧲 [[CARDS/Intuition\|Intuition]]                                                              |
-| ❤️ [[ATLAS/Love Language\|Love Language]]                                             | 🫂, 🎁 [[CARDS/Depth Psychology Theory/Moral Support\|Moral Support]], [[CARDS/Gift\|Gift]] |
-| 🟰 [[Mathematical Operation\|Mathematical Operation]]                                 | ✖️ [[Multiplication\|Multiplication]]                                                          |
-| 🃏 [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 💰 [[CARDS/Depth Psychology Theory/Coins\|Coins]]                                              |
-| 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | 🌱 [[CARDS/Depth Psychology Theory/Spring\|Spring]]                                            |
-| 🦚 [[CARDS/Seduction Style\|Seduction Style]]                                         | 😎 [[CARDS/Depth Psychology Theory/Charismatic\|Charismatic]]                                  |
-| \- [[Templars\|Templars]]                                                             |  Extremely wealthy                                                                                |
-| 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | ☀️ [[CARDS/Octagram/Soul Temple\|Soul]]                                                        |
-
+> [!example]- [[Connections\|Connections]]
+>  | Category                                                                                 |                                                                                              |
+> | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+> | 🎭 [[ATLAS/Attitude\|Attitude]]                                                       | 🧔 [[CARDS/Parent\|Parent]]                                                               |
+> | 🧠 [[Cognitive Sense\|Cognitive Sense]]                                               | 🤔 [[CARDS/Thinking\|Thinking]]                                                           |
+> | ❤️ [[ATLAS/Love Language\|Love Language]]                                             | 👂, 🗣️ [[CARDS/Listen\|Listen]], [[CARDS/Words of Affirmation\|Words of Affirmation]] |
+> | 🟰 [[Mathematical Operation\|Mathematical Operation]]                                 | ➗ [[CARDS/Words & Expressions/Division\|Division]]                                        |
+> | 🃏 [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 🪄 [[CARDS/Depth Psychology Theory/Wands\|Wands]]                                         |
+> | 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | 🍂 [[Autumn\|Autumn]]                                                                     |
+> | 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | 🧠 [[CARDS/Depth Psychology Theory/Mind Temple\|Mind]]                                    |
+> 
 { .block-language-dataview}
 
 > [!example]- [[Famous People\|Famous People]]
->  - [[Vlad Dracula the Impaler\|Vlad Dracula the Impaler]] ([[4. Corps/Ruler\|Ruler]]) - Killed all those who weren't earning, generating
+>  - [[Rousseau\|Rousseau]] ([[3. Esprit/Grille des Types/Philosophe\|Philosophe]]) - \-
+> - [[Vlad Dracula the Impaler\|Vlad Dracula the Impaler]] ([[4. Corps/Ruler\|Ruler]]) - Killed all those who weren't earning, generating
 > 
 { .block-language-dataview}
 

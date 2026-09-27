@@ -18,7 +18,8 @@ It's the archetype that tries to be seen as a victim in order to receive special
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - \-
+>  - [[1. Ames/Dobby\|Dobby]] ([[Harry Potter\|Harry Potter]]) - \-
+> - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - \-
 > - [[Gabriel Sarda\|Gabriel Sarda]] ([[Dix Pour Cent\|Dix Pour Cent]]) - "Je suis une sous merde", Tête de chien battu
 > - [[1. Ames/Nina Sayers\|Nina Sayers]] ([[1. Ames/Black Swan\|Black Swan]]) - \-
 > - [[The Narrator\|The Narrator]] ([[Fight Club\|Fight Club]]) - \-

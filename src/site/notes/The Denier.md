@@ -42,6 +42,7 @@ It's the archetype that claims ignorance to avoid responsibility.
 > - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - \-
 > - [[Guillaume Debailly\|Guillaume Debailly]] ([[Le Bureau des Légendes\|Le Bureau des Légendes]]) - Looks like a harmless sheep
 > - [[1. Ames/Loki (Marvel)\|Loki (Marvel)]] ([[2. Coeurs/Marvel\|Marvel]]) - frequently uses false naivety or pretends to be completely clueless about plots he orchestrated myself.
+> - [[Patrick Star\|Patrick Star]] ([[SpongeBob SquarePants\|SpongeBob SquarePants]]) - While usually depicted as naturally dim-witted, several episodes explicitly imply that he weaponizes or exaggerates his ignorance to avoid responsibilities, work, or consequences.
 > - [[1. Ames/Peter Griffin\|Peter Griffin]] ([[CARDS/Depth Psychology Theory/Family Guy\|Family Guy]]) - consistently and aggressively fights to stay ignorant. Whenever faced with complex emotional realities, financial ruin, or the consequences of his actions, he actively chooses to retreat into a childlike state of denial, firmly believing that thinking too hard or knowing too much ruins his fun.
 > 
 { .block-language-dataview}

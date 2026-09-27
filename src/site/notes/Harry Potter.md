@@ -13,6 +13,7 @@
 | [[1. Ames/Aunt Marge\|Aunt Marge]]                                                 | \-                            | \-                                  |
 | [[1. Ames/Bellatrix Lestrange\|Bellatrix Lestrange]]                               | \-                            | [[The Sadist\|Sadist]]           |
 | [[Cornelius Fudge\|Cornelius Fudge]]                                               | \-                            | \-                                  |
+| [[1. Ames/Dobby\|Dobby]]                                                           | \-                            | [[The Masochist\|Masochist]]     |
 | [[1. Ames/Dolores Ombrage\|Dolores Ombrage]]                                       | \-                            | [[The Sadist\|Sadist]]           |
 | [[1. Ames/Draco Malfoy\|Draco Malfoy]]                                             | \-                            | \-                                  |
 | [[1. Ames/Fred Weasley\|Fred Weasley]]                                             | \-                            | \-                                  |

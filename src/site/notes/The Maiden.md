@@ -31,6 +31,7 @@
 > [!example]- [[Fictional Character\|Fictional Character]]
 >  | Fictional                                             | Production                                                                                  | Activity | Why |
 > | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------- | --- |
+> | [[Andrea Martel\|Andrea Martel]]                   | [[Dix Pour Cent\|Dix Pour Cent]]                                                         | \-       | \-  |
 > | [[1. Ames/Belle\|Belle]]                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                                 | \-       | \-  |
 > | [[Bonnie Carlson\|Bonnie Carlson]]                 | [[4. Corps/Big Little Lies\|Big Little Lies]]                                            | \-       | \-  |
 > | [[Effie Stonem\|Effie Stonem]]                     | [[Skins\|Skins]]                                                                         | \-       | \-  |

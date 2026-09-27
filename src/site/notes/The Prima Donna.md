@@ -13,7 +13,8 @@ These people commonly act as \-...
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  - [[Blair Waldorf\|Blair Waldorf]] ([[Gossip Girl\|Gossip Girl]]) - entitled, and grooming-obsessed queen bee. She demands absolute loyalty and perfection, frequently acting out when she is not the center of her social hierarchy.
+>  - [[Andrea Martel\|Andrea Martel]] ([[Dix Pour Cent\|Dix Pour Cent]]) - Known for being demanding and looking down on "popular" actors
+> - [[Blair Waldorf\|Blair Waldorf]] ([[Gossip Girl\|Gossip Girl]]) - entitled, and grooming-obsessed queen bee. She demands absolute loyalty and perfection, frequently acting out when she is not the center of her social hierarchy.
 > - [[Cruella de Vil\|Cruella de Vil]] ([[One hundred and one Dalmatians\|One hundred and one Dalmatians]]) - Her vanity is entirely focused on extravagant fashion and physical presentation. She doesn't care about wealth for comfort; she wants luxury to display herself. Her obsession with owning the perfect fur coat to enhance her appearance drives her to absolute madness.
 > - [[Gabrielle Solis\|Gabrielle Solis]] ([[Desperate Housewives\|Desperate Housewives]]) - \-
 > - [[Lydia Bennet\|Lydia Bennet]] ([[2. Coeurs/Pride and Prejudice\|Pride and Prejudice]]) - attention-seeking, vain, and thoughtless, completely blind to the consequences of her actions and ungrateful for the sacrifices her family makes to save her reputation.
