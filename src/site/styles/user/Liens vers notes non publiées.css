@@ -1,0 +1,7 @@
+/* Cible la classe injectée par Digital Garden pour les notes inexistantes */
+.internal-link.is-unresolved {
+    color: var(--text-normal) !important;       /* Même couleur que votre texte standard */
+    text-decoration: none !important;          /* Supprime le soulignement de lien */
+    cursor: text !important;                   /* Transforme la souris en curseur de texte */
+    pointer-events: none !important;           /* Rend le lien totalement non cliquable */
+}
