@@ -23,8 +23,9 @@
 { .block-language-dataview}
 
 > [!example]- [[CARDS/Depth Psychology Theory/Famous People\|Famous People]]
->  | Real | Activity | Why |
-> | ---- | -------- | --- |
+>  | Real                            | Activity                   | Why |
+> | ------------------------------- | -------------------------- | --- |
+> | [[Sophie Rain\|Sophie Rain]] | [[Influencer\|Influencer]] | \-  |
 > 
 { .block-language-dataview}
 
