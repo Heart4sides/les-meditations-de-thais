@@ -23,31 +23,24 @@
 { .block-language-dataview}
 
 > [!example]- [[Famous People\|Famous People]]
->  | Real | Activity | Why |
-> | ---- | -------- | --- |
-> 
+>  
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  | Fictional                                             | Production                                                                                  | Activity | Why |
-> | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | -------- | --- |
-> | [[Andrea Martel\|Andrea Martel]]                   | [[Dix Pour Cent\|Dix Pour Cent]]                                                         | \-       | \-  |
-> | [[1. Ames/Belle\|Belle]]                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                                 | \-       | \-  |
-> | [[Bonnie Carlson\|Bonnie Carlson]]                 | [[4. Corps/Big Little Lies\|Big Little Lies]]                                            | \-       | \-  |
-> | [[Effie Stonem\|Effie Stonem]]                     | [[Skins\|Skins]]                                                                         | \-       | \-  |
-> | [[1. Ames/Eleven\|Eleven]]                         | [[CARDS/Depth Psychology Theory/Stranger Things\|Stranger Things]]                       | \-       | \-  |
-> | [[1. Ames/Fern\|Fern]]                             | [[Frieren (Anime)\|Frieren (Anime)]]                                                     | \-       | \-  |
-> | [[Gabrielle Solis\|Gabrielle Solis]]               | [[Desperate Housewives\|Desperate Housewives]]                                           | \-       | \-  |
-> | [[1. Ames/Josie Packard\|Josie Packard]]           | [[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]                                           | \-       | \-  |
-> | [[1. Ames/Marla Singer\|Marla Singer]]             | [[Fight Club\|Fight Club]]                                                               | \-       | \-  |
-> | [[Snow White\|Snow White]]                         | [[SOURCES/Collectives/Snow White and the Seven Dwarfs\|Snow White and the Seven Dwarfs]] | \-       | \-  |
-> | [[1. Ames/Tanya McQuoid (S1)\|Tanya McQuoid (S1)]] | [[1. Ames/The White Lotus\|The White Lotus]]                                             | \-       | \-  |
+>  - [[Andrea Martel\|Andrea Martel]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
+> - [[1. Ames/Belle\|Belle]] ([[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]) - \-
+> - [[Bonnie Carlson\|Bonnie Carlson]] ([[4. Corps/Big Little Lies\|Big Little Lies]]) - The healthy one
+> - [[Effie Stonem\|Effie Stonem]] ([[Skins\|Skins]]) - \-
+> - [[Gabrielle Solis\|Gabrielle Solis]] ([[Desperate Housewives\|Desperate Housewives]]) - \-
+> - [[1. Ames/Josie Packard\|Josie Packard]] ([[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]) - \-
+> - [[1. Ames/Marla Singer\|Marla Singer]] ([[Fight Club\|Fight Club]]) - \-
+> - [[Snow White\|Snow White]] ([[SOURCES/Collectives/Snow White and the Seven Dwarfs\|Snow White and the Seven Dwarfs]]) - \-
+> - [[1. Ames/Tanya McQuoid (S1)\|Tanya McQuoid (S1)]] ([[1. Ames/The White Lotus\|The White Lotus]]) - \-
+> - [[The Evil Queen\|The Evil Queen]] ([[SOURCES/Collectives/Snow White and the Seven Dwarfs\|Snow White and the Seven Dwarfs]]) - Wants to be the most beautiful one
 > 
 { .block-language-dataview}
 
-> [!example]- [[Deities\|Deities]]
->  | Deities                       | Mythology                     | Why |
-> | ----------------------------- | ----------------------------- | --- |
-> | [[Aphrodites\|Aphrodites]] | [[Greek Mythology\|Greek]] | \-  |
+> [!example]- [[God\|Deities]]
+>  - [[Aphrodites\|Aphrodites]] ([[Greek Mythology\|Greek]]) - \-
 > 
 { .block-language-dataview}

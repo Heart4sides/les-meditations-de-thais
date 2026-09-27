@@ -23,34 +23,26 @@
 { .block-language-dataview}
 
 > [!example]- [[Famous People\|Famous People]]
->  | Real                            | Activity                   | Why |
-> | ------------------------------- | -------------------------- | --- |
-> | [[Sophie Rain\|Sophie Rain]] | [[Influencer\|Influencer]] | \-  |
+>  - [[Sophie Rain\|Sophie Rain]] ([[Influencer\|Influencer]]) - \-
 > 
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  | Fictional                                             | Production                                                  | Activity | Why |
-> | ----------------------------------------------------- | ----------------------------------------------------------- | -------- | --- |
-> | [[Audrey Fleurot\|Audrey Fleurot]]                 | [[Dix Pour Cent\|Dix Pour Cent]]                         | \-       | \-  |
-> | [[Bree Van de Camp\|Bree Van de Camp]]             | [[Desperate Housewives\|Desperate Housewives]]           | \-       | \-  |
-> | [[1. Ames/Daenerys Targaryen\|Daenerys Targaryen]] | [[Game of Thrones\|Game of Thrones]]                     | \-       | \-  |
-> | [[Dr. Alethea Faber\|Dr. Alethea Faber]]           | [[Spider Noir\|Spider Noir]]                             | \-       | \-  |
-> | [[1. Ames/Edie Britt\|Edie Britt]]                 | [[Desperate Housewives\|Desperate Housewives]]           | \-       | \-  |
-> | [[Frieren\|Frieren]]                               | [[Frieren (Anime)\|Frieren (Anime)]]                     | \-       | \-  |
-> | [[Lynette Scavo\|Lynette Scavo]]                   | [[Desperate Housewives\|Desperate Housewives]]           | \-       | \-  |
-> | [[Madelyn Stillwell\|Madelyn Stillwell]]           | [[CARDS/Depth Psychology Theory/The Boys\|The Boys]]     | \-       | \-  |
-> | [[1. Ames/Molly Weasley\|Molly Weasley]]           | [[Harry Potter\|Harry Potter]]                           | \-       | \-  |
-> | [[Mrs Potts\|Mrs Potts]]                           | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]] | \-       | \-  |
-> | [[Wendy Darling\|Wendy Darling]]                   | [[Peter Pan (1953)\|Peter Pan (1953)]]                   | \-       | \-  |
+>  - [[Audrey Fleurot\|Audrey Fleurot]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
+> - [[Bree Van de Camp\|Bree Van de Camp]] ([[Desperate Housewives\|Desperate Housewives]]) - Very caring ; mother figure to Zach
+> - [[1. Ames/Daenerys Targaryen\|Daenerys Targaryen]] ([[Game of Thrones\|Game of Thrones]]) - \-
+> - [[Dr. Alethea Faber\|Dr. Alethea Faber]] ([[Spider Noir\|Spider Noir]]) - \-
+> - [[1. Ames/Edie Britt\|Edie Britt]] ([[Desperate Housewives\|Desperate Housewives]]) - \-
+> - [[Madelyn Stillwell\|Madelyn Stillwell]] ([[CARDS/Depth Psychology Theory/The Boys\|The Boys]]) - \-
+> - [[1. Ames/Molly Weasley\|Molly Weasley]] ([[Harry Potter\|Harry Potter]]) - \-
+> - [[Mrs Potts\|Mrs Potts]] ([[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]) - \-
+> - [[Wendy Darling\|Wendy Darling]] ([[Peter Pan (1953)\|Peter Pan (1953)]]) - \-
 > 
 { .block-language-dataview}
 
-> [!example]- [[Deities\|Deities]]
->  | Deities                 | Mythology                        | Why |
-> | ----------------------- | -------------------------------- | --- |
-> | [[Demeter\|Demeter]] | [[Greek Mythology\|Greek]]    | \-  |
-> | [[Frigg\|Frigg]]     | [[Odinic\|Odinic]]               | \-  |
-> | [[Isis\|Isis]]       | [[Egyptian Mythology\|Egyptian]] | \-  |
+> [!example]- [[God\|Deities]]
+>  - [[Demeter\|Demeter]] ([[Greek Mythology\|Greek]]) - \-
+> - [[Frigg\|Frigg]] ([[Odinic\|Odinic]]) - \-
+> - [[Isis\|Isis]] ([[Egyptian Mythology\|Egyptian]]) - \-
 > 
 { .block-language-dataview}

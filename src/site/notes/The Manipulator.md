@@ -33,7 +33,7 @@ These people commonly act as [[Salesman\|Salesman]], [[Adman\|Adman]], [[CARDS/D
 > - [[1. Ames/Ramsay Bolton\|Ramsay Bolton]] ([[Game of Thrones\|Game of Thrones]]) - \-
 > - [[1. Ames/Samuel Tarly\|Samuel Tarly]] ([[Game of Thrones\|Game of Thrones]]) - \-
 > - [[1. Ames/Saruman\|Saruman]] ([[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]) - \-
-> - [[Sauron\|Sauron]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[Sauron\|Sauron]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[1. Ames/Scar\|Scar]] ([[2. Coeurs/Lion King\|Lion King]]) - \-
 > - [[Sherlock Holmes (Cumberbatch)\|Sherlock Holmes (Cumberbatch)]] ([[CARDS/Depth Psychology Theory/Sherlock\|Sherlock]]) - \-
 > - [[CARDS/Members/Smaug\|Smaug]] ([[SOURCES/Collectives/The Hobbit\|The Hobbit]]) - \-

@@ -9,21 +9,21 @@
 >
 > Spider-Noir was released in its entirety on May 25, 2026, on MGM+ in the United States, in color, and consists of eight episodes. The series was later released globally on Prime Video on May 27, in both black-and-white and color versions. It received positive reviews from critics, with Cage's performance receiving particular praise. The series received 11 Primetime Emmy Award nominations, winning five. In September 2026, the series was canceled after one season.
 
-| File                                            | Gender Archetype                                       | Shadow Archetype                    |
-| ----------------------------------------------- | ------------------------------------------------------ | ----------------------------------- |
-| [[1. Ames/Aragorn\|Aragorn]]                 | [[The Warrior\|Warrior]]                            | \-                                  |
-| [[1. Ames/Boromir\|Boromir]]                 | [[The King\|King]]                                  | [[The Tyrant\|Tyrant]]           |
-| [[3. Esprit/Dwarves (LOTR)\|Dwarves (LOTR)]] | [[The King\|King]]                                  | \-                                  |
-| [[4. Corps/Elves\|Elves]]                    | [[The Lover\|Lover]]                                | \-                                  |
-| [[1. Ames/Eowin\|Eowin]]                     | [[The Matron\|Matron]]                              | \-                                  |
-| [[Galadriel\|Galadriel]]                     | [[The Consort\|Consort]], [[The Matron\|Matron]] | \-                                  |
-| [[1. Ames/Gimli\|Gimli]]                     | [[The Warrior\|Warrior]]                            | \-                                  |
-| [[Gollum\|Gollum]]                           | \-                                                     | \-                                  |
-| [[Gorbag\|Gorbag]]                           | \-                                                     | [[The Sadist\|Sadist]]           |
-| [[King Denethor II\|King Denethor II]]       | \-                                                     | [[The Weakling\|Weakling]]       |
-| [[Men (LOTR)\|Men (LOTR)]]                   | [[The Warrior\|Warrior]]                            | \-                                  |
-| [[Sauron\|Sauron]]                           | [[The Magician\|Magician]]                          | [[The Manipulator\|Manipulator]] |
-| [[1. Ames/Smeagol\|Smeagol]]                 | \-                                                     | \-                                  |
+| File                                            | Gender Archetype              | Shadow Archetype                    |
+| ----------------------------------------------- | ----------------------------- | ----------------------------------- |
+| [[1. Ames/Aragorn\|Aragorn]]                 | [[The Warrior\|Warrior]]   | \-                                  |
+| [[1. Ames/Boromir\|Boromir]]                 | [[The King\|King]]         | [[The Tyrant\|Tyrant]]           |
+| [[3. Esprit/Dwarves (LOTR)\|Dwarves (LOTR)]] | [[The King\|King]]         | \-                                  |
+| [[4. Corps/Elves\|Elves]]                    | [[The Lover\|Lover]]       | \-                                  |
+| [[1. Ames/Eowin\|Eowin]]                     | [[The Matron\|Matron]]     | \-                                  |
+| [[Galadriel\|Galadriel]]                     | [[The Consort\|Consort]]   | \-                                  |
+| [[1. Ames/Gimli\|Gimli]]                     | [[The Warrior\|Warrior]]   | \-                                  |
+| [[Gollum\|Gollum]]                           | \-                            | \-                                  |
+| [[Gorbag\|Gorbag]]                           | \-                            | [[The Sadist\|Sadist]]           |
+| [[King Denethor II\|King Denethor II]]       | \-                            | [[The Weakling\|Weakling]]       |
+| [[Men (LOTR)\|Men (LOTR)]]                   | [[The Warrior\|Warrior]]   | \-                                  |
+| [[Sauron\|Sauron]]                           | [[The Magician\|Magician]] | [[The Manipulator\|Manipulator]] |
+| [[1. Ames/Smeagol\|Smeagol]]                 | \-                            | \-                                  |
 
 { .block-language-dataview}
 

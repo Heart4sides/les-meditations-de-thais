@@ -10,13 +10,14 @@ It's the archetype that hoards power through leverage, blackmail or covert contr
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  - [[Adam Sutler\|Adam Sutler]] ([[V for Vendetta\|V for Vendetta]]) - \-
-> - [[1. Ames/Boromir\|Boromir]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - Thinks he is owed the ring because of the sacrifices Gondor made to protect Middle Earth
+>  - [[Adam Sutler\|Adam Sutler]] ([[V for Vendetta\|V for Vendetta]]) - Kills his people physically and spiritually, opposite of generative
+> - [[1. Ames/Boromir\|Boromir]] ([[The Lord of the Rings\|The Lord of the Rings]]) - Thinks he is owed the ring because of the sacrifices Gondor made to protect Middle Earth
 > - [[Darkness (Legend)\|Darkness (Legend)]] ([[Legend (1985)\|Legend (1985)]]) - \-
 > - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - \-
 > - [[1. Ames/Gaston\|Gaston]] ([[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]) - \-
 > - [[Hicham Janowski\|Hicham Janowski]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
 > - [[1. Ames/Joffrey Baratheon\|Joffrey Baratheon]] ([[Game of Thrones\|Game of Thrones]]) - \-
+> - [[1. Ames/Logan Roy\|Logan Roy]] ([[4. Corps/Succession\|Succession]]) - \-
 > - [[1. Ames/Peter Pan\|Peter Pan]] ([[Peter Pan (1953)\|Peter Pan (1953)]]) - \-
 > - [[Silvermane\|Silvermane]] ([[Spider Noir\|Spider Noir]]) - \-
 > - [[The Mad King\|The Mad King]] ([[Game of Thrones\|Game of Thrones]]) - \-

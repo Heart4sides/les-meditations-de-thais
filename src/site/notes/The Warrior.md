@@ -43,7 +43,7 @@
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  - [[1. Ames/Aragorn\|Aragorn]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+>  - [[1. Ames/Aragorn\|Aragorn]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[1. Ames/Batman (Bale)\|Batman (Bale)]] ([[1. Ames/The Dark Knight\|The Dark Knight]], [[Batman Trilogy\|Batman Trilogy]]) - A dark knight, doing dishonourable things
 > - [[Ben Reilly\|Ben Reilly]] ([[Spider Noir\|Spider Noir]]) - \-
 > - [[1. Ames/Bronn\|Bronn]] ([[Game of Thrones\|Game of Thrones]]) - \-
@@ -51,7 +51,7 @@
 > - [[Dothrakis\|Dothrakis]] ([[Game of Thrones\|Game of Thrones]]) - \-
 > - [[Elric of Melniboné\|Elric of Melniboné]] ([[Elric\|Elric]]) - \-
 > - [[Gabriel Sarda\|Gabriel Sarda]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
-> - [[1. Ames/Gimli\|Gimli]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[1. Ames/Gimli\|Gimli]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[1. Ames/Han Solo\|Han Solo]] ([[2. Coeurs/Star Wars\|Star Wars]]) - \-
 > - [[John Stewart\|John Stewart]] ([[Lanterns\|Lanterns]]) - \-
 > - [[1. Ames/Jorah Mormont\|Jorah Mormont]] ([[Game of Thrones\|Game of Thrones]]) - \-
@@ -59,7 +59,7 @@
 > - [[1. Ames/Leonidas\|Leonidas]] ([[CARDS/Depth Psychology Theory/300\|300]]) - \-
 > - [[Lewis Prothero\|Lewis Prothero]] ([[V for Vendetta\|V for Vendetta]]) - \-
 > - [[Logan (Wolverine)\|Logan (Wolverine)]] ([[2. Coeurs/Marvel\|Marvel]]) - \-
-> - [[Men (LOTR)\|Men (LOTR)]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[Men (LOTR)\|Men (LOTR)]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[Mike Delfino\|Mike Delfino]] ([[Desperate Housewives\|Desperate Housewives]]) - \-
 > - [[1. Ames/Robb Stark\|Robb Stark]] ([[Game of Thrones\|Game of Thrones]]) - Good strategist, But didn't respect his commitment
 > - [[1. Ames/Trinity\|Trinity]] ([[SOURCES/The Matrix\|The Matrix]]) - \-

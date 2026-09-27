@@ -15,8 +15,11 @@
 > | [[Chronos\|Chronos]]                     | [[Greek Mythology\|Greek]]         | [[The Lover\|Lover]], [[The King\|King]]         | [[The Tyrant\|Tyrant]], [[The Impotent\|Impotent]]         |
 > | [[Coatlicue\|Coatlicue]]                 | [[Aztec Mythology\|Aztec]]            | \-                                                     | [[The Phantom\|Phantom]]                                      |
 > | [[Demeter\|Demeter]]                     | [[Greek Mythology\|Greek]]         | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]           |
+> | [[Emperor Jade\|Emperor Jade]]           | [[Taoist Mythology\|Taoist]]          | [[The King\|King]]                                  | \-                                                               |
+> | [[2. Coeurs/Frey\|Frey]]                 | [[Odinic\|Odinic]]                    | [[The King\|King]]                                  | \-                                                               |
 > | [[Freya\|Freya]]                         | [[Odinic\|Odinic]]                    | \-                                                     | [[The Prima Donna\|Prima Donna]]                              |
 > | [[Frigg\|Frigg]]                         | [[Odinic\|Odinic]]                    | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]           |
+> | [[Hades\|Hades]]                         | [[Greek Mythology\|Greek]]         | [[The King\|King]]                                  | \-                                                               |
 > | [[Hephaïstos\|Hephaïstos]]               | [[Greek Mythology\|Greek]]         | [[The Lover\|Lover]], [[The Magician\|Magician]] | [[The Impotent\|Impotent]]                                    |
 > | [[Hermes\|Hermes]]                       | [[Greek Mythology\|Greek]]         | [[The Magician\|Magician]]                          | [[The Denier\|Innocent]], [[The Manipulator\|Manipulator]] |
 > | [[Ishtar\|Ishtar]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Cynic\|Cynic]]                                          |
@@ -44,14 +47,15 @@
 > | [[Tiamat\|Tiamat]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Amazon\|Amazon]]                                        |
 > | [[Ishtar\|Ishtar]]                       | [[Babylonian Mythology\|Babylonian]]  | \-                                                     | [[The Cynic\|Cynic]]                                          |
 > | [[Cailleach\|Cailleach]]                 | [[Celtic Mythology\|Celtic]]          | \-                                                     | [[The Peasant\|Peasant]]                                      |
-> | [[Satan\|Satan]]                         | [[Christian Mythology\|Christian]] | [[The Magician\|Magician]]                          | [[The Manipulator\|Manipulator]]                              |
 > | [[Lilith\|Lilith]]                       | [[Christian Mythology\|Christian]] | \-                                                     | [[The Cynic\|Cynic]]                                          |
+> | [[Satan\|Satan]]                         | [[Christian Mythology\|Christian]] | [[The Magician\|Magician]]                          | [[The Manipulator\|Manipulator]]                              |
 > | [[Isis\|Isis]]                           | [[Egyptian Mythology\|Egyptian]]      | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]]                                        |
 > | [[Nut\|Nut]]                             | [[Egyptian Mythology\|Egyptian]]      | \-                                                     | [[The Phantom\|Phantom]]                                      |
 > | [[The Demiurge\|The Demiurge]]           | [[Gnosticism\|Gnosticism]]            | [[The Magician\|Magician]]                          | [[The Manipulator\|Manipulator]]                              |
 > | [[Demeter\|Demeter]]                     | [[Greek Mythology\|Greek]]         | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]           |
 > | [[Zeus\|Zeus]]                           | [[Greek Mythology\|Greek]]         | \-                                                     | [[The Denier\|Innocent]]                                      |
 > | [[Hermes\|Hermes]]                       | [[Greek Mythology\|Greek]]         | [[The Magician\|Magician]]                          | [[The Denier\|Innocent]], [[The Manipulator\|Manipulator]] |
+> | [[Hades\|Hades]]                         | [[Greek Mythology\|Greek]]         | [[The King\|King]]                                  | \-                                                               |
 > | [[Aergia\|Aergia]]                       | [[Greek Mythology\|Greek]]         | \-                                                     | [[The Peasant\|Peasant]]                                      |
 > | [[Aphrodites\|Aphrodites]]               | [[Greek Mythology\|Greek]]         | [[The Maiden\|Maiden]]                              | [[The Prima Donna\|Prima Donna]]                              |
 > | [[Athena\|Athena]]                       | [[Greek Mythology\|Greek]]         | [[The Warrior\|Warrior]]                            | \-                                                               |
@@ -65,9 +69,11 @@
 > | [[Yuki-Onna\|Yuki-Onna]]                 | [[Japanese Mythology\|Japanese]]      | \-                                                     | [[The Peasant\|Peasant]]                                      |
 > | [[3. Esprit/Loki\|Loki]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | [[The Denier\|Innocent]], [[The Manipulator\|Manipulator]] |
 > | [[3. Esprit/Odin\|Odin]]                 | [[Odinic\|Odinic]]                    | [[The Magician\|Magician]]                          | \-                                                               |
+> | [[2. Coeurs/Frey\|Frey]]                 | [[Odinic\|Odinic]]                    | [[The King\|King]]                                  | \-                                                               |
 > | [[Frigg\|Frigg]]                         | [[Odinic\|Odinic]]                    | [[The Mother\|Mother]]                              | [[The Amazon\|Amazon]], [[The Phantom\|Phantom]]           |
 > | [[Angrboða\|Angrboða]]                   | [[Odinic\|Odinic]]                    | \-                                                     | [[The Amazon\|Amazon]]                                        |
 > | [[Freya\|Freya]]                         | [[Odinic\|Odinic]]                    | \-                                                     | [[The Prima Donna\|Prima Donna]]                              |
+> | [[Emperor Jade\|Emperor Jade]]           | [[Taoist Mythology\|Taoist]]          | [[The King\|King]]                                  | \-                                                               |
 > 
 { .block-language-dataview}
 

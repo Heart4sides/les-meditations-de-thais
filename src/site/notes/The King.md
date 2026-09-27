@@ -33,7 +33,7 @@
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  - [[Adam Sutler\|Adam Sutler]] ([[V for Vendetta\|V for Vendetta]]) - Kills his people physically and spiritually, opposite of generative
+>  - [[Adam Sutler\|Adam Sutler]] ([[V for Vendetta\|V for Vendetta]]) - \-
 > - [[1. Ames/Benjamin Horne\|Benjamin Horne]] ([[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]) - \-
 > - [[1. Ames/Boromir\|Boromir]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[Darkness (Legend)\|Darkness (Legend)]] ([[Legend (1985)\|Legend (1985)]]) - \-

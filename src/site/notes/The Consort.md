@@ -23,28 +23,22 @@
 { .block-language-dataview}
 
 > [!example]- [[Famous People\|Famous People]]
->  | Real | Activity | Why |
-> | ---- | -------- | --- |
-> 
+>  
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  | Fictional                                     | Production                                                                    | Activity                      | Why |
-> | --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------- | --- |
-> | [[Cat Hardy\|Cat Hardy]]                   | [[Spider Noir\|Spider Noir]]                                               | [[1. Ames/Singer\|Singer]] | \-  |
-> | [[1. Ames/Fabienne\|Fabienne]]             | [[1. Ames/Pulp Fiction\|Pulp Fiction]]                                     | \-                            | \-  |
-> | [[Galadriel\|Galadriel]]                   | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]] | \-                            | \-  |
-> | [[Karen Wheeler\|Karen Wheeler]]           | [[CARDS/Depth Psychology Theory/Stranger Things\|Stranger Things]]         | [[Housewife\|Housewife]]      | \-  |
-> | [[1. Ames/Margery Tyrell\|Margery Tyrell]] | [[Game of Thrones\|Game of Thrones]]                                       | [[Queen\|Queen]]           | \-  |
-> | [[1. Ames/Miss Audrey\|Miss Audrey]]       | [[4. Corps/Snowpiercer\|Snowpiercer]]                                      | [[1. Ames/Singer\|Singer]] | \-  |
-> | [[Noemie Leclerc\|Noemie Leclerc]]         | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                            | \-  |
-> | [[Sofia Leprince\|Sofia Leprince]]         | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                            | \-  |
-> | [[Susan Mayer\|Susan Mayer]]               | [[Desperate Housewives\|Desperate Housewives]]                             | [[Illustrator\|Illustrator]]  | \-  |
+>  - [[Cat Hardy\|Cat Hardy]] ([[Spider Noir\|Spider Noir]]) - \-
+> - [[1. Ames/Fabienne\|Fabienne]] ([[1. Ames/Pulp Fiction\|Pulp Fiction]]) - \-
+> - [[Galadriel\|Galadriel]] ([[The Lord of the Rings\|The Lord of the Rings]]) - Blesses the travelers with gifts and advice (Matron)
+> - [[Karen Wheeler\|Karen Wheeler]] ([[CARDS/Depth Psychology Theory/Stranger Things\|Stranger Things]]) - \-
+> - [[1. Ames/Margery Tyrell\|Margery Tyrell]] ([[Game of Thrones\|Game of Thrones]]) - \-
+> - [[1. Ames/Miss Audrey\|Miss Audrey]] ([[4. Corps/Snowpiercer\|Snowpiercer]]) - \-
+> - [[Noemie Leclerc\|Noemie Leclerc]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
+> - [[Sofia Leprince\|Sofia Leprince]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
+> - [[Susan Mayer\|Susan Mayer]] ([[Desperate Housewives\|Desperate Housewives]]) - \-
 > 
 { .block-language-dataview}
 
-> [!example]- [[Deities\|Deities]]
->  | Deities | Mythology | Why |
-> | ------- | --------- | --- |
-> 
+> [!example]- [[God\|Deities]]
+>  
 { .block-language-dataview}

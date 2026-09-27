@@ -24,7 +24,7 @@ It's the archetype that inflicts pain on people to make them stronger out of ins
 > - [[1. Ames/Dolores Ombrage\|Dolores Ombrage]] ([[Harry Potter\|Harry Potter]]) - \-
 > - [[Elric of Melniboné\|Elric of Melniboné]] ([[Elric\|Elric]]) - \-
 > - [[1. Ames/Gaston\|Gaston]] ([[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]) - \-
-> - [[Gorbag\|Gorbag]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[Gorbag\|Gorbag]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[1. Ames/Hades (Disney)\|Hades (Disney)]] ([[4. Corps/Hercule (Disney)\|Hercule (Disney)]]) - \-
 > - [[Hal Jordan\|Hal Jordan]] ([[Lanterns\|Lanterns]]) - Instead of teaching his student he makes him go through painful experiences
 > - [[1. Ames/Leo Johnson\|Leo Johnson]] ([[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]) - \-

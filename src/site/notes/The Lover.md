@@ -44,7 +44,7 @@
 > - [[1. Ames/Camille Preaker\|Camille Preaker]] ([[Sharp Objects\|Sharp Objects]]) - \-
 > - [[Dr Manhattan\|Dr Manhattan]] ([[Watchmen\|Watchmen]]) - \-
 > - [[Elliot Alderson\|Elliot Alderson]] ([[Mr Robot\|Mr Robot]]) - \-
-> - [[4. Corps/Elves\|Elves]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[4. Corps/Elves\|Elves]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - "I wanna feel things"
 > - [[Genie\|Genie]] ([[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]) - \-
 > - [[Hervé André-Jezak\|Hervé André-Jezak]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-

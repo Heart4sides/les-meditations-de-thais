@@ -23,24 +23,16 @@
 { .block-language-dataview}
 
 > [!example]- [[Famous People\|Famous People]]
->  | Real                                | Activity                 | Why                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-> | ----------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[Abigail Adams\|Abigail Adams]] | [[Counselor\|Counselor]] | Her relationship with John Adams is the gold-standard real-world example. While John was the public-facing politician, Abigail was at home utility-maxxing—managing a farm entirely by herself during wartime, making clothing, and surviving on sheer productivity. She absorbed political, economic, and social wisdom, conferring it to John via their famous letters. She was his absolute best adviser, directly molding his social strategy and political decisions |
+>  - [[Abigail Adams\|Abigail Adams]] ([[Counselor\|Counselor]]) - Her relationship with John Adams is the gold-standard real-world example. While John was the public-facing politician, Abigail was at home utility-maxxing—managing a farm entirely by herself during wartime, making clothing, and surviving on sheer productivity. She absorbed political, economic, and social wisdom, conferring it to John via their famous letters. She was his absolute best adviser, directly molding his social strategy and political decisions
 > 
 { .block-language-dataview}
 
 > [!example]- [[Fictional Character\|Fictional Character]]
->  | Fictional                             | Production                                                                                  | Activity | Why                |
-> | ------------------------------------- | ------------------------------------------------------------------------------------------- | -------- | ------------------ |
-> | [[1. Ames/Eowin\|Eowin]]           | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]               | \-       | Longs to be useful |
-> | [[Galadriel\|Galadriel]]           | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]               | \-       | \-                 |
-> | [[Lynette Scavo\|Lynette Scavo]]   | [[Desperate Housewives\|Desperate Housewives]]                                           | \-       | \-                 |
-> | [[The Evil Queen\|The Evil Queen]] | [[SOURCES/Collectives/Snow White and the Seven Dwarfs\|Snow White and the Seven Dwarfs]] | \-       | \-                 |
+>  - [[1. Ames/Eowin\|Eowin]] ([[The Lord of the Rings\|The Lord of the Rings]]) - Longs to be useful
+> - [[Lynette Scavo\|Lynette Scavo]] ([[Desperate Housewives\|Desperate Housewives]]) - Longs to get back to work to feel useful again? Highly productive. Creative in her solutions.
 > 
 { .block-language-dataview}
 
-> [!example]- [[Deities\|Deities]]
->  | Deities | Mythology | Why |
-> | ------- | --------- | --- |
-> 
+> [!example]- [[God\|Deities]]
+>  
 { .block-language-dataview}

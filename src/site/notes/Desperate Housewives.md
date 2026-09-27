@@ -9,7 +9,7 @@
 | [[Carlos Solis\|Carlos Solis]]         | \-                          | \-                          | \-                                  |
 | [[1. Ames/Edie Britt\|Edie Britt]]     | [[ESTJ SDPF\|ESTJ SDPF]]    | [[The Mother\|Mother]]   | \-                                  |
 | [[Gabrielle Solis\|Gabrielle Solis]]   | \-                          | [[The Maiden\|Maiden]]   | [[The Prima Donna\|Prima Donna]] |
-| [[Lynette Scavo\|Lynette Scavo]]       | [[ESFJ SDJF\|ESFJ SDJF]] | [[The Mother\|Mother]]   | \-                                  |
+| [[Lynette Scavo\|Lynette Scavo]]       | [[ESFJ SDJF\|ESFJ SDJF]] | [[The Matron\|Matron]]   | \-                                  |
 | [[Mike Delfino\|Mike Delfino]]         | [[ESTP SDJM\|ESTP SDJM]]    | [[The Warrior\|Warrior]] | \-                                  |
 | [[Susan Mayer\|Susan Mayer]]           | [[INFP SDPF\|INFP SDPF]] | [[The Consort\|Consort]] | \-                                  |
 | [[Tom Scavo\|Tom Scavo]]               | [[INTJ SDPM\|INTJ SDPM]] | \-                          | \-                                  |

@@ -70,7 +70,7 @@
 > - [[Sam (under the silver lake)\|Sam (under the silver lake)]] ([[Under the Silver Lake\|Under the Silver Lake]]) - \-
 > - [[1. Ames/Samuel Tarly\|Samuel Tarly]] ([[Game of Thrones\|Game of Thrones]]) - \-
 > - [[1. Ames/Saruman\|Saruman]] ([[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]) - \-
-> - [[Sauron\|Sauron]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[Sauron\|Sauron]] ([[The Lord of the Rings\|The Lord of the Rings]]) - \-
 > - [[1. Ames/Scar\|Scar]] ([[2. Coeurs/Lion King\|Lion King]]) - \-
 > - [[1. Ames/Severus Snape\|Severus Snape]] ([[Harry Potter\|Harry Potter]]) - \-
 > - [[Sherlock Holmes (Cumberbatch)\|Sherlock Holmes (Cumberbatch)]] ([[CARDS/Depth Psychology Theory/Sherlock\|Sherlock]]) - \-
