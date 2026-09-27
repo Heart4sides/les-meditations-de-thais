@@ -1,12 +1,12 @@
 ---
-{"Publish":null,"language":"fr","Category":["[[Masculine Archetypes]]"],"LoveLanguage":["[[Gift]]","[[Moral Support]]"],"Attitude":["[[Child]]"],"Sense":"[[Intuition]]","MathOperation":"[[Multiplication]]","Temple":"[[Soul Temple|Soul]]","Suit":"[[Coins]]","MacroVsMicro":"[[Macro]]","LeaderVsFollower":"[[Leader]]","Passive":"[[The Weakling]]","Active":"[[The Tyrant]]","SeductiveStyle":"[[Charismatic]]","dg-publish":true,"Emoji":"🤴","SpiritualVsMaterial":"[[Materialism|Materialistic]]","LuxuryVsAscetic":"[[Luxurious]]","SkinnyVsChubby":"[[Skinny]]","Focus":["[[Wealth]]"],"Archétype":"[[NJ]]","aliases":["King"],"permalink":"/the-king/","dgPassFrontmatter":true,"dg-note-properties":{"Publish":null,"language":"fr","Category":["[[Masculine Archetypes]]"],"LoveLanguage":["[[CARDS/Gift]]","[[CARDS/Depth Psychology Theory/Moral Support]]"],"Attitude":["[[CARDS/Depth Psychology Theory/Child]]"],"Sense":"[[CARDS/Intuition]]","MathOperation":"[[Multiplication]]","Temple":"[[CARDS/Octagram/Soul Temple|Soul]]","Suit":"[[CARDS/Depth Psychology Theory/Coins]]","MacroVsMicro":"[[Macro]]","LeaderVsFollower":"[[CARDS/Leader]]","Passive":"[[The Weakling]]","Active":"[[The Tyrant]]","SeductiveStyle":"[[CARDS/Depth Psychology Theory/Charismatic]]","Emoji":"🤴","SpiritualVsMaterial":"[[CARDS/Materialism|Materialistic]]","LuxuryVsAscetic":"[[Luxurious]]","SkinnyVsChubby":"[[Skinny]]","Focus":["[[Wealth]]"],"Archétype":"[[CARDS/Depth Psychology Theory/NJ]]","aliases":["King"]}}
+{"Publish":null,"language":"fr","Category":["[[Masculine Archetypes]]"],"LoveLanguage":["[[Gift]]","[[Moral Support]]"],"Attitude":["[[Child]]"],"Sense":"[[Intuition]]","MathOperation":"[[Multiplication]]","Temple":"[[Soul Temple|Soul]]","Suit":"[[Coins]]","MacroVsMicro":"[[Macro]]","LeaderVsFollower":"[[Leader]]","Passive":"[[The Weakling]]","Active":"[[The King]]","SeductiveStyle":"[[Charismatic]]","dg-publish":true,"Emoji":"🤴","SpiritualVsMaterial":"[[Materialism|Materialistic]]","LuxuryVsAscetic":"[[Luxurious]]","SkinnyVsChubby":"[[Skinny]]","Focus":["[[Wealth]]"],"Archétype":"[[NJ]]","aliases":["King"],"permalink":"/the-king/","dgPassFrontmatter":true,"dg-note-properties":{"Publish":null,"language":"fr","Category":["[[Masculine Archetypes]]"],"LoveLanguage":["[[CARDS/Gift]]","[[CARDS/Depth Psychology Theory/Moral Support]]"],"Attitude":["[[CARDS/Depth Psychology Theory/Child]]"],"Sense":"[[CARDS/Intuition]]","MathOperation":"[[Multiplication]]","Temple":"[[CARDS/Octagram/Soul Temple|Soul]]","Suit":"[[CARDS/Depth Psychology Theory/Coins]]","MacroVsMicro":"[[Macro]]","LeaderVsFollower":"[[CARDS/Leader]]","Passive":"[[The Weakling]]","Active":"[[The King]]","SeductiveStyle":"[[CARDS/Depth Psychology Theory/Charismatic]]","Emoji":"🤴","SpiritualVsMaterial":"[[CARDS/Materialism|Materialistic]]","LuxuryVsAscetic":"[[Luxurious]]","SkinnyVsChubby":"[[Skinny]]","Focus":["[[Wealth]]"],"Archétype":"[[CARDS/Depth Psychology Theory/NJ]]","aliases":["King"]}}
 ---
 
 
 
-| Category                                          | Active Shadow                 | Passive Shadow                    |
-| ------------------------------------------------- | ----------------------------- | --------------------------------- |
-| [[Masculine Archetypes\|Masculine Archetypes]] | [[The Tyrant\|The Tyrant]] | [[The Weakling\|The Weakling]] |
+| Category                                          | Active Shadow             | Passive Shadow                    |
+| ------------------------------------------------- | ------------------------- | --------------------------------- |
+| [[Masculine Archetypes\|Masculine Archetypes]] | [[The King\|The King]] | [[The Weakling\|The Weakling]] |
 
 { .block-language-dataview}
 | Category                                                                                 |                                                                                                   |
@@ -23,47 +23,35 @@
 
 { .block-language-dataview}
 
-**The King**
-
-- **Core Virtue:** Order, blessing, stability, and generative leadership.
-- **Active Shadow (The Tyrant):** Controlling, abusive, and paranoid of losing power.
-- **Passive Shadow (The Weakling):** Impotent, irresponsible, and lacking presence. [[1](https://gentscafe.co/2024/12/06/king-warrior-King-lover-book-review/), [2](https://www.youtube.com/watch?v=OjmtZBJNMx0&t=59), [3](https://auresnotes.com/king-warrior-King-lover-summary-robert-moore-douglas-gillette/), [4](https://www.youtube.com/watch?v=oaPPg-LRq74), [5](https://www.supersummary.com/king-warrior-King-lover/summary/)]
-
-
-| Real                                                      | Activity                     | Why                                              |
-| --------------------------------------------------------- | ---------------------------- | ------------------------------------------------ |
-| [[Vlad Dracula the Impaler\|Vlad Dracula the Impaler]] | [[4. Corps/Ruler\|Ruler]] | Killed all those who weren't earning, generating |
-
+> [!example]- [[Famous People\|Famous People]]
+>  - [[Vlad Dracula the Impaler\|Vlad Dracula the Impaler]] ([[4. Corps/Ruler\|Ruler]]) - Killed all those who weren't earning, generating
+> 
 { .block-language-dataview}
 
-| Fictional                                           | Production                                                                    | Activity                     | Why                                                                 |
-| --------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------- |
-| [[Adam Sutler\|Adam Sutler]]                     | [[V for Vendetta\|V for Vendetta]]                                         | \-                           | Kills his people physically and spiritually, opposite of generative |
-| [[1. Ames/Benjamin Horne\|Benjamin Horne]]       | [[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]                             | \-                           | \-                                                                  |
-| [[1. Ames/Boromir\|Boromir]]                     | [[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]             | \-                           | \-                                                                  |
-| [[Darkness (Legend)\|Darkness (Legend)]]         | [[Legend (1985)\|Legend (1985)]]                                           | \-                           | \-                                                                  |
-| [[3. Esprit/Dwarves (LOTR)\|Dwarves (LOTR)]]     | [[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]] | \-                           | \-                                                                  |
-| [[Frank Wheeler\|Frank Wheeler]]                 | [[Revolutionary Road\|Revolutionary Road]]                                 | [[Salesman\|Salesman]]    | \-                                                                  |
-| [[1. Ames/Gaston\|Gaston]]                       | [[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]                   | \-                           | \-                                                                  |
-| [[Hicham Janowski\|Hicham Janowski]]             | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                           | \-                                                                  |
-| [[1. Ames/Joffrey Baratheon\|Joffrey Baratheon]] | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
-| [[1. Ames/Leonidas\|Leonidas]]                   | [[CARDS/Depth Psychology Theory/300\|300]]                                 | [[4. Corps/Ruler\|Ruler]] | \-                                                                  |
-| [[Mathias Barneville\|Mathias Barneville]]       | [[Dix Pour Cent\|Dix Pour Cent]]                                           | \-                           | \-                                                                  |
-| [[Mr Wilford\|Mr Wilford]]                       | [[4. Corps/Snowpiercer\|Snowpiercer]]                                      | \-                           | \-                                                                  |
-| [[1. Ames/Peter Pan\|Peter Pan]]                 | [[Peter Pan (1953)\|Peter Pan (1953)]]                                     | \-                           | \-                                                                  |
-| [[1. Ames/Ray Kroc\|Ray Kroc]]                   | [[CARDS/Depth Psychology Theory/The Founder\|The Founder]]                 | \-                           | \-                                                                  |
-| [[Silvermane\|Silvermane]]                       | [[Spider Noir\|Spider Noir]]                                               | \-                           | \-                                                                  |
-| [[The Mad King\|The Mad King]]                   | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
-| [[The Sultan\|The Sultan]]                       | [[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]                       | \-                           | \-                                                                  |
-| [[1. Ames/Theoden\|Theoden]]                     | [[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]             | \-                           | \-                                                                  |
-| [[Tom Scavo\|Tom Scavo]]                         | [[Desperate Housewives\|Desperate Housewives]]                             | \-                           | \-                                                                  |
-| [[1. Ames/Tommen Baratheon\|Tommen Baratheon]]   | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
-| [[1. Ames/Varys\|Varys]]                         | [[Game of Thrones\|Game of Thrones]]                                       | \-                           | \-                                                                  |
-
+> [!example]- [[Fictional Character\|Fictional Character]]
+>  - [[Adam Sutler\|Adam Sutler]] ([[V for Vendetta\|V for Vendetta]]) - Kills his people physically and spiritually, opposite of generative
+> - [[1. Ames/Benjamin Horne\|Benjamin Horne]] ([[SOURCES/Collectives/Twin Peaks\|Twin Peaks]]) - \-
+> - [[1. Ames/Boromir\|Boromir]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[Darkness (Legend)\|Darkness (Legend)]] ([[Legend (1985)\|Legend (1985)]]) - \-
+> - [[3. Esprit/Dwarves (LOTR)\|Dwarves (LOTR)]] ([[CARDS/Words & Expressions/The Lord of the Rings\|The Lord of the Rings]]) - \-
+> - [[Frank Wheeler\|Frank Wheeler]] ([[Revolutionary Road\|Revolutionary Road]]) - \-
+> - [[1. Ames/Gaston\|Gaston]] ([[2. Coeurs/Beauty and the Beast\|Beauty and the Beast]]) - \-
+> - [[Hicham Janowski\|Hicham Janowski]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
+> - [[1. Ames/Joffrey Baratheon\|Joffrey Baratheon]] ([[Game of Thrones\|Game of Thrones]]) - \-
+> - [[1. Ames/Leonidas\|Leonidas]] ([[CARDS/Depth Psychology Theory/300\|300]]) - \-
+> - [[Mathias Barneville\|Mathias Barneville]] ([[Dix Pour Cent\|Dix Pour Cent]]) - \-
+> - [[Mr Wilford\|Mr Wilford]] ([[4. Corps/Snowpiercer\|Snowpiercer]]) - \-
+> - [[1. Ames/Peter Pan\|Peter Pan]] ([[Peter Pan (1953)\|Peter Pan (1953)]]) - \-
+> - [[1. Ames/Ray Kroc\|Ray Kroc]] ([[CARDS/Depth Psychology Theory/The Founder\|The Founder]]) - \-
+> - [[Silvermane\|Silvermane]] ([[Spider Noir\|Spider Noir]]) - \-
+> - [[The Mad King\|The Mad King]] ([[Game of Thrones\|Game of Thrones]]) - \-
+> - [[The Sultan\|The Sultan]] ([[CARDS/Collectives/Aladdin (1991)\|Aladdin (1991)]]) - \-
+> - [[1. Ames/Theoden\|Theoden]] ([[2. Coeurs/Le Seigneur des Anneaux\|Le Seigneur des Anneaux]]) - \-
+> - [[1. Ames/Tommen Baratheon\|Tommen Baratheon]] ([[Game of Thrones\|Game of Thrones]]) - \-
+> 
 { .block-language-dataview}
 
-| Deities                 | Mythology                     | Why |
-| ----------------------- | ----------------------------- | --- |
-| [[Chronos\|Chronos]] | [[Greek Mythology\|Greek]] | \-  |
-
+> [!example]- [[God\|Deities]]
+>  - [[Chronos\|Chronos]] ([[Greek Mythology\|Greek]]) - \-
+> 
 { .block-language-dataview}
