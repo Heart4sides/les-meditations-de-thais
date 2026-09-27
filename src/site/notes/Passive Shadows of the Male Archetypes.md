@@ -1,5 +1,5 @@
 ---
-{"Category":["[[Shadow Male Archetype]]"],"language":"fr","dg-publish":true,"permalink":"/passive-shadows-of-the-male-archetypes/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Shadow Male Archetype]]"],"language":"fr"}}
+{"Category":["[[Shadow Male Archetype]]"],"language":"fr","dg-publish":true,"Abuse":"[[Covert Abuse|Covert]]","permalink":"/passive-shadows-of-the-male-archetypes/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Shadow Male Archetype]]"],"language":"fr","Abuse":"[[Covert Abuse|Covert]]"}}
 ---
 
 
@@ -7,8 +7,8 @@
 | ----------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------- |
 | [[The Denier\|The Denier]]       | claims ignorance to avoid responsibility                                            | [[The Magician\|Magician]] |
 | [[The Impotent\|The Impotent]]   | Numbs himself to life and excitement, perhaps to protect himself from its intensity | [[The Lover\|Lover]]       |
-| [[The Masochist\|The Masochist]] | \-                                                                                  | [[The Warrior\|Warrior]]   |
-| [[The Weakling\|The Weakling]]   | \-                                                                                  | [[The King\|King]]         |
+| [[The Masochist\|The Masochist]] | tries to be seen as a victim in order to receive special treatment                  | [[The Warrior\|Warrior]]   |
+| [[The Weakling\|The Weakling]]   | tries to reap all the benefits while having none of the responsibilities            | [[The King\|King]]         |
 
 { .block-language-dataview}
 
