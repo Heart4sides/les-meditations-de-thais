@@ -29,9 +29,3 @@ These people commonly act as \-...
 > 
 { .block-language-dataview}
 
-:::hide 
-# Notes
-They write about the man who was deeply abused, sidelined, or made to feel powerless during his childhood (receding into the Weakling state). When he finally ascends to an adult position of power—such as getting a corporate promotion or becoming a parent—his deep-seated Weakling insecurity surfaces as paranoid fear that people are out to subvert him. To compensate for this internal feeling of utter weakness, he swings aggressively into the **Tyrant pole**, becoming fiercely controlling, cruel, and dictatorial to mask his underlying fear.
-
-[[1](https://www.masculinity-movies.com/articles/king-warrior-magician-lover), [2](https://www.artofmanliness.com/character/self-improvement/the-four-archetypes-of-the-mature-masculine-the-king/), [3](https://www.strongfreemen.co.uk/the-shadows-of-the-king-archetype/)]
-:::
