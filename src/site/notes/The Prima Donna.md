@@ -3,8 +3,7 @@
 ---
 
 The Prima Donna is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[The Maiden\|The Maiden]]. 
-It's the archetype that Obsesses over her beauty, believing it is enough to get all she wants. 
-These people commonly act as \-... 
+It's the archetype that Obsesses over her beauty, believing it is enough to get all she wants.  
 
 > [!example]- [[Famous People\|Famous People]]
 >  - [[Queen Elizabeth I\|Queen Elizabeth I]] ([[4. Corps/Ruler\|Ruler]]) - After surviving smallpox, which left her skin deeply scarred, she became obsessed with a flawless white complexion. She used venetian ceruse (a toxic makeup made of white lead and vinegar) to coat her skin. As she aged, she demanded that all mirrors be removed from her palaces so she wouldn't have to look at her wrinkles, while forcing her court to constantly praise her "ageless" beauty.

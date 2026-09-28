@@ -4,7 +4,6 @@
 
 The Amazon is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[The Mother\|Mother]]. 
 It's the archetype that refuses to submit and makes unilateral decisions in order to maintain a fake image of perfection. 
-These people commonly act as \-... 
 
 > [!example]- [[Famous People\|Famous People]]
 >  - [[Agrippina the Younger\|Agrippina the Younger]] ([[4. Corps/Ruler\|Ruler]]) - Once Nero became Emperor, Agrippina expected absolute submission. She ruled right alongside him, demanding to sign state documents and pushing her unilateral authority over the senate. When Nero began trying to establish his own autonomy, she became hyper-critical, nagging, and threatening, even trying to push an alternative heir to undermine him. Her smothering, unyielding shadow control was so extreme that Nero ultimately concluded the only way to escape his mother's devouring grip was to have her assassinated.

@@ -4,7 +4,6 @@
 
 The Crone is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[The Matron\|Matron]]. 
 It's the archetype that Judges silently to avoid accountability. 
-These people commonly act as \-... 
 
 > [!example]- [[Famous People\|Famous People]]
 >  

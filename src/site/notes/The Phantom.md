@@ -4,7 +4,6 @@
 
 The Phantom is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[The Mother\|Mother]]. 
 It's the archetype that Feels unworthy and therefore rejects responsibilities and falls into a detached melancholy. 
-These people commonly act as \-... 
 
 > [!example]- [[Famous People\|Famous People]]
 >  - [[Queen Victoria\|Queen Victoria]] ([[4. Corps/Ruler\|Ruler]]) - Following the death of her husband, Prince Albert, Victoria slipped into a monumental, 40-year Phantom state. She retreated into permanent black mourning clothes, becoming completely silent, melancholic, and emotionally detached from the daily lives of her children. While she maintained a massive, rigid imperial fake support structure, her children frequently noted that she was completely cold and unavailable to them emotionally, viewing them with distant judgment rather than maternal warmth.

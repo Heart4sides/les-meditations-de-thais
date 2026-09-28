@@ -4,7 +4,6 @@
 
 The Cynic is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[The Consort\|Consort]]. 
 It's the archetype that believes she is undeserving of love and therefore distrusts everyone & tries to earn everything by herself. 
-These people commonly act as \-... 
 
 > [!example]- [[Famous People\|Famous People]]
 >  

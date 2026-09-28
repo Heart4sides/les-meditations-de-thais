@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/shadow-female-archetype/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"Category":["[[Feminine Archetypes|Female Archetypes]]"],"permalink":"/shadow-female-archetype/","dgPassFrontmatter":true,"dg-note-properties":{"Category":["[[Feminine Archetypes|Female Archetypes]]"]}}
 ---
 
 
-
-- [[The Amazon\|The Amazon]]:  refuses to submit and makes unilateral decisions in order to maintain a fake image of perfection
-- [[The Crone\|The Crone]]:  Judges silently to avoid accountability
-- [[The Cynic\|The Cynic]]:  believes she is undeserving of love and therefore distrusts everyone & tries to earn everything by herself
-- [[The Nymph\|The Nymph]]:  Avoids accountability and gratitude for the sake of having fun
-- [[The Peasant\|The Peasant]]:  Falls into apathy out of feeling like a hopeless case
-- [[The Phantom\|The Phantom]]:  Feels unworthy and therefore rejects responsibilities and falls into a detached melancholy
-- [[The Prima Donna\|The Prima Donna]]:  Obsesses over her beauty, believing it is enough to get all she wants
-- [[The Witch\|The Witch]]:  tries to make others worse instead of making herself better
+⬆️[[Feminine Archetypes\|Female Archetypes]] 
+| Gender Type                                             | Active Shadow                                                                                                                | Passive Shadow                                                                                                                       |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Shadow Female Archetype\|Shadow Female Archetype]] | \- : \-                                                                                                                      | \- : \-                                                                                                                              |
+| [[The Consort\|The Consort]]                         | [[The Nymph\|Nymph]] : Avoids accountability and gratitude for the sake of having fun                                     | [[The Cynic\|Cynic]] : believes she is undeserving of love and therefore distrusts everyone & tries to earn everything by herself |
+| [[The Maiden\|The Maiden]]                           | [[The Prima Donna\|Prima Donna]] : Obsesses over her beauty, believing it is enough to get all she wants                  | [[The Peasant\|Peasant]] : Falls into apathy out of feeling like a hopeless case                                                  |
+| [[The Matron\|The Matron]]                           | [[The Witch\|Witch]] : tries to make others worse instead of making herself better                                        | [[The Crone\|Crone]] : Judges silently to avoid accountability                                                                    |
+| [[The Mother\|The Mother]]                           | [[The Amazon\|Amazon]] : refuses to submit and makes unilateral decisions in order to maintain a fake image of perfection | [[The Phantom\|Phantom]] : Feels unworthy and therefore rejects responsibilities and falls into a detached melancholy             |
 
 { .block-language-dataview}

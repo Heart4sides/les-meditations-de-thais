@@ -3,8 +3,7 @@
 ---
 
 The Nymph is the [[Shadow Female Archetype\|Shadow Female Archetype]] of the [[The Consort\|Consort]]. 
-It's the archetype that Avoids accountability and gratitude for the sake of having fun. 
-These people commonly act as \-... 
+It's the archetype that Avoids accountability and gratitude for the sake of having fun.  
 
 > [!example]- [[Famous People\|Famous People]]
 >  
