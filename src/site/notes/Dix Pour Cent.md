@@ -14,6 +14,7 @@
 | [[Andrea Martel\|Andrea Martel]]           | [[The Maiden\|Maiden]]   | [[The Prima Donna\|Prima Donna]] |
 | [[Audrey Fleurot\|Audrey Fleurot]]         | [[The Mother\|Mother]]   | \-                                  |
 | [[Colette Brancillon\|Colette Brancillon]] | \-                          | \-                                  |
+| [[Elise Formin\|Elise Formin]]             | \-                          | \-                                  |
 | [[Gabriel Sarda\|Gabriel Sarda]]           | [[The Warrior\|Warrior]] | [[The Masochist\|Masochist]]     |
 | [[Hervé André-Jezak\|Hervé André-Jezak]]   | [[The Lover\|Lover]]     | [[The Impotent\|Impotent]]       |
 | [[Hicham Janowski\|Hicham Janowski]]       | [[The King\|King]]       | [[The Tyrant\|Tyrant]]           |
