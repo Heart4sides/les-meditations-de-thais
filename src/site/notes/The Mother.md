@@ -4,11 +4,12 @@
 
 
 
-| Category                                      | Active Shadow             | Passive Shadow              |
-| --------------------------------------------- | ------------------------- | --------------------------- |
-| [[Feminine Archetypes\|Female Archetypes]] | [[The Amazon\|Amazon]] | [[The Phantom\|Phantom]] |
+| Category                                      | Focus                                                  | Active Shadow             | Passive Shadow              |
+| --------------------------------------------- | ------------------------------------------------------ | ------------------------- | --------------------------- |
+| [[Feminine Archetypes\|Female Archetypes]] | [[CARDS/Nurture\|Nurture]], [[CARDS/Care\|Care]] | [[The Amazon\|Amazon]] | [[The Phantom\|Phantom]] |
 
 { .block-language-dataview}
+
 > [!example]- [[Connections\|Connections]]
 >  | Category                                                                                 |                                                                                              |
 > | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |

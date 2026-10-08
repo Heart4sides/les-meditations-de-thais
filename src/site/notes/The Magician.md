@@ -4,9 +4,9 @@
 
 
 
-| Category                                          | Active Shadow                           | Passive Shadow                |
-| ------------------------------------------------- | --------------------------------------- | ----------------------------- |
-| [[Masculine Archetypes\|Masculine Archetypes]] | [[The Manipulator\|The Manipulator]] | [[The Denier\|The Denier]] |
+| Category                                          | Focus                             | Active Shadow                           | Passive Shadow                |
+| ------------------------------------------------- | --------------------------------- | --------------------------------------- | ----------------------------- |
+| [[Masculine Archetypes\|Masculine Archetypes]] | [[CARDS/Knowledge\|Knowledge]] | [[The Manipulator\|The Manipulator]] | [[The Denier\|The Denier]] |
 
 { .block-language-dataview}
 

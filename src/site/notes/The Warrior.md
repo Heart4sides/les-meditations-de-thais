@@ -3,9 +3,9 @@
 ---
 
 
-| Category                                          | Active Shadow                 | Passive Shadow                      |
-| ------------------------------------------------- | ----------------------------- | ----------------------------------- |
-| [[Masculine Archetypes\|Masculine Archetypes]] | [[The Sadist\|The Sadist]] | [[The Masochist\|The Masochist]] |
+| Category                                          | Focus                     | Active Shadow                 | Passive Shadow                      |
+| ------------------------------------------------- | ------------------------- | ----------------------------- | ----------------------------------- |
+| [[Masculine Archetypes\|Masculine Archetypes]] | [[CARDS/Skill\|Skill]] | [[The Sadist\|The Sadist]] | [[The Masochist\|The Masochist]] |
 
 { .block-language-dataview}
 | Category                                                                                 |                                                                                    |

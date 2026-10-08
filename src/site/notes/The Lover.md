@@ -3,9 +3,9 @@
 ---
 
 
-| Category                                          | Active Shadow                 | Passive Shadow                    |
-| ------------------------------------------------- | ----------------------------- | --------------------------------- |
-| [[Masculine Archetypes\|Masculine Archetypes]] | [[The Addict\|The Addict]] | [[The Impotent\|The Impotent]] |
+| Category                                          | Focus                               | Active Shadow                 | Passive Shadow                    |
+| ------------------------------------------------- | ----------------------------------- | ----------------------------- | --------------------------------- |
+| [[Masculine Archetypes\|Masculine Archetypes]] | [[CARDS/Friendship\|Friendship]] | [[The Addict\|The Addict]] | [[The Impotent\|The Impotent]] |
 
 { .block-language-dataview}
 

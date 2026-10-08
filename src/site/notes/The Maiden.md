@@ -10,15 +10,8 @@
 
 { .block-language-dataview}
 > [!example]- [[Connections\|Connections]]
->  | Category                                                                                 |                                                                                              |
-> | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-> | 🎭 [[ATLAS/Attitude\|Attitude]]                                                       | 🧔 [[CARDS/Parent\|Parent]]                                                               |
-> | 🧠 [[Cognitive Sense\|Cognitive Sense]]                                               | 🤔 [[CARDS/Thinking\|Thinking]]                                                           |
-> | ❤️ [[ATLAS/Love Language\|Love Language]]                                             | 👂, 🗣️ [[CARDS/Listen\|Listen]], [[CARDS/Words of Affirmation\|Words of Affirmation]] |
-> | 🟰 [[Mathematical Operation\|Mathematical Operation]]                                 | ➗ [[CARDS/Words & Expressions/Division\|Division]]                                        |
-> | 🃏 [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 🪄 [[CARDS/Depth Psychology Theory/Wands\|Wands]]                                         |
-> | 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | 🍂 [[Autumn\|Autumn]]                                                                     |
-> | 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | 🧠 [[CARDS/Depth Psychology Theory/Mind Temple\|Mind]]                                    |
+>  | Category |    |
+> | -------- | -- |
 > 
 { .block-language-dataview}
 

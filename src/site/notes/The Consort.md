@@ -4,11 +4,12 @@
 
 
 
-| Category                                      | Active Shadow           | Passive Shadow          |
-| --------------------------------------------- | ----------------------- | ----------------------- |
-| [[Feminine Archetypes\|Female Archetypes]] | [[The Nymph\|Nymph]] | [[The Cynic\|Cynic]] |
+| Category                                      | Focus                    | Active Shadow           | Passive Shadow          |
+| --------------------------------------------- | ------------------------ | ----------------------- | ----------------------- |
+| [[Feminine Archetypes\|Female Archetypes]] | [[Enjoyment\|Enjoyment]] | [[The Nymph\|Nymph]] | [[The Cynic\|Cynic]] |
 
 { .block-language-dataview}
+
 > [!example]- [[Connections\|Connections]]
 >  | Category                                                                                 |                                                                                              |
 > | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
