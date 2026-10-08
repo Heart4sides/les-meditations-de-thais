@@ -10,6 +10,7 @@
 | Philosopher | Si-Ne<br>Faithful<br>Micro<br>Expressive |                                          | Compatible<br>Soul / Mind Temple           | Fi-Te<br>Cooperative                       |
 | Templar     | Ti-Fe <br>Utilitarian                    | Compatible<br>Soul / Mind Temple         |                                            | Ni-Se<br>Doubtful<br>Macro<br>Performative |
 | Wayfarer    | Compatible<br>Heart / Body Temple        | Fi-Te<br>Cooperative                     | Ni-Se<br>Doubtful<br>Macro<br>Performative |                                            |
+
 | Quadra                                                        | Types                                                       | Virtue                                                                    | Vice                                                                          | Fear                          |
 | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------- |
 | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]       | [[SFJ\|SFJ]], [[NTP\|NTP]]                                  | [[4. Corps/Justice\|Justice]]                                          | [[CARDS/Depth Psychology Theory/Injustice\|Injustice]]                     | [[Unfairness\|Unfairness]] |
