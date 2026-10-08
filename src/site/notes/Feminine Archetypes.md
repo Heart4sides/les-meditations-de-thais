@@ -4,13 +4,12 @@
 
 ⬆️[[Gender Archetypes\|Gender Archetypes]] 
 Sources : [[1. Ames/CS Joseph\|CS Joseph]] 
-| Archetype                                               | Focus                                                  | Active Shadow                       | Passive Shadow              |
-| ------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------- | --------------------------- |
-| [[Shadow Female Archetype\|Shadow Female Archetype]] | \-                                                     | \-                                  | \-                          |
-| [[The Consort\|The Consort]]                         | [[Enjoyment\|Enjoyment]]                               | [[The Nymph\|Nymph]]             | [[The Cynic\|Cynic]]     |
-| [[The Maiden\|The Maiden]]                           | [[CARDS/Health\|Health]], [[Beauty\|Beauty]]     | [[The Prima Donna\|Prima Donna]] | [[The Peasant\|Peasant]] |
-| [[The Matron\|The Matron]]                           | [[CARDS/Utility\|Utility]]                          | [[The Witch\|Witch]]             | [[The Crone\|Crone]]     |
-| [[The Mother\|The Mother]]                           | [[CARDS/Nurture\|Nurture]], [[CARDS/Care\|Care]] | [[The Amazon\|Amazon]]           | [[The Phantom\|Phantom]] |
+| Archetype                       | Focus                                                  | Active Shadow                       | Passive Shadow              |
+| ------------------------------- | ------------------------------------------------------ | ----------------------------------- | --------------------------- |
+| [[The Consort\|The Consort]] | [[Enjoyment\|Enjoyment]]                               | [[The Nymph\|Nymph]]             | [[The Cynic\|Cynic]]     |
+| [[The Maiden\|The Maiden]]   | [[CARDS/Health\|Health]], [[Beauty\|Beauty]]     | [[The Prima Donna\|Prima Donna]] | [[The Peasant\|Peasant]] |
+| [[The Matron\|The Matron]]   | [[CARDS/Utility\|Utility]]                          | [[The Witch\|Witch]]             | [[The Crone\|Crone]]     |
+| [[The Mother\|The Mother]]   | [[CARDS/Nurture\|Nurture]], [[CARDS/Care\|Care]] | [[The Amazon\|Amazon]]           | [[The Phantom\|Phantom]] |
 
 { .block-language-dataview}
 
