@@ -5,7 +5,7 @@
 
 # [[Gender Archetypes\|Gender Archetypes]] 
 > [!example]- [[Masculine Archetypes\|Masculine Archetypes]]
->  | File                              | Type                                        | Focus                               | Order                       | Less / More              | M                                       | Body Fat              |
+>  | File                              | Type                                        | Focus                               | Order                       | Less / More              | Spirit / Matter                         | Body Fat              |
 > | --------------------------------- | ------------------------------------------- | ----------------------------------- | --------------------------- | ------------------------ | --------------------------------------- | --------------------- |
 > | [[The King\|The King]]         | [[CARDS/Depth Psychology Theory/NJ\|NJ]] | [[Wealth\|Wealth]]                  | [[CARDS/Leader\|Leader]] | [[Luxurious\|Luxurious]] | [[CARDS/Materialism\|Materialistic]] | [[Skinny\|Skinny]] |
 > | [[The Lover\|The Lover]]       | [[SJ\|SJ]]                               | [[CARDS/Friendship\|Friendship]] | [[Follower\|Follower]]   | [[Luxurious\|Luxurious]] | [[CARDS/Materialism\|Materialistic]] | [[Skinny\|Skinny]] |
@@ -24,7 +24,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- [[Passive Shadows of the Masculine Archetypes\|Passive Shadows of the Masculine Archetypes]]
+> [!example]- [[Passive Shadows of Masculine Archetypes\|Passive Shadows of Masculine Archetypes]]
 >
 
 > [!example]- [[Feminine Archetypes\|Feminine Archetypes]] 
@@ -37,7 +37,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- Active Shadows
+> [!example]- Active Shadows of Feminine Archetypes
 >  | Shadow                                                              | Focus                             | Traits                                                                                                                                                                                                                                                                                                                                                                                                              |
 > | ------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[The Amazon\|The Amazon]] ([[The Mother\|Mother]])           | [[CARDS/Authority\|Authority]] | [[Quarrelsome\|Quarrelsome]], [[Unsubmissive\|Unsubmissive]], [[Unilateral Decisions\|Unilateral Decisions]], [[Militant\|Militant]], [[Feigning perfection\|Feigning perfection]], [[Nagging\|Nagging]], [[Disrespectful\|Disrespectful]], [[Emasculating\|Emasculating]], [[Monopolizes narratives\|Monopolizes narratives]]                                                                                   |
@@ -47,7 +47,7 @@
 > 
 { .block-language-dataview}
 
-> [!example]- Passive Shadows
+> [!example]- Passive Shadows of Feminine Archetypes
 >  | File                            | Focus                                                   | Traits                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 > | ------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[The Crone\|The Crone]]     | [[CARDS/Hypocrisy\|Hypocrisy]]                       | [[Knowledge hoarding\|Knowledge hoarding]], [[Rude\|Rude]], [[Unpleasant\|Unpleasant]], [[Reclusive\|Reclusive]], [[Lie through Omission\|Lie through Omission]], [[CARDS/hiding\|hiding]], [[Avoiding accountability\|Avoiding accountability]], [[passive\|passive]], [[Silent judger\|Silent judger]], [[Complicit\|Complicit]], [[Reactive\|Reactive]], [[Resentful\|Resentful]], [[Blame shifting\|Blame shifting]], [[Bare minimum\|Bare minimum]] |
@@ -117,12 +117,12 @@
 { .block-language-dataview}
 
 > [!example]- Body & Heart 🆚 Soul & Mind
->  | T                          | Action                       | Pain                                 | Flexibility                         | Forgiveness                       | Personalization                       |
-> | -------------------------- | ---------------------------- | ------------------------------------ | ----------------------------------- | --------------------------------- | ------------------------------------- |
-> | [[Body Temple\|Body]]   | [[Building Types\|Build]] | [[Use the Pain Types\|Use]]       | [[Inflexible Types\|Inflexible]] | [[Vengeful Types\|Vengeful]]   | [[Personal Types\|Personal]]       |
-> | [[Heart Temple\|Heart]] | [[Building Types\|Build]] | [[Use the Pain Types\|Use]]       | [[Inflexible Types\|Inflexible]] | [[Vengeful Types\|Vengeful]]   | [[Personal Types\|Personal Types]] |
-> | [[Mind Temple\|Mind]]   | [[Testing Types\|Test]]   | [[Soothe the Pain Types\|Soothe]] | [[Flexible Types\|Flexible]]     | [[Forgiving Types\|Forgiving]] | [[Impersonal Types\|Impersonal]]   |
-> | [[Soul Temple\|Soul]]   | [[Testing Types\|Test]]   | [[Soothe the Pain Types\|Soothe]] | [[Flexible Types\|Flexible]]     | [[Forgiving Types\|Forgiving]] | [[Impersonal Types\|Impersonal]]   |
+>  | T                          | Action                       | Pain                                 | Flexibility                         | Forgiveness                       | Personalization                     |
+> | -------------------------- | ---------------------------- | ------------------------------------ | ----------------------------------- | --------------------------------- | ----------------------------------- |
+> | [[Body Temple\|Body]]   | [[Building Types\|Build]] | [[Use the Pain Types\|Use]]       | [[Inflexible Types\|Inflexible]] | [[Vengeful Types\|Vengeful]]   | [[Personal Types\|Personal]]     |
+> | [[Heart Temple\|Heart]] | [[Building Types\|Build]] | [[Use the Pain Types\|Use]]       | [[Inflexible Types\|Inflexible]] | [[Vengeful Types\|Vengeful]]   | [[Personal Types\|Personal]]     |
+> | [[Mind Temple\|Mind]]   | [[Testing Types\|Test]]   | [[Soothe the Pain Types\|Soothe]] | [[Flexible Types\|Flexible]]     | [[Forgiving Types\|Forgiving]] | [[Impersonal Types\|Impersonal]] |
+> | [[Soul Temple\|Soul]]   | [[Testing Types\|Test]]   | [[Soothe the Pain Types\|Soothe]] | [[Flexible Types\|Flexible]]     | [[Forgiving Types\|Forgiving]] | [[Impersonal Types\|Impersonal]] |
 > 
 { .block-language-dataview}
 
@@ -136,24 +136,7 @@
 > 
 { .block-language-dataview}
 
-
-## Temple Attitudes Model
-
-> [!example]- Definitions
->  | Attitude                                     | Def                                                              |
-> | -------------------------------------------- | ---------------------------------------------------------------- |
-> | [[Blind Origin\|Blind to]]                | Don't expect themselves to be responsible for it                 |
-> | [[Compensation Origin\|Compensating]]     | Don't expect others to be responsible for it                     |
-> | [[Enforcement Origin\|Enforcing]]         | Enforce it when notice decay                                     |
-> | [[CARDS/Learning\|Learning]]              | Expect themselves to be responsible                              |
-> | [[Over-indexing Origin\|Over-indexing]]   | High demand of the self, [[Compulsive\|Compulsive]]              |
-> | [[Reliance Origin\|Reliant with]]         | Don't pay attention to it                                        |
-> | [[Teaching Origin\|Teaching]]             | Expect others to be responsible                                  |
-> | [[Under-indexing Origin\|Under-indexing]] | Assume they already do it well, [[lackadaisical\|lackadaisical]] |
-> 
-{ .block-language-dataview}
-
-> [!example]- Attitudes
+> [!example]- Temple Attitudes
 >  | Attitude                                     | Soul                                                     | Heart                                                    | Mind                                                     | Body                                                     |
 > | -------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
 > | [[Blind Origin\|Blind to]]                | [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] | [[CARDS/Function/Ti\|Ti]]                             | [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] |
@@ -164,5 +147,19 @@
 > | [[Reliance Origin\|Reliant with]]         | [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] | [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] | [[CARDS/Introverted Sensing\|Si]]                     | [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] |
 > | [[Teaching Origin\|Teaching]]             | [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] | [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] | [[CARDS/Function/Ti\|Ti]]                             | [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] |
 > | [[Under-indexing Origin\|Under-indexing]] | [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] | [[CARDS/Introverted Sensing\|Si]]                     | [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] |
+> 
+{ .block-language-dataview}
+
+> [!example]- Temple Attitudes Definitions
+>  | Attitude                                     | Def                                                              |
+> | -------------------------------------------- | ---------------------------------------------------------------- |
+> | [[Blind Origin\|Blind to]]                | Don't expect themselves to be responsible for it                 |
+> | [[Compensation Origin\|Compensating]]     | Don't expect others to be responsible for it                     |
+> | [[Enforcement Origin\|Enforcing]]         | Enforce it when notice decay                                     |
+> | [[CARDS/Learning\|Learning]]              | Expect themselves to be responsible                              |
+> | [[Over-indexing Origin\|Over-indexing]]   | High demand of the self, [[Compulsive\|Compulsive]]              |
+> | [[Reliance Origin\|Reliant with]]         | Don't pay attention to it                                        |
+> | [[Teaching Origin\|Teaching]]             | Expect others to be responsible                                  |
+> | [[Under-indexing Origin\|Under-indexing]] | Assume they already do it well, [[lackadaisical\|lackadaisical]] |
 > 
 { .block-language-dataview}
