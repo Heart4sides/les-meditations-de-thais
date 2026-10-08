@@ -28,6 +28,7 @@
 | [[4. Corps/Heart of darkness\|Heart of darkness]]              | \-                                          |
 | [[How to slay a wizard\|How to slay a wizard]]                 | \-                                          |
 | [[King Warriors Magician Lover\|King Warriors Magician Lover]] | [[Robert Moore\|Robert Moore]]           |
+| [[Sage_Huntress_Lover_Queen\|Sage_Huntress_Lover_Queen]]       | \-                                          |
 | [[Slaying Your Fear\|Slaying Your Fear]]                       | [[Adam Lane Smith\|Adam Lane Smith]]     |
 | [[4. Corps/The Mystery Method\|The Mystery Method]]            | [[Mystery (Author)\|Mystery (Author)]]   |
 | [[The righteous mind\|The righteous mind]]                     | \-                                          |

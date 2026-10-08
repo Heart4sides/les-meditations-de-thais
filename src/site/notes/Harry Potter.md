@@ -39,6 +39,7 @@
 | [[1. Ames/Neville Longbottom\|Neville Longbottom]]                                 | [[The Magician\|Magician]] | \-                                  |
 | [[1. Ames/olivander\|olivander]]                                                   | \-                            | \-                                  |
 | [[Peter Pettigrew\|Peter Pettigrew]]                                               | \-                            | [[The Weakling\|Weakling]]       |
+| [[Petunia Dursley\|Petunia Dursley]]                                               | \-                            | [[The Crone\|Crone]]             |
 | [[2. Coeurs/Poufsouffle\|Poufsouffle]]                                             | \-                            | \-                                  |
 | [[1. Ames/Ronald Weasley\|Ronald Weasley]]                                         | \-                            | \-                                  |
 | [[2. Coeurs/Serdaigle\|Serdaigle]]                                                 | \-                            | \-                                  |

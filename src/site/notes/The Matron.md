@@ -4,9 +4,9 @@
 
 
 
-| Category                                      | Active Shadow           | Passive Shadow          |
-| --------------------------------------------- | ----------------------- | ----------------------- |
-| [[Feminine Archetypes\|Female Archetypes]] | [[The Witch\|Witch]] | [[The Crone\|Crone]] |
+| Category                                      | Focus                         | Active Shadow           | Passive Shadow          |
+| --------------------------------------------- | ----------------------------- | ----------------------- | ----------------------- |
+| [[Feminine Archetypes\|Female Archetypes]] | [[CARDS/Utility\|Utility]] | [[The Witch\|Witch]] | [[The Crone\|Crone]] |
 
 { .block-language-dataview}
 > [!example]- [[Connections\|Connections]]

@@ -76,6 +76,7 @@
 > - [[Sherlock Holmes (Cumberbatch)\|Sherlock Holmes (Cumberbatch)]] ([[CARDS/Depth Psychology Theory/Sherlock\|Sherlock]]) - \-
 > - [[CARDS/Members/Smaug\|Smaug]] ([[SOURCES/Collectives/The Hobbit\|The Hobbit]]) - \-
 > - [[1. Ames/The Joker\|The Joker]] ([[1. Ames/The Dark Knight\|The Dark Knight]]) - \-
+> - [[The Mask (Character)\|The Mask (Character)]] ([[The Mask\|The Mask]]) - \-
 > - [[1. Ames/Tyler Durden\|Tyler Durden]] ([[Fight Club\|Fight Club]]) - \-
 > - [[1. Ames/Tyrion Lannister\|Tyrion Lannister]] ([[Game of Thrones\|Game of Thrones]]) - \-
 > - [[1. Ames/V.M. Varga\|V.M. Varga]] ([[2. Coeurs/Fargo\|Fargo]]) - \-

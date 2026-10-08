@@ -1,5 +1,5 @@
 ---
-{"Author":["[[J.R.R. Tolkien]]"],"Category":["[[Movies]]"],"dg-publish":true,"permalink":"/the-lord-of-the-rings/","dgPassFrontmatter":true,"dg-note-properties":{"Author":["[[1. Ames/J.R.R. Tolkien]]"],"Category":["[[CARDS/Depth Psychology Theory/Movies]]"]}}
+{"Author":["[[J.R.R. Tolkien]]"],"Category":["[[Movies]]"],"dg-publish":true,"GArchetype":["[[The Lover|Lover]]"],"Topic":["[[Friendship]]","[[Hope]]"],"permalink":"/the-lord-of-the-rings/","dgPassFrontmatter":true,"dg-note-properties":{"Author":["[[1. Ames/J.R.R. Tolkien]]"],"Category":["[[CARDS/Depth Psychology Theory/Movies]]"],"GArchetype":["[[The Lover|Lover]]"],"Topic":["[[CARDS/Friendship]]","[[CARDS/Hope]]"]}}
 ---
 
 > [!info]- [Wikipedia](https://en.wikipedia.org/wiki/Spider-Noir)
