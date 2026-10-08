@@ -17,7 +17,7 @@
 | 🃏 [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 🗡️ [[CARDS/Depth Psychology Theory/Sword\|Sword]]                              |
 | 🛐 [[Religious Order\|Religious Order]]                                               | \-, \- [[Jesuits\|Jesuits]], [[Templars\|Templars]]                          |
 | 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | ❄️ [[Winter\|Winter]]                                                           |
-| 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | 🧍 [[CARDS/Body Temple\|Body]]                                                  |
+| 🙏 [[Temple\|Temple]]                                                                 | 🧍 [[CARDS/Body Temple\|Body]]                                                  |
 
 { .block-language-dataview}
 
@@ -32,7 +32,7 @@
 > | 🛐 [[Religious Order\|Religious Order]]                                               | \-, \- [[Jesuits\|Jesuits]], [[Templars\|Templars]]                          |
 > | 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | ❄️ [[Winter\|Winter]]                                                           |
 > | \- [[Templars\|Templars]]                                                             |  Protected the travellers                                                          |
-> | 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | 🧍 [[CARDS/Body Temple\|Body]]                                                  |
+> | 🙏 [[Temple\|Temple]]                                                                 | 🧍 [[CARDS/Body Temple\|Body]]                                                  |
 > 
 { .block-language-dataview}
 

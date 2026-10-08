@@ -19,7 +19,7 @@
 > | 🟰 [[Mathematical Operation\|Mathematical Operation]]                                 | ➗ [[CARDS/Words & Expressions/Division\|Division]]                                        |
 > | 🃏 [[CARDS/Depth Psychology Theory/Playing Card Suit\|Playing Card Suit]]             | 🪄 [[CARDS/Depth Psychology Theory/Wands\|Wands]]                                         |
 > | 📆 [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]] | 🍂 [[Autumn\|Autumn]]                                                                     |
-> | 🙏 [[ATLAS/4 Sides/Temple\|Temple]]                                                   | 🧠 [[CARDS/Depth Psychology Theory/Mind Temple\|Mind]]                                    |
+> | 🙏 [[Temple\|Temple]]                                                                 | 🧠 [[Mind Temple\|Mind]]                                                                  |
 > 
 { .block-language-dataview}
 

@@ -6,6 +6,7 @@
 | Psychology                                  |
 | ------------------------------------------- |
 | [[Gender Archetypes\|Gender Archetypes]] |
+| [[Temple\|Temple]]                       |
 
 { .block-language-dataview}
 
