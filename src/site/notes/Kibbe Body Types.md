@@ -33,8 +33,18 @@ What they're most often classified as
 { .block-language-dataview}
 
 
+| File                                            | Role                        | Gender Type                   | Kibbe                       |
+| ----------------------------------------------- | --------------------------- | ----------------------------- | --------------------------- |
+| [[1. Ames/Jack Black\|Jack Black]]           | [[ESFP UDPM\|ESFP UDPM]] | [[The Warrior\|Warrior]]   | [[Endomorph\|Endomorph]] |
+| [[1. Ames/CS Joseph\|CS Joseph]]             | [[ENTP UDJM\|ENTP UDJM]] | [[The Magician\|Magician]] | [[Mesomorph\|Mesomorph]] |
+| [[1. Ames/Jordan Peterson\|Jordan Peterson]] | [[INTP UDJM\|INTP UDJM]] | [[The Magician\|Magician]] | [[Ectomorph\|Ectomorph]] |
+| [[1. Ames/Pedro Pascal\|Pedro Pascal]]       | [[ISTJ SDPM\|ISTJ SDPM]] | [[The Lover\|Lover]]       | [[Mesomorph\|Mesomorph]] |
+| [[1. Ames/Beyonce\|Beyonce]]                 | [[ISFJ SDJF\|ISFJ SDJF]] | [[The Matron\|Matron]]     | [[Endomorph\|Endomorph]] |
+
+{ .block-language-dataview}
+
+
 
 - Comparisons 
 	- [Kibbe Body Types: Flamboyant N...](https://myauthenticstyle.com/kibbe-body-types-flamboyant-natural-vs-soft-dramatic-gigi-hadid-vs-bella-hadid/) 
 	- 490 Kibbe Body Type Comparisons ideas | celebrities, celebs, fashion https://share.google/gG1LrGsNj4M30vGQg
-![[v4-460px-Kibbe-Face-Types-Summary-Version-2.jpg\|v4-460px-Kibbe-Face-Types-Summary-Version-2.jpg]]
