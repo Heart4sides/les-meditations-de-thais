@@ -1,23 +1,14 @@
 ---
-{"dg-home":true,"dg-publish":true,"language":"fr","permalink":"/les-meditations-de-thais/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"language":"fr"}}
+{"dg-home":true,"language":"fr","dg-publish":true,"permalink":"/les-meditations-de-thais/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"language":"fr"}}
 ---
 
 
-| Psychology                                  |
-| ------------------------------------------- |
-| [[Gender Archetypes\|Gender Archetypes]] |
-| [[Temple\|Temple]]                       |
+| Psychology |
+| ---------- |
 
 { .block-language-dataview}
 
-| Lists                                              |
-| -------------------------------------------------- |
-| 💬 [[Adage\|Adage]]                             |
-| 😎 [[Famous People\|Famous People]]             |
-| 🎭 [[Fictional Character\|Fictional Character]] |
-| ⚡ [[God\|God]]                                  |
-| 📚 [[Reading List\|Reading List]]               |
-| 🎬 [[Watch List\|Watch List]]                   |
-| ▶️ [[Youtube Playlists\|Youtube Playlists]]     |
+| Lists |
+| ----- |
 
 { .block-language-dataview}
